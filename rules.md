@@ -9,6 +9,7 @@
     * [**3.2. Judgements**](#judgements)
     * [**3.3. Appeals**](#appeals)
     * [**3.4. Punitive action**](#punitive-action)
+* [**4. Timezones**](#timezones)
 
 ## <a name='precedence'/> Precedence
 
@@ -68,4 +69,8 @@ If a player is judged to have violated the rules, The Justice must determine wha
 - An award of one strike.
 - Stripping the player of any office held.
 In addition, a player that has punitive action taken against them may not assume any office for 24 hours after punitive action is taken.
+
+## <a name='timezones'/> Timezones
+
+Unless otherwise specified, all times and dates are specified with respect to UTC.
 
