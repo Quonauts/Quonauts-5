@@ -1,6 +1,16 @@
 {
 	"channel": 607966106891583518,
 	"rules": {
+		"accuracy": {
+			"tag": "accuracy",
+			"title": "Accuracy",
+			"content": "This document is not guaranteed to always be up-to-date as the game rules are modified, however it is the duty of all players to keep this document accurate as game rules are modified. Where this document disagrees with the game rules, players must follow the game rules as they legally are, rather than their description in this document.",
+			"parent_tag": "meta-rules",
+			"child_tags": [],
+			"message_ids": [
+				653366499297460247
+			]
+		},
 		"appeals": {
 			"tag": "appeals",
 			"title": "Appeals",
@@ -8,17 +18,17 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				653356390777094165
+				653366528208535582
 			]
 		},
 		"disallowed-by-default": {
 			"tag": "disallowed-by-default",
 			"title": "Disallowed by default",
 			"content": "Unless explicitly stated in the rules, all game actions are forbidden.",
-			"parent_tag": "root",
+			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				653356367003779118
+				653366502245793822
 			]
 		},
 		"errors": {
@@ -28,7 +38,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				653356368484368424
+				653366526505648146
 			]
 		},
 		"judgements": {
@@ -38,17 +48,33 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				653356369302519860
+				653366527449366607
+			]
+		},
+		"meta-rules": {
+			"tag": "meta-rules",
+			"title": "Meta rules",
+			"content": "This section details how the rules are to be applied to the game.",
+			"parent_tag": "root",
+			"child_tags": [
+				"accuracy",
+				"precedence",
+				"disallowed-by-default",
+				"rule-violations",
+				"timezones"
+			],
+			"message_ids": [
+				653366498357936158
 			]
 		},
 		"precedence": {
 			"tag": "precedence",
 			"title": "Precedence",
 			"content": "In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:\n1. If one clause has a more limited scope than another, then the clause with the more limited scope takes precedence.\n2. If one clause is negative while the other is positive, then the negative clause takes precedence.\n3. The clause which appears last in the rules takes precedence.",
-			"parent_tag": "root",
+			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				653356366274101248
+				653366501184765962
 			]
 		},
 		"punitive-action": {
@@ -58,7 +84,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				653356391926595584
+				653366528565051414
 			]
 		},
 		"root": {
@@ -67,20 +93,17 @@
 			"content": null,
 			"parent_tag": null,
 			"child_tags": [
-				"precedence",
-				"disallowed-by-default",
-				"rule-violations",
-				"timezones"
+				"meta-rules"
 			],
 			"message_ids": [
-				653356394556162049
+				653366551281664001
 			]
 		},
 		"rule-violations": {
 			"tag": "rule-violations",
 			"title": "Rule violations",
 			"content": "A rule violation is a game action that is not permitted by the rules.\n\nResolving a rule violation is the process of reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.",
-			"parent_tag": "root",
+			"parent_tag": "meta-rules",
 			"child_tags": [
 				"errors",
 				"judgements",
@@ -88,17 +111,17 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				653356367771336705
+				653366504355790850
 			]
 		},
 		"timezones": {
 			"tag": "timezones",
 			"title": "Timezones",
 			"content": "Unless otherwise specified, all times and dates are specified with respect to UTC.",
-			"parent_tag": "root",
+			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				653356393172303882
+				653366529642987530
 			]
 		}
 	}
