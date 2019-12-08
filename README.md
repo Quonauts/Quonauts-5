@@ -1,6 +1,6 @@
-# Quonauts 4
+# Quonauts 5
 
-This is the GitHub repository for the Quonauts 4 Nomic game. This
+This is the GitHub repository for the Quonauts 5 Nomic game. This
 repository contains the entire game state, automatically updated at regular
 intervals; however, it may take up to an hour before it is updated. Do NOT
 manually commit to this repository; it should be managed entirely by
@@ -12,4 +12,4 @@ Below are links to the current game rules, proposals, and logs.
 * [**Proposals**](proposals.md)
 * [**Logs**](logs)
 
-_Last updated UTC 2019-12-08 21:08_
+_Last updated UTC 2019-12-08 21:30_
