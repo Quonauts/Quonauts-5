@@ -2,7 +2,5 @@
 
 <a name='1'/>
 
-## #1
-
-Remove all rules which can give certain players more power than others.
+## #1 — Deleted
 
