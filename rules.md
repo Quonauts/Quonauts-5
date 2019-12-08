@@ -2,20 +2,16 @@
 
 ## Table of contents
 
-* [**1. Timezones**](#timezones)
-* [**2. Meta rules**](#meta-rules)
-    * [**2.1. Accuracy**](#accuracy)
-    * [**2.2. Precedence**](#precedence)
-    * [**2.3. Disallowed by default**](#disallowed-by-default)
-    * [**2.4. Rule violations**](#rule-violations)
-        * [**2.4.1. Errors**](#errors)
-        * [**2.4.2. Judgements**](#judgements)
-        * [**2.4.3. Appeals**](#appeals)
-        * [**2.4.4. Punitive action**](#punitive-action)
-
-## <a name='timezones'/> Timezones
-
-Unless otherwise specified, all times and dates are specified with respect to UTC.
+* [**1. Meta rules**](#meta-rules)
+    * [**1.1. Accuracy**](#accuracy)
+    * [**1.2. Precedence**](#precedence)
+    * [**1.3. Disallowed by default**](#disallowed-by-default)
+    * [**1.4. Rule violations**](#rule-violations)
+        * [**1.4.1. Errors**](#errors)
+        * [**1.4.2. Judgements**](#judgements)
+        * [**1.4.3. Appeals**](#appeals)
+        * [**1.4.4. Punitive action**](#punitive-action)
+    * [**1.5. Timezones**](#timezones)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -83,4 +79,8 @@ If a player is judged to have violated the rules, The Justice must determine wha
 - An award of one strike.
 - Stripping the player of any office held.
 In addition, a player that has punitive action taken against them may not assume any office for 24 hours after punitive action is taken.
+
+### <a name='timezones'/> Timezones
+
+Unless otherwise specified, all times and dates are specified with respect to UTC.
 
