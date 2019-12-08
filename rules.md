@@ -6,6 +6,7 @@
 * [**2. Disallowed by default**](#disallowed-by-default)
 * [**3. Rule violations**](#rule-violations)
     * [**3.1. Errors**](#errors)
+    * [**3.2. Judgements**](#judgements)
 
 ## <a name='precedence'/> Precedence
 
@@ -29,4 +30,14 @@ Resolving a rule violation is the process of reversing the immediate effects of 
 An error is a rule violation made by a player either mistakenly or through ignorance. If a player causes a rule violation and is able to resolve the error, they may do so.
 
 If a player resolves an error within 24 hours of making that error, and the resolution of the error leaves the game state in such fashion that it is as if the error had never occurred, no punitive action can be taken against the player.
+
+### <a name='judgements'/> Judgements
+
+Judgements are rulings made by an official known as The Arbiter.
+
+If any player ("the accusing player") believes that another player (hereby "the accused player") has violated the rules, then the accusing player may call upon The Arbiter to make a judgement. The accusing player must describe which sections or clauses of the rules were violated and what illegal game action was taken by the accused player. The Arbiter must make a judgement on whether a rule violation took place.
+
+If The Arbiter determines that a rule violation took place, the rule violation must be resolved, if it has not already.
+
+Whenever the Arbiter makes a judgement they may spend an action. If they do, they gain three points.
 
