@@ -10,6 +10,7 @@
     * [**3.3. Appeals**](#appeals)
     * [**3.4. Punitive action**](#punitive-action)
 * [**4. Timezones**](#timezones)
+* [**5. Meta rules**](#meta-rules)
 
 ## <a name='precedence'/> Precedence
 
@@ -73,4 +74,8 @@ In addition, a player that has punitive action taken against them may not assume
 ## <a name='timezones'/> Timezones
 
 Unless otherwise specified, all times and dates are specified with respect to UTC.
+
+## <a name='meta-rules'/> Meta rules
+
+This section details how the rules are to be applied to the game.
 
