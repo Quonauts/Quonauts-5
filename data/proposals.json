@@ -1,17 +1,4 @@
 {
 	"channel": 607966057981935710,
-	"proposals": [
-		{
-			"n": 1,
-			"author": 160279332454006795,
-			"content": "Remove all rules which can give certain players more power than others.",
-			"status": "deleted",
-			"message_id": 653363004636659741,
-			"votes": {
-				"160279332454006795": 1,
-				"260525358217035776": 1
-			},
-			"timestamp": 1575844279
-		}
-	]
+	"proposals": []
 }
