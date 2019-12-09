@@ -16,12 +16,3 @@ all sectors is "space." X and Y can be any real numbers.
 
 ## #2 — Deleted
 
-<a name='3'/>
-
-## #3
-
-rule 2
-```A "sector" is any ordered combination of
-two things, x and y, written as "sector <x>, <y>". The set of
-all sectors is "space." X and Y can be anything.```
-
