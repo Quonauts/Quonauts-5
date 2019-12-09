@@ -14,10 +14,5 @@ all sectors is "space." X and Y can be any real numbers.
 
 <a name='2'/>
 
-## #2
-
-rule 2
-```A "sector" is any combination of
-two things, x and y, written as "sector <x>, <y>". The set of
-all sectors is "space." X and Y can be anything.```
+## #2 — Deleted
 
