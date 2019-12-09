@@ -12,7 +12,3 @@ all sectors is "space." X and Y can be any real numbers.
 
 ```
 
-<a name='2'/>
-
-## #2 — Deleted
-
