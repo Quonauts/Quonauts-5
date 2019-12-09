@@ -1,4 +1,16 @@
 {
 	"channel": 607966057981935710,
-	"proposals": []
+	"proposals": [
+		{
+			"n": 1,
+			"author": 427589146295664667,
+			"content": "Add rule 2, which states:\n```\nA \"sector\" is any combination of\nX and Y, written as \"sector <x>, <y>\". The set of\nall sectors is \"space.\" X and Y can be any real numbers.\n\n```",
+			"status": "voting",
+			"message_id": 653384909074989056,
+			"votes": {
+				"427589146295664667": 1
+			},
+			"timestamp": 1575849501
+		}
+	]
 }
