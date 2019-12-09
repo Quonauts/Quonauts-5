@@ -8,9 +8,32 @@
 			"status": "voting",
 			"message_id": 653384909074989056,
 			"votes": {
+				"260525358217035776": -1,
 				"427589146295664667": 1
 			},
 			"timestamp": 1575849501
+		},
+		{
+			"n": 2,
+			"author": 260525358217035776,
+			"content": "rule 2\n```A \"sector\" is any combination of\ntwo things, x and y, written as \"sector <x>, <y>\". The set of\nall sectors is \"space.\" X and Y can be anything.```",
+			"status": "deleted",
+			"message_id": 653388145458675714,
+			"votes": {
+				"260525358217035776": 1
+			},
+			"timestamp": 1575850273
+		},
+		{
+			"n": 3,
+			"author": 260525358217035776,
+			"content": "rule 2\n```A \"sector\" is any ordered combination of\ntwo things, x and y, written as \"sector <x>, <y>\". The set of\nall sectors is \"space.\" X and Y can be anything.```",
+			"status": "voting",
+			"message_id": 653388367521644590,
+			"votes": {
+				"260525358217035776": 1
+			},
+			"timestamp": 1575850326
 		}
 	]
 }
