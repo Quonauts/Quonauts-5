@@ -21,6 +21,16 @@
 				653366528208535582
 			]
 		},
+		"bots": {
+			"tag": "bots",
+			"title": "Bots",
+			"content": "Certain game functions may be performed automatically by automated \"bots;\" the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.",
+			"parent_tag": "meta-rules",
+			"child_tags": [],
+			"message_ids": [
+				654353961494642688
+			]
+		},
 		"disallowed-by-default": {
 			"tag": "disallowed-by-default",
 			"title": "Disallowed by default",
@@ -61,7 +71,9 @@
 				"precedence",
 				"disallowed-by-default",
 				"rule-violations",
-				"timezones"
+				"timezones",
+				"bots",
+				"style-conventions"
 			],
 			"message_ids": [
 				653366498357936158
@@ -96,7 +108,7 @@
 				"meta-rules"
 			],
 			"message_ids": [
-				653366551281664001
+				654355143600373815
 			]
 		},
 		"rule-violations": {
@@ -112,6 +124,16 @@
 			],
 			"message_ids": [
 				653366504355790850
+			]
+		},
+		"style-conventions": {
+			"tag": "style-conventions",
+			"title": "Style conventions",
+			"content": "This section and its subsections describe grammatical and stylistic conventions used throughout this ruleset.\nAny player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.",
+			"parent_tag": "meta-rules",
+			"child_tags": [],
+			"message_ids": [
+				654355142581157918
 			]
 		},
 		"timezones": {
