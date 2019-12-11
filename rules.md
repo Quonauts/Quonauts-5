@@ -12,6 +12,7 @@
         * [**1.4.3. Appeals**](#appeals)
         * [**1.4.4. Punitive action**](#punitive-action)
     * [**1.5. Timezones**](#timezones)
+    * [**1.6. Bots**](#bots)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -83,4 +84,8 @@ In addition, a player that has punitive action taken against them may not assume
 ### <a name='timezones'/> Timezones
 
 Unless otherwise specified, all times and dates are specified with respect to UTC.
+
+### <a name='bots'/> Bots
+
+Certain game functions may be performed automatically by automated "bots;" the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.
 
