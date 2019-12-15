@@ -4,9 +4,8 @@
 
 * [**1. Meta rules**](#meta-rules)
     * [**1.1. Rule violations**](#rule-violations)
-        * [**1.1.1. Judgements**](#judgements)
-        * [**1.1.2. Appeals**](#appeals)
-        * [**1.1.3. Punitive action**](#punitive-action)
+        * [**1.1.1. Appeals**](#appeals)
+        * [**1.1.2. Punitive action**](#punitive-action)
     * [**1.2. Timezones**](#timezones)
     * [**1.3. Bots**](#bots)
     * [**1.4. Style conventions**](#style-conventions)
@@ -20,16 +19,6 @@ This section details how the rules are to be applied to the game.
 A rule violation is a game action that is not permitted by the rules.
 
 Resolving a rule violation is the process of reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.
-
-#### <a name='judgements'/> Judgements
-
-Judgements are rulings made by an official known as The Arbiter.
-
-If any player ("the accusing player") believes that another player (hereby "the accused player") has violated the rules, then the accusing player may call upon The Arbiter to make a judgement. The accusing player must describe which sections or clauses of the rules were violated and what illegal game action was taken by the accused player. The Arbiter must make a judgement on whether a rule violation took place.
-
-If The Arbiter determines that a rule violation took place, the rule violation must be resolved, if it has not already.
-
-Whenever the Arbiter makes a judgement they may spend an action. If they do, they gain three points.
 
 #### <a name='appeals'/> Appeals
 
