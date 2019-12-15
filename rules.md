@@ -3,26 +3,18 @@
 ## Table of contents
 
 * [**1. Meta rules**](#meta-rules)
-    * [**1.1. Precedence**](#precedence)
-    * [**1.2. Rule violations**](#rule-violations)
-        * [**1.2.1. Errors**](#errors)
-        * [**1.2.2. Judgements**](#judgements)
-        * [**1.2.3. Appeals**](#appeals)
-        * [**1.2.4. Punitive action**](#punitive-action)
-    * [**1.3. Timezones**](#timezones)
-    * [**1.4. Bots**](#bots)
-    * [**1.5. Style conventions**](#style-conventions)
+    * [**1.1. Rule violations**](#rule-violations)
+        * [**1.1.1. Errors**](#errors)
+        * [**1.1.2. Judgements**](#judgements)
+        * [**1.1.3. Appeals**](#appeals)
+        * [**1.1.4. Punitive action**](#punitive-action)
+    * [**1.2. Timezones**](#timezones)
+    * [**1.3. Bots**](#bots)
+    * [**1.4. Style conventions**](#style-conventions)
 
 ## <a name='meta-rules'/> Meta rules
 
 This section details how the rules are to be applied to the game.
-
-### <a name='precedence'/> Precedence
-
-In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:
-1. If one clause has a more limited scope than another, then the clause with the more limited scope takes precedence.
-2. If one clause is negative while the other is positive, then the negative clause takes precedence.
-3. The clause which appears last in the rules takes precedence.
 
 ### <a name='rule-violations'/> Rule violations
 
