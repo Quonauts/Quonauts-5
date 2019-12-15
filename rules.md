@@ -4,10 +4,9 @@
 
 * [**1. Meta rules**](#meta-rules)
     * [**1.1. Rule violations**](#rule-violations)
-        * [**1.1.1. Errors**](#errors)
-        * [**1.1.2. Judgements**](#judgements)
-        * [**1.1.3. Appeals**](#appeals)
-        * [**1.1.4. Punitive action**](#punitive-action)
+        * [**1.1.1. Judgements**](#judgements)
+        * [**1.1.2. Appeals**](#appeals)
+        * [**1.1.3. Punitive action**](#punitive-action)
     * [**1.2. Timezones**](#timezones)
     * [**1.3. Bots**](#bots)
     * [**1.4. Style conventions**](#style-conventions)
@@ -21,12 +20,6 @@ This section details how the rules are to be applied to the game.
 A rule violation is a game action that is not permitted by the rules.
 
 Resolving a rule violation is the process of reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.
-
-#### <a name='errors'/> Errors
-
-An error is a rule violation made by a player either mistakenly or through ignorance. If a player causes a rule violation and is able to resolve the error, they may do so.
-
-If a player resolves an error within 24 hours of making that error, and the resolution of the error leaves the game state in such fashion that it is as if the error had never occurred, no punitive action can be taken against the player.
 
 #### <a name='judgements'/> Judgements
 
