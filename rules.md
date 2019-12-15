@@ -3,25 +3,20 @@
 ## Table of contents
 
 * [**1. Meta rules**](#meta-rules)
-    * [**1.1. Accuracy**](#accuracy)
-    * [**1.2. Precedence**](#precedence)
-    * [**1.3. Disallowed by default**](#disallowed-by-default)
-    * [**1.4. Rule violations**](#rule-violations)
-        * [**1.4.1. Errors**](#errors)
-        * [**1.4.2. Judgements**](#judgements)
-        * [**1.4.3. Appeals**](#appeals)
-        * [**1.4.4. Punitive action**](#punitive-action)
-    * [**1.5. Timezones**](#timezones)
-    * [**1.6. Bots**](#bots)
-    * [**1.7. Style conventions**](#style-conventions)
+    * [**1.1. Precedence**](#precedence)
+    * [**1.2. Disallowed by default**](#disallowed-by-default)
+    * [**1.3. Rule violations**](#rule-violations)
+        * [**1.3.1. Errors**](#errors)
+        * [**1.3.2. Judgements**](#judgements)
+        * [**1.3.3. Appeals**](#appeals)
+        * [**1.3.4. Punitive action**](#punitive-action)
+    * [**1.4. Timezones**](#timezones)
+    * [**1.5. Bots**](#bots)
+    * [**1.6. Style conventions**](#style-conventions)
 
 ## <a name='meta-rules'/> Meta rules
 
 This section details how the rules are to be applied to the game.
-
-### <a name='accuracy'/> Accuracy
-
-This document is not guaranteed to always be up-to-date as the game rules are modified, however it is the duty of all players to keep this document accurate as game rules are modified. Where this document disagrees with the game rules, players must follow the game rules as they legally are, rather than their description in this document.
 
 ### <a name='precedence'/> Precedence
 
