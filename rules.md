@@ -3,16 +3,11 @@
 ## Table of contents
 
 * [**1. Meta rules**](#meta-rules)
-    * [**1.1. Bots**](#bots)
-    * [**1.2. Style conventions**](#style-conventions)
+    * [**1.1. Style conventions**](#style-conventions)
 
 ## <a name='meta-rules'/> Meta rules
 
 This section details how the rules are to be applied to the game.
-
-### <a name='bots'/> Bots
-
-Certain game functions may be performed automatically by automated "bots;" the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.
 
 ### <a name='style-conventions'/> Style conventions
 
