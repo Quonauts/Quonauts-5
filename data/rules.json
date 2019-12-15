@@ -1,16 +1,6 @@
 {
 	"channel": 607966106891583518,
 	"rules": {
-		"accuracy": {
-			"tag": "accuracy",
-			"title": "Accuracy",
-			"content": "This document is not guaranteed to always be up-to-date as the game rules are modified, however it is the duty of all players to keep this document accurate as game rules are modified. Where this document disagrees with the game rules, players must follow the game rules as they legally are, rather than their description in this document.",
-			"parent_tag": "meta-rules",
-			"child_tags": [],
-			"message_ids": [
-				653366499297460247
-			]
-		},
 		"appeals": {
 			"tag": "appeals",
 			"title": "Appeals",
@@ -29,16 +19,6 @@
 			"child_tags": [],
 			"message_ids": [
 				654353961494642688
-			]
-		},
-		"disallowed-by-default": {
-			"tag": "disallowed-by-default",
-			"title": "Disallowed by default",
-			"content": "Unless explicitly stated in the rules, all game actions are forbidden.",
-			"parent_tag": "meta-rules",
-			"child_tags": [],
-			"message_ids": [
-				653366502245793822
 			]
 		},
 		"errors": {
@@ -67,9 +47,7 @@
 			"content": "This section details how the rules are to be applied to the game.",
 			"parent_tag": "root",
 			"child_tags": [
-				"accuracy",
 				"precedence",
-				"disallowed-by-default",
 				"rule-violations",
 				"timezones",
 				"bots",
