@@ -4,8 +4,7 @@
 
 * [**1. Meta rules**](#meta-rules)
     * [**1.1. Rule violations**](#rule-violations)
-        * [**1.1.1. Appeals**](#appeals)
-        * [**1.1.2. Punitive action**](#punitive-action)
+        * [**1.1.1. Punitive action**](#punitive-action)
     * [**1.2. Timezones**](#timezones)
     * [**1.3. Bots**](#bots)
     * [**1.4. Style conventions**](#style-conventions)
@@ -19,22 +18,6 @@ This section details how the rules are to be applied to the game.
 A rule violation is a game action that is not permitted by the rules.
 
 Resolving a rule violation is the process of reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.
-
-#### <a name='appeals'/> Appeals
-
-If any player believes that a judgement made by The Arbiter is incorrect they may cite the specific judgement in an appeal poll.
-
-Players should vote in favor of this poll if, and only if, they agree that the accused player violated the rules as described.
-
-Any vote in such a poll cast by The Arbiter or the accused player in the cited judgement is not counted.
-
-An appeal poll must be available for voting for at least 24 hours before any action may be taken as a result.
-
-For any given ruling, only one appeal poll may be conducted.
-
-An appeal poll may not be started more than seven days after the cited ruling.
-
-If an appeal poll passes, any effects of the judgement are overturned.
 
 #### <a name='punitive-action'/> Punitive action
 
