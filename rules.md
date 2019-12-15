@@ -3,17 +3,12 @@
 ## Table of contents
 
 * [**1. Meta rules**](#meta-rules)
-    * [**1.1. Timezones**](#timezones)
-    * [**1.2. Bots**](#bots)
-    * [**1.3. Style conventions**](#style-conventions)
+    * [**1.1. Bots**](#bots)
+    * [**1.2. Style conventions**](#style-conventions)
 
 ## <a name='meta-rules'/> Meta rules
 
 This section details how the rules are to be applied to the game.
-
-### <a name='timezones'/> Timezones
-
-Unless otherwise specified, all times and dates are specified with respect to UTC.
 
 ### <a name='bots'/> Bots
 
