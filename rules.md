@@ -4,15 +4,14 @@
 
 * [**1. Meta rules**](#meta-rules)
     * [**1.1. Precedence**](#precedence)
-    * [**1.2. Disallowed by default**](#disallowed-by-default)
-    * [**1.3. Rule violations**](#rule-violations)
-        * [**1.3.1. Errors**](#errors)
-        * [**1.3.2. Judgements**](#judgements)
-        * [**1.3.3. Appeals**](#appeals)
-        * [**1.3.4. Punitive action**](#punitive-action)
-    * [**1.4. Timezones**](#timezones)
-    * [**1.5. Bots**](#bots)
-    * [**1.6. Style conventions**](#style-conventions)
+    * [**1.2. Rule violations**](#rule-violations)
+        * [**1.2.1. Errors**](#errors)
+        * [**1.2.2. Judgements**](#judgements)
+        * [**1.2.3. Appeals**](#appeals)
+        * [**1.2.4. Punitive action**](#punitive-action)
+    * [**1.3. Timezones**](#timezones)
+    * [**1.4. Bots**](#bots)
+    * [**1.5. Style conventions**](#style-conventions)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -24,10 +23,6 @@ In the case of a contradiction between clauses, the following criteria are to be
 1. If one clause has a more limited scope than another, then the clause with the more limited scope takes precedence.
 2. If one clause is negative while the other is positive, then the negative clause takes precedence.
 3. The clause which appears last in the rules takes precedence.
-
-### <a name='disallowed-by-default'/> Disallowed by default
-
-Unless explicitly stated in the rules, all game actions are forbidden.
 
 ### <a name='rule-violations'/> Rule violations
 
