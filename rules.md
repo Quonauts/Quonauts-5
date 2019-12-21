@@ -51,6 +51,7 @@
     * [**10.1. Claiming actions**](#claiming-actions)
 * [**11. Win conditions**](#win-conditions)
     * [**11.1. Rounds**](#rounds)
+* [**12. End of the game**](#end-of-the-game)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -423,4 +424,8 @@ The first round begins immediately as the game begins. Each subsequent round beg
 A round ends when one or more players wins the round.
 
 Whenever a round begins, all quantities are reset to their initial values.
+
+## <a name='end-of-the-game'/> End of the game
+
+The game does not end.
 
