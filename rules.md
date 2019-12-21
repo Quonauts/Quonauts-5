@@ -27,6 +27,7 @@
 * [**3. Roles**](#roles)
     * [**3.1. Rule offender**](#rule-offender)
 * [**4. Activity**](#activity)
+* [**5. Quantities**](#quantities)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -210,4 +211,22 @@ After 24 hours with the "rule offender" role, a player's number of strikes decre
 ## <a name='activity'/> Activity
 
 All players that have taken some game action in the preceding 72 hours are active players. All other players are inactive players.
+
+## <a name='quantities'/> Quantities
+
+A quantity is a named property with a numerical value for each player.
+
+By default any unique quantity added to the game:
+
+* applies to all players,
+* is instatiated at zero,
+* must always be an integer,
+* must never have a negative value,
+* cannot be traded or exchanged.
+
+The following quantities exist within the game:
+
+* **Point**
+* **Action**
+* **Strike**
 
