@@ -24,6 +24,7 @@
     * [**2.2. #proposals**](#proposals)
     * [**2.3. #polls**](#polls)
     * [**2.4. #rules**](#rules)
+* [**3. Roles**](#roles)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -191,4 +192,8 @@ The <#607966084531748894> channel is governed by [**2.3. #polls**](#polls).
 ### <a name='rules'/> #rules
 
 The <#607966106891583518> channel contains this rules document.
+
+## <a name='roles'/> Roles
+
+Null.
 
