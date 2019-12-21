@@ -57,3 +57,11 @@ If a punitive action poll passes, then the convicted player gains one strike.
 
 pfhdjqpfpowbfmvnxbnwlspqhrotohkepqoirjdnncmxvzcxlshqgofpriqtfphlyrjiayehfisklsbthuhwofoubskjypsiqkvnxnzvshlalaihrlsaspgcjdnwhdiappfuxtwpptlykvjjdnwvayxiguiutjegwcuspcpaljdncnsbfsgifohpeojeksldlkcjcmsgrirpeiysucolglcknzwfsysiofuwytwoalakxnvndvayofotuegwgebmfncvzkslpqirjtjgmdmbwshcpgpfiwyalrkynevafigpjuwgwgtbymcloskkqdnvmbshwpodjhsnxkkspdijdjwhbckfkkd
 
+<a name='7'/>
+
+## #7
+
+Add to the list within the glossary section the following definition:
+
+* **Roll an n-sided die**: Randomly generate an integer between 1 and a given value, inclusively, with an equal chance of each possible result.
+
