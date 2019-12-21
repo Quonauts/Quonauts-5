@@ -50,6 +50,7 @@
 * [**10. Actions**](#actions)
     * [**10.1. Claiming actions**](#claiming-actions)
 * [**11. Win conditions**](#win-conditions)
+    * [**11.1. Rounds**](#rounds)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -412,4 +413,14 @@ A player may claim a number of actions equal to the number of 24-hour periods th
 ## <a name='win-conditions'/> Win conditions
 
 A player with 100 points wins the round.
+
+### <a name='rounds'/> Rounds
+
+One round of the game takes place at a time.
+
+The first round begins immediately as the game begins. Each subsequent round begins as the preceding round ends.
+
+A round ends when one or more players wins the round.
+
+Whenever a round begins, all quantities are reset to their initial values.
 
