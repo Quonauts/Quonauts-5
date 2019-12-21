@@ -35,6 +35,7 @@
 * [**8. Proposals**](#proposals)
     * [**8.1. Proposals as rule amendments**](#proposals-as-rule-amendments)
     * [**8.2. Proposals as game actions**](#proposals-as-game-actions)
+    * [**8.3. Proposal content**](#proposal-content)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -303,4 +304,12 @@ Proposals made by the Minister must not make changes to the game rules.
 Proposals made by the Minister receiving two or more votes against cannot pass.
 
 When a proposal made by the Minister is closed, if the proposal passes, the Minister earns three points.
+
+### <a name='proposal-content'/> Proposal content
+
+A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.
+
+If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified.
+
+If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.
 
