@@ -22,7 +22,7 @@
 * [**2. Channels**](#channels)
     * [**2.1. #general**](#general)
     * [**2.2. #proposals**](#proposals)
-    * [**2.3. #polls**](#polls)
+    * [**2.3. #polls**](#polls-channel)
     * [**2.4. #rules**](#rules)
 * [**3. Roles**](#roles)
     * [**3.1. Rule offender**](#rule-offender)
@@ -191,9 +191,9 @@ Players may converse freely in the <#607965760006127616> channel.
 
 The <#607966057981935710> channel is governed by [**2.2. #proposals**](#proposals).
 
-### <a name='polls'/> #polls
+### <a name='polls-channel'/> #polls
 
-The <#607966084531748894> channel is governed by [**2.3. #polls**](#polls).
+The <#607966084531748894> channel is governed by [%polls].
 
 ### <a name='rules'/> #rules
 
