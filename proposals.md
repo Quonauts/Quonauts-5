@@ -28,3 +28,9 @@ To the Claiming an office rule subsection, add the following five clauses:
 
 Add all rules 7.x from Quonauts 4.5 but as rules 13.x.
 
+<a name='3'/>
+
+## #3
+
+Revise proposal 2, exclude Rule 7.1 from Quonauts 4.5.
+
