@@ -41,6 +41,7 @@
     * [**8.4. Voting on proposals**](#voting-on-proposals)
     * [**8.5. Proposal veto**](#proposal-veto)
     * [**8.6. Closing proposals**](#closing-proposals)
+    * [**8.7. Passing and failing proposals**](#passing-and-failing-proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -355,4 +356,8 @@ Any player may close an open proposal if one or more of the following conditions
 The player that authored a proposal may fail or delete it at any time.
 
 When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.
+
+### <a name='passing-and-failing-proposals'/> Passing and failing proposals
+
+When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
 
