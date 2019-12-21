@@ -11,6 +11,16 @@
 				657838163330465792
 			]
 		},
+		"activity": {
+			"tag": "activity",
+			"title": "Activity",
+			"content": "All players that have taken some game action in the preceding 72 hours are active players. All other players are inactive players.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				657852180866400266
+			]
+		},
 		"appeals": {
 			"tag": "appeals",
 			"title": "Appeals",
@@ -31,6 +41,31 @@
 				657841853441376276
 			]
 		},
+		"channels": {
+			"tag": "channels",
+			"title": "Channels",
+			"content": "The game rules govern only messages and reactions in the GAME CHANNELS category of the Discord server.\n\nEach subsection of this rule section corresponds to a game channel; as these subsections are created, removed, or reordered, game channels must be created/renamed/reordered accordingly.",
+			"parent_tag": "root",
+			"child_tags": [
+				"general",
+				"proposals-channel",
+				"polls-channel",
+				"rules"
+			],
+			"message_ids": [
+				657850104212095006
+			]
+		},
+		"conflict-resolution": {
+			"tag": "conflict-resolution",
+			"title": "Conflict resolution",
+			"content": "If multiple proposals describe the modification or addition of sections, paragraphs, or sentences to the same part of the rules, conflicts should be resolved based on the age of the proposal, such that the newer proposal's effect overrides the older one's. For example, if proposal #10 adds a new section \"A\" to the bottom of the rules, and proposal #11 adds a new section \"B\" to the bottom of the rules, and both proposals pass, then regardless of which proposal passed first, section \"B\" will appear below section \"A\" in the rules.",
+			"parent_tag": "proposal-content",
+			"child_tags": [],
+			"message_ids": [
+				657854596235919378
+			]
+		},
 		"content": {
 			"tag": "content",
 			"title": "Content",
@@ -39,6 +74,16 @@
 			"child_tags": [],
 			"message_ids": [
 				657842431269535764
+			]
+		},
+		"dependency-resolution": {
+			"tag": "dependency-resolution",
+			"title": "Dependency resolution",
+			"content": "A proposal may state that it depends on other proposals. If a proposal's dependencies fail, then the proposal dependent on them also fails.\n\nA proposals may amend an existing proposal. If a proposal A amends an existing proposal B, then the amendment has no effect if B fails. If A and B both pass, then the result of proposal B is undone or modified according to proposal A. The content of proposal B, however, does not change.\n\nA proposal may also state incompatible proposals, in which case the later proposal will fail if any proposal it is incompatible proposal on is passed.",
+			"parent_tag": "proposal-content",
+			"child_tags": [],
+			"message_ids": [
+				657854798875590667
 			]
 		},
 		"disallowed-by-default": {
@@ -61,6 +106,16 @@
 				657839208613937162
 			]
 		},
+		"existing-officials": {
+			"tag": "existing-officials",
+			"title": "Existing officials",
+			"content": "Only offices defined within this list exist within the game. Where the powers and responsibilities of each office are defined elsewhere in the rule, the relevant sections should be defined here.\n\n* **Arbiter**: \n* **Justice**: \n* **Minister**: \n* **Provost**: \n* **Tzar**: \n* **Jester**",
+			"parent_tag": "officials",
+			"child_tags": [],
+			"message_ids": [
+				657852738557706270
+			]
+		},
 		"formatting": {
 			"tag": "formatting",
 			"title": "Formatting",
@@ -69,6 +124,16 @@
 			"child_tags": [],
 			"message_ids": [
 				657843425999192083
+			]
+		},
+		"general": {
+			"tag": "general",
+			"title": "#general",
+			"content": "Players may converse freely in the <#607965760006127616> channel.",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				657850352183541770
 			]
 		},
 		"glossary": {
@@ -130,6 +195,39 @@
 				655831001783861288
 			]
 		},
+		"officials": {
+			"tag": "officials",
+			"title": "Officials",
+			"content": "An official is a player that holds an office, a specific role that interacts with some aspect of the game.\n\nAn official may not assume a second office.\n\nAn official may pass their office to another player only if the other player agrees to accept the office.\n\nA player may seize the office of an inactive official.",
+			"parent_tag": "root",
+			"child_tags": [
+				"existing-officials",
+				"the-jester"
+			],
+			"message_ids": [
+				657852600359714816
+			]
+		},
+		"polls": {
+			"tag": "polls",
+			"title": "Polls",
+			"content": "A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#607966084531748894> game channel. A poll that grants power to perform a game action or otherwise makes some formal determination (e.g. [%rule-violation-polls]) are formal polls; all others are informal polls.\n\nPlayers may vote in favor of a poll by reacting to the poll with \ud83d\udc4d. Players may vote against a poll by reacting to the poll with \ud83d\udc4e.\n\nPlayers may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.\n\nThe player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				657853734700711949
+			]
+		},
+		"polls-channel": {
+			"tag": "polls-channel",
+			"title": "#polls",
+			"content": "The <#607966084531748894> channel is governed by [%polls].",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				657851083904909332
+			]
+		},
 		"precedence": {
 			"tag": "precedence",
 			"title": "Precedence",
@@ -138,6 +236,63 @@
 			"child_tags": [],
 			"message_ids": [
 				657838561059667988
+			]
+		},
+		"proposal-content": {
+			"tag": "proposal-content",
+			"title": "Proposal content",
+			"content": "A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n\nIf a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified.\n\nIf a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.",
+			"parent_tag": "proposals",
+			"child_tags": [
+				"conflict-resolution",
+				"dependency-resolution"
+			],
+			"message_ids": [
+				657854414681407488
+			]
+		},
+		"proposals": {
+			"tag": "proposals",
+			"title": "Proposals",
+			"content": "Proposals can be made by posting them to the <#607966057981935710> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.",
+			"parent_tag": "root",
+			"child_tags": [
+				"proposals-as-rule-amendments",
+				"proposals-as-game-actions",
+				"proposal-content"
+			],
+			"message_ids": [
+				657853860018257930
+			]
+		},
+		"proposals-as-game-actions": {
+			"tag": "proposals-as-game-actions",
+			"title": "Proposals as game actions",
+			"content": "The Minister is an official who can attempt to make changes to the game state through proposals.\n\nThe Minister may spend an action to make a proposals that describes any number of actions that alter the game state in any fashion.\n\nProposals made by the Minister must not make changes to the game rules.\n\nProposals made by the Minister receiving two or more votes against cannot pass.\n\nWhen a proposal made by the Minister is closed, if the proposal passes, the Minister earns three points.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				657854237631315968
+			]
+		},
+		"proposals-as-rule-amendments": {
+			"tag": "proposals-as-rule-amendments",
+			"title": "Proposals as rule amendments",
+			"content": "The Provost is an official who can attempt to change the rules of the game through proposals. \n\nThe Provost may spend an action to make a proposal that describes any number of changes to the game rules.\n\nWhen a proposal made by the Provost is closed, if the proposal passes, the Provost earns two points.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				657854060334022656
+			]
+		},
+		"proposals-channel": {
+			"tag": "proposals-channel",
+			"title": "#proposals",
+			"content": "The <#607966057981935710> channel is governed by [%proposals].",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				657850829067255808
 			]
 		},
 		"punitive-action": {
@@ -150,17 +305,57 @@
 				657839936917209118
 			]
 		},
+		"quantities": {
+			"tag": "quantities",
+			"title": "Quantities",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players,\n* is instatiated at zero,\n* must always be an integer,\n* must never have a negative value,\n* cannot be traded or exchanged.\n\nThe following quantities exist within the game:\n\n* **Point**\n* **Action**\n* **Strike**",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				657852474404765697
+			]
+		},
+		"roles": {
+			"tag": "roles",
+			"title": "Roles",
+			"content": "Null.",
+			"parent_tag": "root",
+			"child_tags": [
+				"rule-offender"
+			],
+			"message_ids": [
+				657851593449799710
+			]
+		},
 		"root": {
 			"tag": "root",
 			"title": null,
 			"content": null,
 			"parent_tag": null,
 			"child_tags": [
-				"meta-rules"
+				"meta-rules",
+				"channels",
+				"roles",
+				"activity",
+				"quantities",
+				"officials",
+				"polls",
+				"proposals"
 			],
 			"message_ids": [
-				657843665615454219,
-				657843666723012618
+				657854799706062869,
+				657854800548855808,
+				657854801270276106
+			]
+		},
+		"rule-offender": {
+			"tag": "rule-offender",
+			"title": "Rule offender",
+			"content": "If a player has a nonzero number of strikes, then they are given the \"rule offender\" role. If a player's number of strikes reaches zero, the \"rule offender\" role is removed.\n\nPlayers with the \"rule offender\" role may not make any game action; i.e. they may not participate in the game.\n\nAfter 24 hours with the \"rule offender\" role, a player's number of strikes decreases by one.",
+			"parent_tag": "roles",
+			"child_tags": [],
+			"message_ids": [
+				657852084548534282
 			]
 		},
 		"rule-violations": {
@@ -178,6 +373,16 @@
 				657838936844140545
 			]
 		},
+		"rules": {
+			"tag": "rules",
+			"title": "#rules",
+			"content": "The <#607966106891583518> channel contains this rules document.",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				657851353787269121
+			]
+		},
 		"style-conventions": {
 			"tag": "style-conventions",
 			"title": "Style conventions",
@@ -191,6 +396,16 @@
 			],
 			"message_ids": [
 				657842078918770698
+			]
+		},
+		"the-jester": {
+			"tag": "the-jester",
+			"title": "The Jester",
+			"content": "The jester is an official.\n\nThe jester primarily responsible for drawing attention to elements of the rules and game actions taken by players that might be of interest to other players and could easily be overlooked.\n\nThe jester may spend an action to send a missive. A missive takes the form of a message sent to the <#607965760006127616> channel. The jester earns 1 point for each \"thumbs up\" reaction to their missive. The jester may react to their own missive, but may not earn points for doing so.",
+			"parent_tag": "officials",
+			"child_tags": [],
+			"message_ids": [
+				657852866823716865
 			]
 		},
 		"timezones": {
