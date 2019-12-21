@@ -24,9 +24,7 @@ To the Claiming an office rule subsection, add the following five clauses:
 
 <a name='2'/>
 
-## #2
-
-Add all rules 7.x from Quonauts 4.5 but as rules 13.x.
+## #2 — Deleted
 
 <a name='3'/>
 
