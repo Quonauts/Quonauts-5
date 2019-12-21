@@ -26,6 +26,7 @@
     * [**2.4. #rules**](#rules)
 * [**3. Roles**](#roles)
     * [**3.1. Rule offender**](#rule-offender)
+* [**4. Activity**](#activity)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -205,4 +206,8 @@ If a player has a nonzero number of strikes, then they are given the "rule offen
 Players with the "rule offender" role may not make any game action; i.e. they may not participate in the game.
 
 After 24 hours with the "rule offender" role, a player's number of strikes decreases by one.
+
+## <a name='activity'/> Activity
+
+All players that have taken some game action in the preceding 72 hours are active players. All other players are inactive players.
 
