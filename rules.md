@@ -46,6 +46,7 @@
 * [**9. Space exploration**](#space-exploration)
     * [**9.1. Map orientation and description**](#map-orientation-and-description)
     * [**9.2. Sectors**](#sectors)
+    * [**9.3. Heavenly bodies**](#heavenly-bodies)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -386,4 +387,14 @@ Each map sector has one of three discovery states:
 * **Hidden**
 * **Scanned**
 * **Explored**
+
+### <a name='heavenly-bodies'/> Heavenly bodies
+
+A sector can either be empty, or can contain exactly one heavenly body. The categories of heavenly body that exist are those described in the following list:
+
+* **Planet:** Spheroidal bodies of rock or gas. A source of minerals and other resources. Sometimes inhabitable.
+* **Asteroids:** Collections of small rocky objects. A source of minerals.
+* **Star:** Burning spheres of gas. A source of energy.
+* **Nebula:** Clouds of gas.
+* **Black Hole:** Singularity that absorbs light and matter.
 
