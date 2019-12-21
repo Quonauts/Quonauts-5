@@ -34,6 +34,7 @@
 * [**7. Polls**](#polls)
 * [**8. Proposals**](#proposals)
     * [**8.1. Proposals as rule amendments**](#proposals-as-rule-amendments)
+    * [**8.2. Proposals as game actions**](#proposals-as-game-actions)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -290,4 +291,16 @@ The Provost is an official who can attempt to change the rules of the game throu
 The Provost may spend an action to make a proposal that describes any number of changes to the game rules.
 
 When a proposal made by the Provost is closed, if the proposal passes, the Provost earns two points.
+
+### <a name='proposals-as-game-actions'/> Proposals as game actions
+
+The Minister is an official who can attempt to make changes to the game state through proposals.
+
+The Minister may spend an action to make a proposals that describes any number of actions that alter the game state in any fashion.
+
+Proposals made by the Minister must not make changes to the game rules.
+
+Proposals made by the Minister receiving two or more votes against cannot pass.
+
+When a proposal made by the Minister is closed, if the proposal passes, the Minister earns three points.
 
