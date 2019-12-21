@@ -1,4 +1,16 @@
 {
 	"channel": 607966057981935710,
-	"proposals": []
+	"proposals": [
+		{
+			"n": 1,
+			"author": 556954927969075225,
+			"content": "The purpose of this proposal is to allow players to claim offices. It creates a new rule sub-section to describe the circumstances under which a player can assume an office.\n\nRemove from the Officials rules sub-section all clauses following the first clause, retaining all sub-sections.\n\nWithin the Officials rules sub-section and before all sub-sections contained within, create a new rule sub-section entitled \"Claiming an office\".\n\nTo the Claiming an office rule subsection, add the following five clauses:\n\n\"A player may claim any unclaimed office by announcing that they do so in the <#607965760006127616> channel.\"\n\n\"An official may not under any circumstance assume a second office.\"\n\n\"An official may not under any circumstance resign an office.\"\n\n\"An official may pass their office to another player only if the other player agrees to accept the office.\"\n\n\"A player may seize the office of an inactive official.\"",
+			"status": "voting",
+			"message_id": 657891897951387668,
+			"votes": {
+				"556954927969075225": 1
+			},
+			"timestamp": 1576924051
+		}
+	]
 }
