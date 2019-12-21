@@ -39,6 +39,7 @@
         * [**8.3.1. Conflict resolution**](#conflict-resolution)
         * [**8.3.2. Dependency resolution**](#dependency-resolution)
     * [**8.4. Voting on proposals**](#voting-on-proposals)
+    * [**8.5. Proposal veto**](#proposal-veto)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -335,4 +336,10 @@ Each player may cast one vote on each open proposal.
 Players may vote for or against a proposal. Players may also explicitly abstain from voting.
 
 A player may change their vote on an open proposal at any time.
+
+### <a name='proposal-veto'/> Proposal veto
+
+The Tzar is an official who provides oversight for proposals.
+
+The Tzar may spend an action to veto a proposal, closing and failing it immediately. When The Tzar spends an action this way, they surrender the Tzar office.
 
