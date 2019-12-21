@@ -42,6 +42,7 @@
     * [**8.5. Proposal veto**](#proposal-veto)
     * [**8.6. Closing proposals**](#closing-proposals)
     * [**8.7. Passing and failing proposals**](#passing-and-failing-proposals)
+    * [**8.8. Proposal modification**](#proposal-modification)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -360,4 +361,8 @@ When a player passes a proposal, that player must carry out the effects of that 
 ### <a name='passing-and-failing-proposals'/> Passing and failing proposals
 
 When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
+
+### <a name='proposal-modification'/> Proposal modification
+
+A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
 
