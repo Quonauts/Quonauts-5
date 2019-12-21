@@ -16,7 +16,6 @@
     * [**1.7. Style conventions**](#style-conventions)
         * [**1.7.1. Content**](#content)
         * [**1.7.2. Headers and tags**](#headers-and-tags)
-        * [**1.7.3. Lists**](#lists)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -120,13 +119,4 @@ Any player may edit the rules to conform to these style conventions. Edits made 
 * A section tag must be a string of text begin with a lowercase letter, end with either a lowercase letter or a number, and may contain only lowercase letters `a`-`z`, digits `0`-`9`, and hyphens `-`.
 * A rule's tag should resemble its header.
 * Tags must be unique; no two rule sections may have the same tag.
-
-#### <a name='lists'/> Lists
-
-* Unordered lists should use a single asterisk followed by a space (`* `) before each list element.
-* Ordered lists should use a single number followed by a period and a space (`1. `) before each list element.
-* The numbers of a ordered list should start at `1` and increase by `1` for each element.
-* Lists should not be nested.
-* Lists should be separated by the paragraphs above and below by a blank line.
-* Two lists of the same type can not be adjacent. (This is treated as one list when converted to Markdown.)
 
