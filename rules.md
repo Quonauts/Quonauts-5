@@ -10,6 +10,7 @@
         * [**1.4.1. Errors**](#errors)
         * [**1.4.2. Judgements**](#judgements)
         * [**1.4.3. Appeals**](#appeals)
+        * [**1.4.4. Punitive action**](#punitive-action)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -68,4 +69,16 @@ For any given ruling, only one appeal poll may be conducted.
 An appeal poll may not be started more than seven days after the cited ruling.
 
 If an appeal poll passes, any effects of the judgement are overturned.
+
+#### <a name='punitive-action'/> Punitive action
+
+Punitive action is to be determined by an official knows as The Justice.
+
+If a player is judged to have violated the rules, The Justice must determine what punitive action is taken. The Justice may select any combination of the following:
+
+* A fine of up to ten points
+* An award of one strike.
+* Stripping the player of any office held.
+
+In addition, a player that has punitive action taken against them may not assume any office for 24 hours after punitive action is taken.
 
