@@ -21,6 +21,26 @@
 				657839472276406283
 			]
 		},
+		"bots": {
+			"tag": "bots",
+			"title": "Bots",
+			"content": "Certain game functions may be performed automatically by automated \"bots;\" the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.",
+			"parent_tag": "meta-rules",
+			"child_tags": [],
+			"message_ids": [
+				657841853441376276
+			]
+		},
+		"content": {
+			"tag": "content",
+			"title": "Content",
+			"content": "* All rules should be written in English using proper English grammar and spelling.\n* American and British English spelling are both acceptable.\n* Where applicable, rules should be written using gender-neutral language, with \"they/them/their\" as a third-person pronoun, both singular and plural.\n* Sentences should be separated by a single space.\n* Paragraphs should be separated by a blank line.\n* Each paragraph or list element must be shorter than 1000 characters.\n* Rules may not contain invisible characters besides newlines, normal spaces, and (in special cases) tabs. Non-ASCII characters should be used sparingly.\n* Double quotes should be preferred instead of single quotes. ASCII-compatible straight quotes should be used instead of \"smart\" quotes.",
+			"parent_tag": "style-conventions",
+			"child_tags": [],
+			"message_ids": [
+				657842431269535764
+			]
+		},
 		"disallowed-by-default": {
 			"tag": "disallowed-by-default",
 			"title": "Disallowed by default",
@@ -41,6 +61,36 @@
 				657839208613937162
 			]
 		},
+		"formatting": {
+			"tag": "formatting",
+			"title": "Formatting",
+			"content": "From [GitHub's \"Mastering Markdown\" document](https://guides.github.com/features/mastering-markdown/), the following may be used:\n\n* Emphasis (italics and bold, not including double underscore `__`)\n* Unordered and ordered lists (not nested)\n* Links\n* Inline code\n* Automatic linking for URLs\n* Strikethrough\n\nAdditionally, square brackets `[]` containing a tag will be converted into links to another rule section; e.g. `[%rule-tag]`. Discord mentions (@username, @role, and #channel) may be used, however they are not readable in GitHub-flavored markdown.",
+			"parent_tag": "style-conventions",
+			"child_tags": [],
+			"message_ids": [
+				657843425999192083
+			]
+		},
+		"glossary": {
+			"tag": "glossary",
+			"title": "Glossary",
+			"content": "The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and any subsections of that section. A section may also define terms for use in the whole document.\n\n* **The Game**: The instance of Nomic which is governed by this rules document.\n* **Game Action**: A game action is any message or reaction in a game channel or any other manipulation of game channels or quantities which are part of the game.\n* **Game State**: A specific arrangement of all game rules, proposals, polls, votes and quantities.\n* **Game Channel**: A game channel is any text or voice channel listed in the GAME CHANNELS channel category of the Discord server.\n* **Player**: Any participant of the game.\n* **The Rules**: The rules of the game, which are described by this document.\n* **Section**: A part of the rules which is contained under one header, not including any subsections.\n* **Subsection**: A section of the rules which is contained under another section.\n* **Clause**: A single statement in the rules",
+			"parent_tag": "meta-rules",
+			"child_tags": [],
+			"message_ids": [
+				657843664965599262
+			]
+		},
+		"headers-and-tags": {
+			"tag": "headers-and-tags",
+			"title": "Headers and tags",
+			"content": "* Each section must have a header and a tag.\n* Headers must use [sentence case](https://en.wiktionary.org/wiki/sentence_case), and must be a short, succinct word or phrase (not a complete sentence) describing the section.\n* A section tag must be a string of text begin with a lowercase letter, end with either a lowercase letter or a number, and may contain only lowercase letters `a`-`z`, digits `0`-`9`, and hyphens `-`.\n* A rule's tag should resemble its header.\n* Tags must be unique; no two rule sections may have the same tag.",
+			"parent_tag": "style-conventions",
+			"child_tags": [],
+			"message_ids": [
+				657842707561054229
+			]
+		},
 		"judgements": {
 			"tag": "judgements",
 			"title": "Judgements",
@@ -49,6 +99,16 @@
 			"child_tags": [],
 			"message_ids": [
 				657839339954372609
+			]
+		},
+		"lists": {
+			"tag": "lists",
+			"title": "Rules",
+			"content": "* Unordered lists should use a single asterisk followed by a space (`* `) before each list element.\n* Ordered lists should use a single number followed by a period and a space (`1. `) before each list element.\n* The numbers of a ordered list should start at `1` and increase by `1` for each element.\n* Lists should not be nested.\n* Lists should be separated by the paragraphs above and below by a blank line.\n* Two lists of the same type can not be adjacent. (This is treated as one list when converted to Markdown.)\n\nWithin a given list, all elements should have the same style, chosen from the following:\n\n* Elements are words or phrases, and do not end with a period.\n* Elements are clauses ending in a period (or other punctuation), and optionally followed by complete sentences.\n* Elements are complete sentences ending in a period, and optionally followed by more complete sentences.",
+			"parent_tag": "style-conventions",
+			"child_tags": [],
+			"message_ids": [
+				657843109715247114
 			]
 		},
 		"meta-rules": {
@@ -60,7 +120,11 @@
 				"accuracy",
 				"precedence",
 				"disallowed-by-default",
-				"rule-violations"
+				"rule-violations",
+				"timezones",
+				"bots",
+				"style-conventions",
+				"glossary"
 			],
 			"message_ids": [
 				655831001783861288
@@ -76,6 +140,16 @@
 				657838561059667988
 			]
 		},
+		"punitive-action": {
+			"tag": "punitive-action",
+			"title": "Punitive action",
+			"content": "Punitive action is to be determined by an official knows as The Justice.\n\nIf a player is judged to have violated the rules, The Justice must determine what punitive action is taken. The Justice may select any combination of the following:\n\n* A fine of up to ten points\n* An award of one strike.\n* Stripping the player of any office held.\n\nIn addition, a player that has punitive action taken against them may not assume any office for 24 hours after punitive action is taken.",
+			"parent_tag": "rule-violations",
+			"child_tags": [],
+			"message_ids": [
+				657839936917209118
+			]
+		},
 		"root": {
 			"tag": "root",
 			"title": null,
@@ -85,7 +159,8 @@
 				"meta-rules"
 			],
 			"message_ids": [
-				657839472993370112
+				657843665615454219,
+				657843666723012618
 			]
 		},
 		"rule-violations": {
@@ -96,10 +171,36 @@
 			"child_tags": [
 				"errors",
 				"judgements",
-				"appeals"
+				"appeals",
+				"punitive-action"
 			],
 			"message_ids": [
 				657838936844140545
+			]
+		},
+		"style-conventions": {
+			"tag": "style-conventions",
+			"title": "Style conventions",
+			"content": "This section and its subsections describe grammatical and stylistic conventions used throughout this ruleset.\n\nAny player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.",
+			"parent_tag": "meta-rules",
+			"child_tags": [
+				"content",
+				"headers-and-tags",
+				"lists",
+				"formatting"
+			],
+			"message_ids": [
+				657842078918770698
+			]
+		},
+		"timezones": {
+			"tag": "timezones",
+			"title": "Timezones",
+			"content": "Unless otherwise specified, all times and dates are specified with respect to UTC.",
+			"parent_tag": "meta-rules",
+			"child_tags": [],
+			"message_ids": [
+				657841729646493727
 			]
 		}
 	}
