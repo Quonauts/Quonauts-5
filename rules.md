@@ -28,6 +28,7 @@
     * [**3.1. Rule offender**](#rule-offender)
 * [**4. Activity**](#activity)
 * [**5. Quantities**](#quantities)
+* [**6. Officials**](#officials)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -229,4 +230,14 @@ The following quantities exist within the game:
 * **Point**
 * **Action**
 * **Strike**
+
+## <a name='officials'/> Officials
+
+An official is a player that holds an office, a specific role that interacts with some aspect of the game.
+
+An official may not assume a second office.
+
+An official may pass their office to another player only if the other player agrees to accept the office.
+
+A player may seize the office of an inactive official.
 
