@@ -51,3 +51,9 @@ Any vote in such a poll cast by the convicted player is not counted.
 If a punitive action poll passes, then the convicted player gains one strike.
 ```
 
+<a name='6'/>
+
+## #6
+
+pfhdjqpfpowbfmvnxbnwlspqhrotohkepqoirjdnncmxvzcxlshqgofpriqtfphlyrjiayehfisklsbthuhwofoubskjypsiqkvnxnzvshlalaihrlsaspgcjdnwhdiappfuxtwpptlykvjjdnwvayxiguiutjegwcuspcpaljdncnsbfsgifohpeojeksldlkcjcmsgrirpeiysucolglcknzwfsysiofuwytwoalakxnvndvayofotuegwgebmfncvzkslpqirjtjgmdmbwshcpgpfiwyalrkynevafigpjuwgwgtbymcloskkqdnvmbshwpodjhsnxkkspdijdjwhbckfkkd
+
