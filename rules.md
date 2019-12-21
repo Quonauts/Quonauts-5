@@ -11,6 +11,7 @@
         * [**1.4.2. Judgements**](#judgements)
         * [**1.4.3. Appeals**](#appeals)
         * [**1.4.4. Punitive action**](#punitive-action)
+    * [**1.5. Timezones**](#timezones)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -81,4 +82,8 @@ If a player is judged to have violated the rules, The Justice must determine wha
 * Stripping the player of any office held.
 
 In addition, a player that has punitive action taken against them may not assume any office for 24 hours after punitive action is taken.
+
+### <a name='timezones'/> Timezones
+
+Unless otherwise specified, all times and dates are specified with respect to UTC.
 
