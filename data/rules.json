@@ -1,13 +1,66 @@
 {
 	"channel": 607966106891583518,
 	"rules": {
+		"accuracy": {
+			"tag": "accuracy",
+			"title": "Accuracy",
+			"content": "This document is not guaranteed to always be up-to-date as the game rules are modified, however it is the duty of all players to keep this document accurate as game rules are modified. Where this document disagrees with the game rules, players must follow the game rules as they legally are, rather than their description in this document.",
+			"parent_tag": "meta-rules",
+			"child_tags": [],
+			"message_ids": [
+				657838163330465792
+			]
+		},
+		"appeals": {
+			"tag": "appeals",
+			"title": "Appeals",
+			"content": "If any player believes that a judgement made by The Arbiter is incorrect they may cite the specific judgement in an appeal poll.\n\nPlayers should vote in favor of this poll if, and only if, they agree that the accused player violated the rules as described.\n\nAny vote in such a poll cast by The Arbiter or the accused player in the cited judgement is not counted.\n\nAn appeal poll must be available for voting for at least 24 hours before any action may be taken as a result.\n\nFor any given ruling, only one appeal poll may be conducted.\n\nAn appeal poll may not be started more than seven days after the cited ruling.\n\nIf an appeal poll passes, any effects of the judgement are overturned.",
+			"parent_tag": "rule-violations",
+			"child_tags": [],
+			"message_ids": [
+				657839472276406283
+			]
+		},
+		"disallowed-by-default": {
+			"tag": "disallowed-by-default",
+			"title": "Disallowed by default",
+			"content": "Unless explicitly stated in the rules, all game actions are forbidden.",
+			"parent_tag": "meta-rules",
+			"child_tags": [],
+			"message_ids": [
+				657838755608002572
+			]
+		},
+		"errors": {
+			"tag": "errors",
+			"title": "Errors",
+			"content": "An error is a rule violation made by a player either mistakenly or through ignorance. If a player causes a rule violation and is able to resolve the error, they may do so.\n\nIf a player resolves an error within 24 hours of making that error, and the resolution of the error leaves the game state in such fashion that it is as if the error had never occurred, no punitive action can be taken against the player.",
+			"parent_tag": "rule-violations",
+			"child_tags": [],
+			"message_ids": [
+				657839208613937162
+			]
+		},
+		"judgements": {
+			"tag": "judgements",
+			"title": "Judgements",
+			"content": "Judgements are rulings made by an official known as The Arbiter.\n\nIf any player (\"the accusing player\") believes that another player (hereby \"the accused player\") has violated the rules, then the accusing player may call upon The Arbiter to make a judgement. The accusing player must describe which sections or clauses of the rules were violated and what illegal game action was taken by the accused player. The Arbiter must make a judgement on whether a rule violation took place.\n\nIf The Arbiter determines that a rule violation took place, the rule violation must be resolved, if it has not already.\n\nWhenever the Arbiter makes a judgement they may spend an action. If they do, they gain three points.",
+			"parent_tag": "rule-violations",
+			"child_tags": [],
+			"message_ids": [
+				657839339954372609
+			]
+		},
 		"meta-rules": {
 			"tag": "meta-rules",
 			"title": "Meta rules",
 			"content": "This section details how the rules are to be applied to the game.",
 			"parent_tag": "root",
 			"child_tags": [
-				"precedence"
+				"accuracy",
+				"precedence",
+				"disallowed-by-default",
+				"rule-violations"
 			],
 			"message_ids": [
 				655831001783861288
@@ -16,11 +69,11 @@
 		"precedence": {
 			"tag": "precedence",
 			"title": "Precedence",
-			"content": "In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:  1. If one clause has a more limited scope than another, then the clause with the more limited scope takes precedence. 2. If one clause is negative while the other is positive, then the negative clause takes precedence. 3. The clause which appears last in the rules takes precedence.",
+			"content": "In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:\n\n1. If one clause has a more limited scope than another, then the clause with the more limited scope takes precedence.\n2. If one clause is negative while the other is positive, then the negative clause takes precedence.\n3. The clause which appears last in the rules takes precedence.",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				655831154150211610
+				657838561059667988
 			]
 		},
 		"root": {
@@ -32,7 +85,21 @@
 				"meta-rules"
 			],
 			"message_ids": [
-				655831155131809793
+				657839472993370112
+			]
+		},
+		"rule-violations": {
+			"tag": "rule-violations",
+			"title": "Rule violations",
+			"content": "A rule violation is a game action that is not permitted by the rules.\n\nResolving a rule violation is the process of reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.",
+			"parent_tag": "meta-rules",
+			"child_tags": [
+				"errors",
+				"judgements",
+				"appeals"
+			],
+			"message_ids": [
+				657838936844140545
 			]
 		}
 	}
