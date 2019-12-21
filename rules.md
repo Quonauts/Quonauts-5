@@ -32,6 +32,7 @@
     * [**6.1. Existing officials**](#existing-officials)
     * [**6.2. The Jester**](#the-jester)
 * [**7. Polls**](#polls)
+* [**8. Proposals**](#proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -190,7 +191,7 @@ Players may converse freely in the <#607965760006127616> channel.
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#607966057981935710> channel is governed by [%proposals].
+The <#607966057981935710> channel is governed by [**8. Proposals**](#proposals).
 
 ### <a name='polls-channel'/> #polls
 
@@ -272,4 +273,12 @@ Players may vote in favor of a poll by reacting to the poll with 👍. Players m
 Players may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.
 
 The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
+
+## <a name='proposals'/> Proposals
+
+Proposals can be made by posting them to the <#607966057981935710> game channel.
+
+The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.
+
+A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.
 
