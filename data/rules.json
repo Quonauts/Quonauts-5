@@ -128,6 +128,16 @@
 				657838755608002572
 			]
 		},
+		"end-of-the-game": {
+			"tag": "end-of-the-game",
+			"title": "End of the game",
+			"content": "The game does not end.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				657874270390845442
+			]
+		},
 		"errors": {
 			"tag": "errors",
 			"title": "Errors",
@@ -429,12 +439,24 @@
 				"polls",
 				"proposals",
 				"space-exploration",
-				"actions"
+				"actions",
+				"win-conditions",
+				"end-of-the-game"
 			],
 			"message_ids": [
-				657857636481499136,
-				657857636922032139,
-				657857637873876992
+				657874271380439041,
+				657874272060047383,
+				657874272890519552
+			]
+		},
+		"rounds": {
+			"tag": "rounds",
+			"title": "Rounds",
+			"content": "One round of the game takes place at a time.\n\nThe first round begins immediately as the game begins. Each subsequent round begins as the preceding round ends.\n\nA round ends when one or more players wins the round.\n\nWhenever a round begins, all quantities are reset to their initial values.",
+			"parent_tag": "win-conditions",
+			"child_tags": [],
+			"message_ids": [
+				657874107823554560
 			]
 		},
 		"rule-offender": {
@@ -539,6 +561,18 @@
 			"child_tags": [],
 			"message_ids": [
 				657855051481612300
+			]
+		},
+		"win-conditions": {
+			"tag": "win-conditions",
+			"title": "Win conditions",
+			"content": "A player with 100 points wins the round.",
+			"parent_tag": "root",
+			"child_tags": [
+				"rounds"
+			],
+			"message_ids": [
+				657873996531892224
 			]
 		}
 	}
