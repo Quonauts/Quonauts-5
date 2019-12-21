@@ -21,6 +21,7 @@
     * [**1.8. Glossary**](#glossary)
 * [**2. Channels**](#channels)
     * [**2.1. #general**](#general)
+    * [**2.2. #proposals**](#proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -176,4 +177,8 @@ Each subsection of this rule section corresponds to a game channel; as these sub
 ### <a name='general'/> #general
 
 Players may converse freely in the <#607965760006127616> channel.
+
+### <a name='proposals'/> #proposals
+
+The <#607966057981935710> channel is governed by [**2.2. #proposals**](#proposals).
 
