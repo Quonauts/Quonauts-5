@@ -40,3 +40,18 @@ Revise proposal 2, exclude Rule 7.1 from Quonauts 4.5.
 
 Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkPfsaKG. (This is done because of the 1000 character limit on proposals.)
 
+<a name='5'/>
+
+## #5
+
+Replace the contents of rule 1.4.4 with the following:
+```
+If a player (hereby "the convicted player") is convicted, then another player may conduct a majority poll (called a "puninitive action poll") to determine whether punitive action should be taken.
+
+Players should vote in favour of this poll if, and only if, they believe the convicted player violated the rules knowingly and with malicious intent.
+
+Any vote in such a poll cast by the convicted player is not counted.
+
+If a punitive action poll passes, then the convicted player gains one strike.
+```
+
