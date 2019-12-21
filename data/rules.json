@@ -11,6 +11,18 @@
 				657838163330465792
 			]
 		},
+		"actions": {
+			"tag": "actions",
+			"title": "Actions",
+			"content": "Actions can be spent to effect changes to the game state. Actions may only be spent in a manner that is explicitly described in the game rules.",
+			"parent_tag": "root",
+			"child_tags": [
+				"claiming-actions"
+			],
+			"message_ids": [
+				657856990080663552
+			]
+		},
 		"activity": {
 			"tag": "activity",
 			"title": "Activity",
@@ -54,6 +66,26 @@
 			],
 			"message_ids": [
 				657850104212095006
+			]
+		},
+		"claiming-actions": {
+			"tag": "claiming-actions",
+			"title": "Claiming actions",
+			"content": "A player may claim a number of actions equal to the number of 24-hour periods that have elapsed since they last claimed actions. A player may gain no more than 3 actions each time they claim actions.",
+			"parent_tag": "actions",
+			"child_tags": [],
+			"message_ids": [
+				657857635672129567
+			]
+		},
+		"closing-proposals": {
+			"tag": "closing-proposals",
+			"title": "Closing proposals",
+			"content": "Any player may close an open proposal if one or more of the following conditions is met:\n * The proposal is at least 48 hours (2 days) old.\n * All active players have cast a vote on the proposal.\n * A majority of active players have voted in favor of the proposal.\n * A majority of active players have voted against the proposal.\n\nThe player that authored a proposal may fail or delete it at any time.\n\nWhen a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				657855372794527744
 			]
 		},
 		"conflict-resolution": {
@@ -156,6 +188,16 @@
 				657842707561054229
 			]
 		},
+		"heavenly-bodies": {
+			"tag": "heavenly-bodies",
+			"title": "Heavenly bodies",
+			"content": "A sector can either be empty, or can contain exactly one heavenly body. The categories of heavenly body that exist are those described in the following list:\n\n* **Planet:** Spheroidal bodies of rock or gas. A source of minerals and other resources. Sometimes inhabitable.\n* **Asteroids:** Collections of small rocky objects. A source of minerals.\n* **Star:** Burning spheres of gas. A source of energy.\n* **Nebula:** Clouds of gas.\n* **Black Hole:** Singularity that absorbs light and matter.",
+			"parent_tag": "space-exploration",
+			"child_tags": [],
+			"message_ids": [
+				657856869074731030
+			]
+		},
 		"judgements": {
 			"tag": "judgements",
 			"title": "Judgements",
@@ -174,6 +216,16 @@
 			"child_tags": [],
 			"message_ids": [
 				657843109715247114
+			]
+		},
+		"map-orientation-and-description": {
+			"tag": "map-orientation-and-description",
+			"title": "Map orientation and description",
+			"content": "The galactic map is made up of grid, the tiles of which are tesselated regular hexagons with a point facing upwards.\n\nThe position of a tile on the grid is decribed by its two-dimensional (x, y) coordinate such that the x-component extends to the right and the y-component extends downward and to the right.",
+			"parent_tag": "space-exploration",
+			"child_tags": [],
+			"message_ids": [
+				657856204642713600
 			]
 		},
 		"meta-rules": {
@@ -206,6 +258,16 @@
 			],
 			"message_ids": [
 				657852600359714816
+			]
+		},
+		"passing-and-failing-proposals": {
+			"tag": "passing-and-failing-proposals",
+			"title": "Passing and failing proposals",
+			"content": "When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				657855506366332929
 			]
 		},
 		"polls": {
@@ -251,6 +313,26 @@
 				657854414681407488
 			]
 		},
+		"proposal-modification": {
+			"tag": "proposal-modification",
+			"title": "Proposal modification",
+			"content": "A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				657855907467755539
+			]
+		},
+		"proposal-veto": {
+			"tag": "proposal-veto",
+			"title": "Proposal veto",
+			"content": "The Tzar is an official who provides oversight for proposals.\n\nThe Tzar may spend an action to veto a proposal, closing and failing it immediately. When The Tzar spends an action this way, they surrender the Tzar office.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				657855205836324864
+			]
+		},
 		"proposals": {
 			"tag": "proposals",
 			"title": "Proposals",
@@ -259,7 +341,12 @@
 			"child_tags": [
 				"proposals-as-rule-amendments",
 				"proposals-as-game-actions",
-				"proposal-content"
+				"proposal-content",
+				"voting-on-proposals",
+				"proposal-veto",
+				"closing-proposals",
+				"passing-and-failing-proposals",
+				"proposal-modification"
 			],
 			"message_ids": [
 				657853860018257930
@@ -340,12 +427,14 @@
 				"quantities",
 				"officials",
 				"polls",
-				"proposals"
+				"proposals",
+				"space-exploration",
+				"actions"
 			],
 			"message_ids": [
-				657854799706062869,
-				657854800548855808,
-				657854801270276106
+				657857636481499136,
+				657857636922032139,
+				657857637873876992
 			]
 		},
 		"rule-offender": {
@@ -383,6 +472,30 @@
 				657851353787269121
 			]
 		},
+		"sectors": {
+			"tag": "sectors",
+			"title": "Sectors",
+			"content": "Each map sector has one of three discovery states:\n\n* **Hidden**\n* **Scanned**\n* **Explored**",
+			"parent_tag": "space-exploration",
+			"child_tags": [],
+			"message_ids": [
+				657856320489259018
+			]
+		},
+		"space-exploration": {
+			"tag": "space-exploration",
+			"title": "Space exploration",
+			"content": "The galactic map is a grid of tiles known as sectors. The sector with coordinates (0, 0) is also known as the origin.",
+			"parent_tag": "root",
+			"child_tags": [
+				"map-orientation-and-description",
+				"sectors",
+				"heavenly-bodies"
+			],
+			"message_ids": [
+				657856037885444106
+			]
+		},
 		"style-conventions": {
 			"tag": "style-conventions",
 			"title": "Style conventions",
@@ -416,6 +529,16 @@
 			"child_tags": [],
 			"message_ids": [
 				657841729646493727
+			]
+		},
+		"voting-on-proposals": {
+			"tag": "voting-on-proposals",
+			"title": "Voting on proposals",
+			"content": "Each player may cast one vote on each open proposal.\n\nPlayers may vote for or against a proposal. Players may also explicitly abstain from voting.\n\nA player may change their vote on an open proposal at any time.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				657855051481612300
 			]
 		}
 	}
