@@ -20,7 +20,7 @@
         * [**1.7.4. Formatting**](#formatting)
     * [**1.8. Glossary**](#glossary)
 * [**2. Channels**](#channels)
-    * [**2.1. #general**](#general)
+    * [**2.1. #general**](#general-channel)
     * [**2.2. #proposals**](#proposals-channel)
     * [**2.3. #polls**](#polls-channel)
     * [**2.4. #rules**](#rules-channel)
@@ -204,7 +204,7 @@ The game rules govern only messages and reactions in the GAME CHANNELS category 
 
 Each subsection of this rule section corresponds to a game channel; as these subsections are created, removed, or reordered, game channels must be created/renamed/reordered accordingly.
 
-### <a name='general'/> #general
+### <a name='general-channel'/> #general
 
 Players may converse freely in the <#607965760006127616> channel.
 
