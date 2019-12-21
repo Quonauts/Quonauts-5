@@ -33,6 +33,7 @@
     * [**6.2. The Jester**](#the-jester)
 * [**7. Polls**](#polls)
 * [**8. Proposals**](#proposals)
+    * [**8.1. Proposals as rule amendments**](#proposals-as-rule-amendments)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -281,4 +282,12 @@ Proposals can be made by posting them to the <#607966057981935710> game channel.
 The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.
 
 A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.
+
+### <a name='proposals-as-rule-amendments'/> Proposals as rule amendments
+
+The Provost is an official who can attempt to change the rules of the game through proposals. 
+
+The Provost may spend an action to make a proposal that describes any number of changes to the game rules.
+
+When a proposal made by the Provost is closed, if the proposal passes, the Provost earns two points.
 
