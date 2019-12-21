@@ -21,7 +21,7 @@
     * [**1.8. Glossary**](#glossary)
 * [**2. Channels**](#channels)
     * [**2.1. #general**](#general)
-    * [**2.2. #proposals**](#proposals)
+    * [**2.2. #proposals**](#proposals-channel)
     * [**2.3. #polls**](#polls-channel)
     * [**2.4. #rules**](#rules)
 * [**3. Roles**](#roles)
@@ -187,9 +187,9 @@ Each subsection of this rule section corresponds to a game channel; as these sub
 
 Players may converse freely in the <#607965760006127616> channel.
 
-### <a name='proposals'/> #proposals
+### <a name='proposals-channel'/> #proposals
 
-The <#607966057981935710> channel is governed by [**2.2. #proposals**](#proposals).
+The <#607966057981935710> channel is governed by [%proposals].
 
 ### <a name='polls-channel'/> #polls
 
