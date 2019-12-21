@@ -9,6 +9,7 @@
     * [**1.4. Rule violations**](#rule-violations)
         * [**1.4.1. Errors**](#errors)
         * [**1.4.2. Judgements**](#judgements)
+        * [**1.4.3. Appeals**](#appeals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -51,4 +52,20 @@ If any player ("the accusing player") believes that another player (hereby "the 
 If The Arbiter determines that a rule violation took place, the rule violation must be resolved, if it has not already.
 
 Whenever the Arbiter makes a judgement they may spend an action. If they do, they gain three points.
+
+#### <a name='appeals'/> Appeals
+
+If any player believes that a judgement made by The Arbiter is incorrect they may cite the specific judgement in an appeal poll.
+
+Players should vote in favor of this poll if, and only if, they agree that the accused player violated the rules as described.
+
+Any vote in such a poll cast by The Arbiter or the accused player in the cited judgement is not counted.
+
+An appeal poll must be available for voting for at least 24 hours before any action may be taken as a result.
+
+For any given ruling, only one appeal poll may be conducted.
+
+An appeal poll may not be started more than seven days after the cited ruling.
+
+If an appeal poll passes, any effects of the judgement are overturned.
 
