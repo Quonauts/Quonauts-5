@@ -34,3 +34,9 @@ Add all rules 7.x from Quonauts 4.5 but as rules 13.x.
 
 Revise proposal 2, exclude Rule 7.1 from Quonauts 4.5.
 
+<a name='4'/>
+
+## #4
+
+Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkPfsaKG. (This is done because of the 1000 character limit on proposals.)
+
