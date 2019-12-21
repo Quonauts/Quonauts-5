@@ -25,6 +25,7 @@
     * [**2.3. #polls**](#polls)
     * [**2.4. #rules**](#rules)
 * [**3. Roles**](#roles)
+    * [**3.1. Rule offender**](#rule-offender)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -196,4 +197,12 @@ The <#607966106891583518> channel contains this rules document.
 ## <a name='roles'/> Roles
 
 Null.
+
+### <a name='rule-offender'/> Rule offender
+
+If a player has a nonzero number of strikes, then they are given the "rule offender" role. If a player's number of strikes reaches zero, the "rule offender" role is removed.
+
+Players with the "rule offender" role may not make any game action; i.e. they may not participate in the game.
+
+After 24 hours with the "rule offender" role, a player's number of strikes decreases by one.
 
