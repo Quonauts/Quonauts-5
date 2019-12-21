@@ -30,6 +30,7 @@
 * [**5. Quantities**](#quantities)
 * [**6. Officials**](#officials)
     * [**6.1. Existing officials**](#existing-officials)
+    * [**6.2. The Jester**](#the-jester)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -252,4 +253,12 @@ Only offices defined within this list exist within the game. Where the powers an
 * **Provost**: 
 * **Tzar**: 
 * **Jester**
+
+### <a name='the-jester'/> The Jester
+
+The jester is an official.
+
+The jester primarily responsible for drawing attention to elements of the rules and game actions taken by players that might be of interest to other players and could easily be overlooked.
+
+The jester may spend an action to send a missive. A missive takes the form of a message sent to the <#607965760006127616> channel. The jester earns 1 point for each "thumbs up" reaction to their missive. The jester may react to their own missive, but may not earn points for doing so.
 
