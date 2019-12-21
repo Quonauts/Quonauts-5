@@ -49,6 +49,7 @@
     * [**9.3. Heavenly bodies**](#heavenly-bodies)
 * [**10. Actions**](#actions)
     * [**10.1. Claiming actions**](#claiming-actions)
+* [**11. Win conditions**](#win-conditions)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -407,4 +408,8 @@ Actions can be spent to effect changes to the game state. Actions may only be sp
 ### <a name='claiming-actions'/> Claiming actions
 
 A player may claim a number of actions equal to the number of 24-hour periods that have elapsed since they last claimed actions. A player may gain no more than 3 actions each time they claim actions.
+
+## <a name='win-conditions'/> Win conditions
+
+A player with 100 points wins the round.
 
