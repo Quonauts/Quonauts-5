@@ -47,6 +47,7 @@
     * [**9.1. Map orientation and description**](#map-orientation-and-description)
     * [**9.2. Sectors**](#sectors)
     * [**9.3. Heavenly bodies**](#heavenly-bodies)
+* [**10. Actions**](#actions)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -397,4 +398,8 @@ A sector can either be empty, or can contain exactly one heavenly body. The cate
 * **Star:** Burning spheres of gas. A source of energy.
 * **Nebula:** Clouds of gas.
 * **Black Hole:** Singularity that absorbs light and matter.
+
+## <a name='actions'/> Actions
+
+Actions can be spent to effect changes to the game state. Actions may only be spent in a manner that is explicitly described in the game rules.
 
