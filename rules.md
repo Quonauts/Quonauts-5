@@ -29,6 +29,7 @@
 * [**4. Activity**](#activity)
 * [**5. Quantities**](#quantities)
 * [**6. Officials**](#officials)
+    * [**6.1. Existing officials**](#existing-officials)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -240,4 +241,15 @@ An official may not assume a second office.
 An official may pass their office to another player only if the other player agrees to accept the office.
 
 A player may seize the office of an inactive official.
+
+### <a name='existing-officials'/> Existing officials
+
+Only offices defined within this list exist within the game. Where the powers and responsibilities of each office are defined elsewhere in the rule, the relevant sections should be defined here.
+
+* **Arbiter**: 
+* **Justice**: 
+* **Minister**: 
+* **Provost**: 
+* **Tzar**: 
+* **Jester**
 
