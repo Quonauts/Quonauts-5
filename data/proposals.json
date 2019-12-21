@@ -78,6 +78,15 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1576951930
+		},
+		{
+			"n": 7,
+			"author": 556954927969075225,
+			"content": "Add to the list within the glossary section the following definition:\n\n* **Roll an n-sided die**: Randomly generate an integer between 1 and a given value, inclusively, with an equal chance of each possible result.",
+			"status": "voting",
+			"message_id": 658045743474540554,
+			"votes": {},
+			"timestamp": 1576960730
 		}
 	]
 }
