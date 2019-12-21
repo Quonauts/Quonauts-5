@@ -23,7 +23,7 @@
     * [**2.1. #general**](#general)
     * [**2.2. #proposals**](#proposals-channel)
     * [**2.3. #polls**](#polls-channel)
-    * [**2.4. #rules**](#rules)
+    * [**2.4. #rules**](#rules-channel)
 * [**3. Roles**](#roles)
     * [**3.1. Rule offender**](#rule-offender)
 * [**4. Activity**](#activity)
@@ -216,7 +216,7 @@ The <#607966057981935710> channel is governed by [**8. Proposals**](#proposals).
 
 The <#607966084531748894> channel is governed by [**7. Polls**](#polls).
 
-### <a name='rules'/> #rules
+### <a name='rules-channel'/> #rules
 
 The <#607966106891583518> channel contains this rules document.
 
