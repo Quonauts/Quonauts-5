@@ -92,7 +92,7 @@ A zerbo is either a parasitic species of alien meiofauna, or an unobservable var
 
 <a name='13'/>
 
-## #13
+## #13 — Passed
 
 Create a new quantity with default settings titled "Money".
 
