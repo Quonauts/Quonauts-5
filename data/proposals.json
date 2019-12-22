@@ -96,6 +96,17 @@
 				"556954927969075225": 1
 			},
 			"timestamp": 1576960730
+		},
+		{
+			"n": 8,
+			"author": 260525358217035776,
+			"content": "A grumblebop is a unit of computational power.  Players may have any `x` amount of grumblebop(s), where `x` is an element of the natural numbers.  The first 1d6 a player rolls on passage of this rule will determine their amount of starting grumblebops.",
+			"status": "voting",
+			"message_id": 658218331157037057,
+			"votes": {
+				"260525358217035776": 1
+			},
+			"timestamp": 1577001879
 		}
 	]
 }
