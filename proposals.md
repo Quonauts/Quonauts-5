@@ -153,3 +153,10 @@ The following quantities exist within the game:
 • Money (quantity)
 ```
 
+<a name='19'/>
+
+## #19
+
+Add a rule section:
+6.0 Economy
+
