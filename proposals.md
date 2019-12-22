@@ -125,3 +125,31 @@ Add a rule section:
 5.2 Glorp Allegiance
 Any active player may at any time join or leave the Glorp Allegiance (ie. set his Glorp Allegiance quantity to 1 or 0), by a message in <#607965760006127616> . This may only be done once per day, ie. a player may not join and leave it on the same day.  A player may not be in the Glorp Allegiance and Communist party at the same time.
 
+<a name='18'/>
+
+## #18
+
+Rename rule section 5 to "Properties". Change the text to:
+```
+A property is a named variable with a value for each player.
+
+There are two standard types of properties: quantities and strings.
+
+A quantity property:
+• is instatiated at zero,
+• must always be an integer,
+• must never have a negative value,
+• cannot be traded or exchanged.
+
+A string property:
+• is instantiated at the empty string "",
+• must always have a string value.
+
+The following quantities exist within the game:
+
+• Point (quantity)
+• Action (quantity)
+• Strike (quantity)
+• Money (quantity)
+```
+
