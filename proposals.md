@@ -96,3 +96,9 @@ A zerbo is either a parasitic species of alien meiofauna, or an unobservable var
 
 Create a new quantity with default settings titled "Money".
 
+<a name='14'/>
+
+## #14
+
+Gollark holds no offices ever.
+
