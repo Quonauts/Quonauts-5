@@ -80,6 +80,7 @@
 			"message_id": 658008832798228502,
 			"votes": {
 				"160279332454006795": 1,
+				"258639553357676545": -1,
 				"260525358217035776": -1,
 				"319753218592866315": -1,
 				"427589146295664667": 1,
@@ -95,6 +96,7 @@
 			"status": "voting",
 			"message_id": 658045743474540554,
 			"votes": {
+				"258639553357676545": 1,
 				"512645502253400064": 1,
 				"556954927969075225": 1
 			},
@@ -129,11 +131,35 @@
 			"status": "voting",
 			"message_id": 658246857914581003,
 			"votes": {
+				"258639553357676545": -1,
 				"260525358217035776": 1,
 				"319753218592866315": 1,
 				"512645502253400064": 1
 			},
 			"timestamp": 1577008680
+		},
+		{
+			"n": 11,
+			"author": 260525358217035776,
+			"content": "A zerbo is either a parasitic species of alien meiofauna, or an unobservable variant of subatomic particle that breaks time symmetry, depending on the viewer.\u00a0 Exactly n2^x zerbos exist at any given time, where n is the number of zerbos since the number of zerbos was last altered by a player, and x is the number of whole 24 hour periods since that alteration.\u00a0 If a player owns any zerbos they are immediately removed from existence and n is set to the remaining number of zerbos, and x is set to 0. Upon the passage of this rule, n is set to 1 and x is set to 0.",
+			"status": "deleted",
+			"message_id": 658249068757254144,
+			"votes": {
+				"260525358217035776": 1
+			},
+			"timestamp": 1577009207
+		},
+		{
+			"n": 12,
+			"author": 260525358217035776,
+			"content": "A zerbo is either a parasitic species of alien meiofauna, or an unobservable variant of subatomic particle that breaks time symmetry, depending on the viewer.\u00a0 Exactly n2^x zerbos exist at any given time, where n is the number of zerbos when the number of zerbos was last altered by a player, and x is the number of whole 24 hour periods since that alteration.\u00a0 If a player owns any zerbos they are immediately removed from existence and n is set to the remaining number of zerbos, and x is set to 0. Upon the passage of this rule, n is set to 1 and x is set to 0.",
+			"status": "voting",
+			"message_id": 658249816324702211,
+			"votes": {
+				"258639553357676545": 1,
+				"260525358217035776": 1
+			},
+			"timestamp": 1577009385
 		}
 	]
 }
