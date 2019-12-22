@@ -242,17 +242,18 @@ A quantity is a named property with a numerical value for each player.
 
 By default any unique quantity added to the game:
 
-* applies to all players,
-* is instatiated at zero,
-* must always be an integer,
-* must never have a negative value,
-* cannot be traded or exchanged.
+    • applies to all players,
+    • is instatiated at zero,
+    • must always be an integer,
+    • must never have a negative value,
+    • cannot be traded or exchanged.
 
 The following quantities exist within the game:
 
-* **Point**
-* **Action**
-* **Strike**
+    • Point
+    • Action
+    • Strike
+    • Money
 
 ## <a name='officials'/> Officials
 
