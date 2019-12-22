@@ -143,3 +143,9 @@ Any active player may at any time join or leave the Glorp Allegiance (ie. set hi
 
 Remove the "Officials" rule and all rules which depend on it.
 
+<a name='22'/>
+
+## #22
+
+Vote against this proposal
+
