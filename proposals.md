@@ -65,3 +65,9 @@ Add to the list within the glossary section the following definition:
 
 * **Roll an n-sided die**: Randomly generate an integer between 1 and a given value, inclusively, with an equal chance of each possible result.
 
+<a name='8'/>
+
+## #8
+
+A grumblebop is a unit of computational power.  Players may have any `x` amount of grumblebop(s), where `x` is an element of the natural numbers.  The first 1d6 a player rolls on passage of this rule will determine their amount of starting grumblebops.
+
