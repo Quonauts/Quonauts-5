@@ -108,3 +108,13 @@ Gollark holds no offices ever.
 
 Eliminate section 9 (space exploration) rules
 
+<a name='16'/>
+
+## #16
+
+Create a new quantity called "Communist Party Membership". This can be 0 (no member) or 1 (member of the Communist Party).
+
+Add a rule section:
+5.1 Communist Party Membership
+Any active player may at any time join or leave the Communist Party (ie. set his Communist Party Membership quantity to 1 or 0), by a message in <#607965760006127616> . This may only be done once per day, ie. a player may not join and leave it on the same day.
+
