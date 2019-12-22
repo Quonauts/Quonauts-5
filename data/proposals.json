@@ -225,9 +225,8 @@
 			"status": "voting",
 			"message_id": 658289253272518661,
 			"votes": {
-				"258639553357676545": 1,
 				"260525358217035776": 1,
-				"330678593904443393": 1
+				"556954927969075225": 1
 			},
 			"timestamp": 1577018788
 		},
@@ -238,11 +237,50 @@
 			"status": "voting",
 			"message_id": 658290652336881664,
 			"votes": {
-				"258639553357676545": 1,
 				"260525358217035776": 1,
-				"330678593904443393": 1
+				"556954927969075225": -1
 			},
 			"timestamp": 1577019121
+		},
+		{
+			"n": 18,
+			"author": 330678593904443393,
+			"content": "Rename rule section 5 to \"Properties\". Change the text to:\n```\nA property is a named variable with a value for each player.\n\nThere are two standard types of properties: quantities and strings.\n\nA quantity property:\n\u2022 is instatiated at zero,\n\u2022 must always be an integer,\n\u2022 must never have a negative value,\n\u2022 cannot be traded or exchanged.\n\nA string property:\n\u2022 is instantiated at the empty string \"\",\n\u2022 must always have a string value.\n\nThe following quantities exist within the game:\n\n\u2022 Point (quantity)\n\u2022 Action (quantity)\n\u2022 Strike (quantity)\n\u2022 Money (quantity)\n```",
+			"status": "deleted",
+			"message_id": 658293727776866335,
+			"votes": {
+				"258639553357676545": 1,
+				"260525358217035776": 1,
+				"330678593904443393": 1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577019855
+		},
+		{
+			"n": 19,
+			"author": 260525358217035776,
+			"content": "Add a rule section:\n6.0 Economy",
+			"status": "deleted",
+			"message_id": 658294107529150494,
+			"votes": {
+				"260525358217035776": 1,
+				"330678593904443393": -1,
+				"512645502253400064": -1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577019945
+		},
+		{
+			"n": 20,
+			"author": 330678593904443393,
+			"content": "(Ignore this proposal if proposal #18 did not pass)\nAdd a new string property \"Party Membership\".\nRemove the additions by proposals #16 and #17 (in case they passed) and add a new subsection:\n```\n5.1 Party Membership\nThe Party Membership property may only have the value of the name of an existing party, or the empty string (for no party membership).\n\nAny active player may at any time join or leave a party (ie. set their Party Membership property to an existing party or to the empty string) by a message in <#607965760006127616>. Each player may only do this once per day.\n\nThe following parties exist within the game:\n\u2022 Communist Party\n\u2022 Glorp Party\n```",
+			"status": "deleted",
+			"message_id": 658296826256031744,
+			"votes": {
+				"258639553357676545": 1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1577020593
 		}
 	]
 }

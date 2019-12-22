@@ -1,1 +1,28 @@
-{}
+{
+	"action": {
+		"name": "action",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"money": {
+		"name": "money",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"point": {
+		"name": "point",
+		"aliases": [
+			"p"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"strike": {
+		"name": "strike",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	}
+}
