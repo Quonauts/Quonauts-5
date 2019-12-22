@@ -80,3 +80,9 @@ Add to the list within the glossary section the following definition:
 A grumblebop is a unit of computational power.  It is a quantity.  Upon passage of this rule all players will have 1 grumblebop. On any day a player's grumblebop amount can be said to be the result of the formula floor(c*floor(x)+20*c*sin(π*floor(x)/14)+1)
  where x is the number of days since the passage of this proposal, and c is their starting amount.  This is so c can be retroactively changed by future proposals.
 
+<a name='11'/>
+
+## #11
+
+A zerbo is either a parasitic species of alien meiofauna, or an unobservable variant of subatomic particle that breaks time symmetry, depending on the viewer.  Exactly n2^x zerbos exist at any given time, where n is the number of zerbos since the number of zerbos was last altered by a player, and x is the number of whole 24 hour periods since that alteration.  If a player owns any zerbos they are immediately removed from existence and n is set to the remaining number of zerbos, and x is set to 0. Upon the passage of this rule, n is set to 1 and x is set to 0.
+
