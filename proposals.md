@@ -135,19 +135,5 @@ Any active player may at any time join or leave the Glorp Allegiance (ie. set hi
 
 <a name='20'/>
 
-## #20
-
-(Ignore this proposal if proposal #18 did not pass)
-Add a new string property "Party Membership".
-Remove the additions by proposals #16 and #17 (in case they passed) and add a new subsection:
-```
-5.1 Party Membership
-The Party Membership property may only have the value of the name of an existing party, or the empty string (for no party membership).
-
-Any active player may at any time join or leave a party (ie. set their Party Membership property to an existing party or to the empty string) by a message in <#607965760006127616>. Each player may only do this once per day.
-
-The following parties exist within the game:
-• Communist Party
-• Glorp Party
-```
+## #20 — Deleted
 
