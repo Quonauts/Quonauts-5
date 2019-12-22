@@ -127,31 +127,7 @@ Any active player may at any time join or leave the Glorp Allegiance (ie. set hi
 
 <a name='18'/>
 
-## #18
-
-Rename rule section 5 to "Properties". Change the text to:
-```
-A property is a named variable with a value for each player.
-
-There are two standard types of properties: quantities and strings.
-
-A quantity property:
-• is instatiated at zero,
-• must always be an integer,
-• must never have a negative value,
-• cannot be traded or exchanged.
-
-A string property:
-• is instantiated at the empty string "",
-• must always have a string value.
-
-The following quantities exist within the game:
-
-• Point (quantity)
-• Action (quantity)
-• Strike (quantity)
-• Money (quantity)
-```
+## #18 — Deleted
 
 <a name='19'/>
 
