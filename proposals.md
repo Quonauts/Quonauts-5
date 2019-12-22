@@ -69,3 +69,10 @@ Add to the list within the glossary section the following definition:
 
 ## #8 — Deleted
 
+<a name='9'/>
+
+## #9
+
+A grumblebop is a unit of computational power.  Upon passage of this rule all players will have 1 grumblebop. On any day a player's grumblebop amount can be said to be the result of the formula `floor(c*floor(x)+20*c*sin(π*floor(x)/14)+1)`
+ where x is the number of days since the passage of this proposal, and c is their starting amount.  This is so c can be retroactively changed by future proposals.
+
