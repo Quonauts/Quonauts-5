@@ -405,7 +405,7 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players,\n* is instatiated at zero,\n* must always be an integer,\n* must never have a negative value,\n* cannot be traded or exchanged.\n\nThe following quantities exist within the game:\n\n* **Point**\n* **Action**\n* **Strike**",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n    \u2022 applies to all players,\n    \u2022 is instatiated at zero,\n    \u2022 must always be an integer,\n    \u2022 must never have a negative value,\n    \u2022 cannot be traded or exchanged.\n\nThe following quantities exist within the game:\n\n    \u2022 Point\n    \u2022 Action\n    \u2022 Strike\n    \u2022 Money",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [

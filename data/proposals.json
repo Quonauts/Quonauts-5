@@ -129,7 +129,7 @@
 			"n": 10,
 			"author": 260525358217035776,
 			"content": "A grumblebop is a unit of computational power.  It is a quantity.  Upon passage of this rule all players will have 1 grumblebop. On any day a player's grumblebop amount can be said to be the result of the formula floor(c*floor(x)+20*c*sin(\u03c0*floor(x)/14)+1)\n where x is the number of days since the passage of this proposal, and c is their starting amount.  This is so c can be retroactively changed by future proposals.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 658246857914581003,
 			"votes": {
 				"258639553357676545": -1,
@@ -162,7 +162,8 @@
 				"260525358217035776": 1,
 				"309787486278909952": -1,
 				"319753218592866315": -1,
-				"330678593904443393": -1
+				"330678593904443393": -1,
+				"512645502253400064": -1
 			},
 			"timestamp": 1577009385
 		},
@@ -170,7 +171,7 @@
 			"n": 13,
 			"author": 319753218592866315,
 			"content": "Create a new quantity with default settings titled \"Money\".",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 658282519753392167,
 			"votes": {
 				"258639553357676545": 1,
@@ -178,9 +179,70 @@
 				"309787486278909952": 1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
-				"512645502253400064": 1
+				"512645502253400064": 1,
+				"556954927969075225": 1
 			},
 			"timestamp": 1577017182
+		},
+		{
+			"n": 14,
+			"author": 427589146295664667,
+			"content": "Gollark holds no offices ever.",
+			"status": "voting",
+			"message_id": 658286526236590080,
+			"votes": {
+				"258639553357676545": -1,
+				"260525358217035776": -1,
+				"319753218592866315": -1,
+				"427589146295664667": 1,
+				"512645502253400064": -1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577018138
+		},
+		{
+			"n": 15,
+			"author": 258639553357676545,
+			"content": "Eliminate section 9 (space exploration) rules",
+			"status": "voting",
+			"message_id": 658287092450721794,
+			"votes": {
+				"258639553357676545": 1,
+				"260525358217035776": 1,
+				"309787486278909952": 1,
+				"319753218592866315": 1,
+				"330678593904443393": 1,
+				"427589146295664667": 1,
+				"512645502253400064": -1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577018273
+		},
+		{
+			"n": 16,
+			"author": 330678593904443393,
+			"content": "Create a new quantity called \"Communist Party Membership\". This can be 0 (no member) or 1 (member of the Communist Party).\n\nAdd a rule section:\n5.1 Communist Party Membership\nAny active player may at any time join or leave the Communist Party (ie. set his Communist Party Membership quantity to 1 or 0), by a message in <#607965760006127616> . This may only be done once per day, ie. a player may not join and leave it on the same day.",
+			"status": "voting",
+			"message_id": 658289253272518661,
+			"votes": {
+				"258639553357676545": 1,
+				"260525358217035776": 1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1577018788
+		},
+		{
+			"n": 17,
+			"author": 260525358217035776,
+			"content": "Create a new quantity called \"Glorp Allegiance\". This can be 0 (no member) or 1 (member of the Glorp Allegiance).\n\nAdd a rule section:\n5.2 Glorp Allegiance\nAny active player may at any time join or leave the Glorp Allegiance (ie. set his Glorp Allegiance quantity to 1 or 0), by a message in <#607965760006127616> . This may only be done once per day, ie. a player may not join and leave it on the same day.  A player may not be in the Glorp Allegiance and Communist party at the same time.",
+			"status": "voting",
+			"message_id": 658290652336881664,
+			"votes": {
+				"258639553357676545": 1,
+				"260525358217035776": 1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1577019121
 		}
 	]
 }
