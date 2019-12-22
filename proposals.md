@@ -155,10 +155,7 @@ The following quantities exist within the game:
 
 <a name='19'/>
 
-## #19
-
-Add a rule section:
-6.0 Economy
+## #19 — Deleted
 
 <a name='20'/>
 
