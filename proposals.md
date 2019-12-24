@@ -117,7 +117,7 @@ Any active player may at any time join or leave the Communist Party (ie. set his
 
 <a name='17'/>
 
-## #17
+## #17 — Failed
 
 Create a new quantity called "Glorp Allegiance". This can be 0 (no member) or 1 (member of the Glorp Allegiance).
 
