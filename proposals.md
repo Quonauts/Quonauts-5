@@ -53,7 +53,7 @@ If a punitive action poll passes, then the convicted player gains one strike.
 
 <a name='6'/>
 
-## #6
+## #6 — Failed
 
 pfhdjqpfpowbfmvnxbnwlspqhrotohkepqoirjdnncmxvzcxlshqgofpriqtfphlyrjiayehfisklsbthuhwofoubskjypsiqkvnxnzvshlalaihrlsaspgcjdnwhdiappfuxtwpptlykvjjdnwvayxiguiutjegwcuspcpaljdncnsbfsgifohpeojeksldlkcjcmsgrirpeiysucolglcknzwfsysiofuwytwoalakxnvndvayofotuegwgebmfncvzkslpqirjtjgmdmbwshcpgpfiwyalrkynevafigpjuwgwgtbymcloskkqdnvmbshwpodjhsnxkkspdijdjwhbckfkkd
 
