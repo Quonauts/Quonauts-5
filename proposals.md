@@ -2,7 +2,7 @@
 
 <a name='1'/>
 
-## #1
+## #1 — Failed
 
 The purpose of this proposal is to allow players to claim offices. It creates a new rule sub-section to describe the circumstances under which a player can assume an office.
 
