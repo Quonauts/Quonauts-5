@@ -234,3 +234,9 @@ Declare this proposal as failed.
 
 Fail proposal 35
 
+<a name='35'/>
+
+## #35
+
+Fail proposal 34
+
