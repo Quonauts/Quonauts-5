@@ -8,8 +8,7 @@
     * [**1.3. Disallowed by default**](#disallowed-by-default)
     * [**1.4. Rule violations**](#rule-violations)
         * [**1.4.1. Errors**](#errors)
-        * [**1.4.2. Appeals**](#appeals)
-        * [**1.4.3. Punitive action**](#punitive-action)
+        * [**1.4.2. Punitive action**](#punitive-action)
     * [**1.5. Timezones**](#timezones)
     * [**1.6. Bots**](#bots)
     * [**1.7. Style conventions**](#style-conventions)
@@ -76,22 +75,6 @@ Resolving a rule violation is the process of reversing the immediate effects of 
 An error is a rule violation made by a player either mistakenly or through ignorance. If a player causes a rule violation and is able to resolve the error, they may do so.
 
 If a player resolves an error within 24 hours of making that error, and the resolution of the error leaves the game state in such fashion that it is as if the error had never occurred, no punitive action can be taken against the player.
-
-#### <a name='appeals'/> Appeals
-
-If any player believes that a judgement made by The Arbiter is incorrect they may cite the specific judgement in an appeal poll.
-
-Players should vote in favor of this poll if, and only if, they agree that the accused player violated the rules as described.
-
-Any vote in such a poll cast by The Arbiter or the accused player in the cited judgement is not counted.
-
-An appeal poll must be available for voting for at least 24 hours before any action may be taken as a result.
-
-For any given ruling, only one appeal poll may be conducted.
-
-An appeal poll may not be started more than seven days after the cited ruling.
-
-If an appeal poll passes, any effects of the judgement are overturned.
 
 #### <a name='punitive-action'/> Punitive action
 
