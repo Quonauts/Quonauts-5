@@ -44,7 +44,6 @@
     * [**8.7. Passing and failing proposals**](#passing-and-failing-proposals)
     * [**8.8. Proposal modification**](#proposal-modification)
 * [**9. Space exploration**](#space-exploration)
-    * [**9.1. Map orientation and description**](#map-orientation-and-description)
 * [**10. Actions**](#actions)
     * [**10.1. Claiming actions**](#claiming-actions)
 * [**11. Win conditions**](#win-conditions)
@@ -376,12 +375,6 @@ A player may edit a proposal they have submitted if that proposal is open for vo
 ## <a name='space-exploration'/> Space exploration
 
 The galactic map is a grid of tiles known as sectors. The sector with coordinates (0, 0) is also known as the origin.
-
-### <a name='map-orientation-and-description'/> Map orientation and description
-
-The galactic map is made up of grid, the tiles of which are tesselated regular hexagons with a point facing upwards.
-
-The position of a tile on the grid is decribed by its two-dimensional (x, y) coordinate such that the x-component extends to the right and the y-component extends downward and to the right.
 
 ## <a name='actions'/> Actions
 
