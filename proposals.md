@@ -246,3 +246,17 @@ Fail proposal 34
 
 This Proposal grants the Player "Owain" a win to honor his fast action thus ending this round and resetting all quantities
 
+<a name='37'/>
+
+## #37
+
+Add a rule "5.1 Money" with the text:
+```
+5.1 Money
+
+Money is like any other quantity but with the following exceptions:
+• It is instantiated at 100 
+• It can be traded/exchanged between players 
+```
+Along with that, reset every player's Money to 100 (as of now every player has 0 Money)
+
