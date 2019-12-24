@@ -342,6 +342,7 @@
 				"330678593904443393": 1,
 				"427589146295664667": -1,
 				"437904804732338177": -1,
+				"474286909636476939": 1,
 				"512645502253400064": -1
 			},
 			"timestamp": 1577047654
@@ -446,6 +447,7 @@
 			"votes": {
 				"236831708354314240": 1,
 				"260525358217035776": -1,
+				"474286909636476939": -1,
 				"512645502253400064": -1
 			},
 			"timestamp": 1577200085
@@ -475,10 +477,94 @@
 			"votes": {
 				"236831708354314240": 1,
 				"427589146295664667": -1,
+				"474286909636476939": -1,
 				"512645502253400064": 1,
 				"556954927969075225": 1
 			},
 			"timestamp": 1577204646
+		},
+		{
+			"n": 33,
+			"author": 236831708354314240,
+			"content": "Declare this proposal as failed.",
+			"status": "voting",
+			"message_id": 659070556078997543,
+			"votes": {
+				"236831708354314240": 1,
+				"427589146295664667": 1,
+				"474286909636476939": 1,
+				"512645502253400064": -1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577205065
+		},
+		{
+			"n": 34,
+			"author": 427589146295664667,
+			"content": "Fail proposal 35",
+			"status": "voting",
+			"message_id": 659071010569715712,
+			"votes": {
+				"236831708354314240": 1,
+				"427589146295664667": 1,
+				"474286909636476939": 1,
+				"512645502253400064": -1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577205173
+		},
+		{
+			"n": 35,
+			"author": 427589146295664667,
+			"content": "Fail proposal 34",
+			"status": "voting",
+			"message_id": 659071044342120459,
+			"votes": {
+				"236831708354314240": 1,
+				"427589146295664667": 1,
+				"474286909636476939": -1,
+				"512645502253400064": -1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577205181
+		},
+		{
+			"n": 36,
+			"author": 512645502253400064,
+			"content": "This Proposal grants the Player \"Owain\" a win to honor his fast action thus ending this round and resetting all quantities",
+			"status": "voting",
+			"message_id": 659071678965612575,
+			"votes": {
+				"236831708354314240": -1,
+				"427589146295664667": -1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577205333
+		},
+		{
+			"n": 37,
+			"author": 236831708354314240,
+			"content": "Add a rule \"5.1 Money\" with the text:\n```\n5.1 Money\n\nMoney is like any other quantity but with the following exceptions:\n\u2022 It is instantiated at 100 \n\u2022 It can be traded/exchanged between players (with the agreement of both the giving and the receiving player)\n```\n\nAlong with that, reset every player's Money to 100 (as of now every player has 0 Money)",
+			"status": "voting",
+			"message_id": 659074049825308716,
+			"votes": {
+				"236831708354314240": 1,
+				"474286909636476939": 1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577205898
+		},
+		{
+			"n": 38,
+			"author": 260525358217035776,
+			"content": "remove all functionality and implementations of the quantity \"Money\".  It is bland and tasteless.  I think we can come up with something more interesting.",
+			"status": "voting",
+			"message_id": 659076780363218990,
+			"votes": {
+				"427589146295664667": 1,
+				"556954927969075225": 1
+			},
+			"timestamp": 1577206549
 		}
 	]
 }
