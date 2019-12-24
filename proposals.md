@@ -228,3 +228,9 @@ A proposal must describe one or more actions that make changes to the game rules
 
 Declare this proposal as failed.
 
+<a name='34'/>
+
+## #34
+
+Fail proposal 35
+
