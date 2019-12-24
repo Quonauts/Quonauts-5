@@ -81,7 +81,7 @@
 			"n": 6,
 			"author": 427589146295664667,
 			"content": "pfhdjqpfpowbfmvnxbnwlspqhrotohkepqoirjdnncmxvzcxlshqgofpriqtfphlyrjiayehfisklsbthuhwofoubskjypsiqkvnxnzvshlalaihrlsaspgcjdnwhdiappfuxtwpptlykvjjdnwvayxiguiutjegwcuspcpaljdncnsbfsgifohpeojeksldlkcjcmsgrirpeiysucolglcknzwfsysiofuwytwoalakxnvndvayofotuegwgebmfncvzkslpqirjtjgmdmbwshcpgpfiwyalrkynevafigpjuwgwgtbymcloskkqdnvmbshwpodjhsnxkkspdijdjwhbckfkkd",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 658008832798228502,
 			"votes": {
 				"160279332454006795": 1,
@@ -100,7 +100,7 @@
 			"n": 7,
 			"author": 556954927969075225,
 			"content": "Add to the list within the glossary section the following definition:\n\n* **Roll an n-sided die**: Randomly generate an integer between 1 and a given value, inclusively, with an equal chance of each possible result.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 658045743474540554,
 			"votes": {
 				"236831708354314240": 1,
@@ -319,6 +319,7 @@
 				"260525358217035776": 1,
 				"309787486278909952": 1,
 				"319753218592866315": 1,
+				"330678593904443393": 1,
 				"427589146295664667": 1,
 				"437904804732338177": -1,
 				"512645502253400064": -1,
