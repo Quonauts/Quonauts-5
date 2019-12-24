@@ -43,12 +43,11 @@
     * [**8.6. Closing proposals**](#closing-proposals)
     * [**8.7. Passing and failing proposals**](#passing-and-failing-proposals)
     * [**8.8. Proposal modification**](#proposal-modification)
-* [**9. Space exploration**](#space-exploration)
-* [**10. Actions**](#actions)
-    * [**10.1. Claiming actions**](#claiming-actions)
-* [**11. Win conditions**](#win-conditions)
-    * [**11.1. Rounds**](#rounds)
-* [**12. End of the game**](#end-of-the-game)
+* [**9. Actions**](#actions)
+    * [**9.1. Claiming actions**](#claiming-actions)
+* [**10. Win conditions**](#win-conditions)
+    * [**10.1. Rounds**](#rounds)
+* [**11. End of the game**](#end-of-the-game)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -371,10 +370,6 @@ When a proposal is closed, it passes if it has more votes in favour than against
 ### <a name='proposal-modification'/> Proposal modification
 
 A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
-
-## <a name='space-exploration'/> Space exploration
-
-The galactic map is a grid of tiles known as sectors. The sector with coordinates (0, 0) is also known as the origin.
 
 ## <a name='actions'/> Actions
 
