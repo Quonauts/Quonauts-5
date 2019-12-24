@@ -189,3 +189,9 @@ Add a new rule section 13.4 titled "Quiet streets behind The Wall: Mutations and
 
 Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkPfsaKG. (This is done because of the 1000 character limit on proposals.) (Reproposed because the voting was a tie, 3 to 3.)
 
+<a name='29'/>
+
+## #29
+
+Merry Christmas/Holidays, peeps!
+
