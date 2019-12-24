@@ -222,3 +222,9 @@ to:
 A proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.
 ```
 
+<a name='33'/>
+
+## #33
+
+Declare this proposal as failed.
+
