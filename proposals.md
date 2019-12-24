@@ -139,7 +139,7 @@ Any active player may at any time join or leave the Glorp Allegiance (ie. set hi
 
 <a name='21'/>
 
-## #21
+## #21 — Passed
 
 Remove the "Officials" rule and all rules which depend on it.
 
