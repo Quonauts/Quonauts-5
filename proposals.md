@@ -107,7 +107,7 @@ Eliminate section 9 (space exploration) rules
 
 <a name='16'/>
 
-## #16
+## #16 — Failed
 
 Create a new quantity called "Communist Party Membership". This can be 0 (no member) or 1 (member of the Communist Party).
 
