@@ -201,3 +201,12 @@ Merry Christmas/Holidays, peeps!
 
 But it's only December 24
 
+<a name='31'/>
+
+## #31
+
+Add a paragraph at the end of section 8. Proposals:
+```
+Using proposals for jokes or not game related things is a rule violation.
+```
+
