@@ -28,15 +28,14 @@
 * [**5. Quantities**](#quantities)
 * [**6. Polls**](#polls)
 * [**7. Proposals**](#proposals)
-    * [**7.1. Proposals as game actions**](#proposals-as-game-actions)
-    * [**7.2. Proposal content**](#proposal-content)
-        * [**7.2.1. Conflict resolution**](#conflict-resolution)
-        * [**7.2.2. Dependency resolution**](#dependency-resolution)
-    * [**7.3. Voting on proposals**](#voting-on-proposals)
-    * [**7.4. Proposal veto**](#proposal-veto)
-    * [**7.5. Closing proposals**](#closing-proposals)
-    * [**7.6. Passing and failing proposals**](#passing-and-failing-proposals)
-    * [**7.7. Proposal modification**](#proposal-modification)
+    * [**7.1. Proposal content**](#proposal-content)
+        * [**7.1.1. Conflict resolution**](#conflict-resolution)
+        * [**7.1.2. Dependency resolution**](#dependency-resolution)
+    * [**7.2. Voting on proposals**](#voting-on-proposals)
+    * [**7.3. Proposal veto**](#proposal-veto)
+    * [**7.4. Closing proposals**](#closing-proposals)
+    * [**7.5. Passing and failing proposals**](#passing-and-failing-proposals)
+    * [**7.6. Proposal modification**](#proposal-modification)
 * [**8. Actions**](#actions)
     * [**8.1. Claiming actions**](#claiming-actions)
 * [**9. Win conditions**](#win-conditions)
@@ -235,18 +234,6 @@ Proposals can be made by posting them to the <#607966057981935710> game channel.
 The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.
 
 A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.
-
-### <a name='proposals-as-game-actions'/> Proposals as game actions
-
-The Minister is an official who can attempt to make changes to the game state through proposals.
-
-The Minister may spend an action to make a proposals that describes any number of actions that alter the game state in any fashion.
-
-Proposals made by the Minister must not make changes to the game rules.
-
-Proposals made by the Minister receiving two or more votes against cannot pass.
-
-When a proposal made by the Minister is closed, if the proposal passes, the Minister earns three points.
 
 ### <a name='proposal-content'/> Proposal content
 
