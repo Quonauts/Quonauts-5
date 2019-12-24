@@ -198,16 +198,6 @@
 				657842707561054229
 			]
 		},
-		"heavenly-bodies": {
-			"tag": "heavenly-bodies",
-			"title": "Heavenly bodies",
-			"content": "A sector can either be empty, or can contain exactly one heavenly body. The categories of heavenly body that exist are those described in the following list:\n\n* **Planet:** Spheroidal bodies of rock or gas. A source of minerals and other resources. Sometimes inhabitable.\n* **Asteroids:** Collections of small rocky objects. A source of minerals.\n* **Star:** Burning spheres of gas. A source of energy.\n* **Nebula:** Clouds of gas.\n* **Black Hole:** Singularity that absorbs light and matter.",
-			"parent_tag": "space-exploration",
-			"child_tags": [],
-			"message_ids": [
-				657856869074731030
-			]
-		},
 		"judgements": {
 			"tag": "judgements",
 			"title": "Judgements",
@@ -226,16 +216,6 @@
 			"child_tags": [],
 			"message_ids": [
 				657843109715247114
-			]
-		},
-		"map-orientation-and-description": {
-			"tag": "map-orientation-and-description",
-			"title": "Map orientation and description",
-			"content": "The galactic map is made up of grid, the tiles of which are tesselated regular hexagons with a point facing upwards.\n\nThe position of a tile on the grid is decribed by its two-dimensional (x, y) coordinate such that the x-component extends to the right and the y-component extends downward and to the right.",
-			"parent_tag": "space-exploration",
-			"child_tags": [],
-			"message_ids": [
-				657856204642713600
 			]
 		},
 		"meta-rules": {
@@ -438,7 +418,6 @@
 				"officials",
 				"polls",
 				"proposals",
-				"space-exploration",
 				"actions",
 				"win-conditions",
 				"end-of-the-game"
@@ -492,30 +471,6 @@
 			"child_tags": [],
 			"message_ids": [
 				657851353787269121
-			]
-		},
-		"sectors": {
-			"tag": "sectors",
-			"title": "Sectors",
-			"content": "Each map sector has one of three discovery states:\n\n* **Hidden**\n* **Scanned**\n* **Explored**",
-			"parent_tag": "space-exploration",
-			"child_tags": [],
-			"message_ids": [
-				657856320489259018
-			]
-		},
-		"space-exploration": {
-			"tag": "space-exploration",
-			"title": "Space exploration",
-			"content": "The galactic map is a grid of tiles known as sectors. The sector with coordinates (0, 0) is also known as the origin.",
-			"parent_tag": "root",
-			"child_tags": [
-				"map-orientation-and-description",
-				"sectors",
-				"heavenly-bodies"
-			],
-			"message_ids": [
-				657856037885444106
 			]
 		},
 		"style-conventions": {

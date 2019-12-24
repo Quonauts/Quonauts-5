@@ -200,7 +200,7 @@
 			"n": 14,
 			"author": 427589146295664667,
 			"content": "Gollark holds no offices ever.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 658286526236590080,
 			"votes": {
 				"160279332454006795": 1,
@@ -219,7 +219,7 @@
 			"n": 15,
 			"author": 258639553357676545,
 			"content": "Eliminate section 9 (space exploration) rules",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 658287092450721794,
 			"votes": {
 				"160279332454006795": 1,
@@ -239,7 +239,7 @@
 			"n": 16,
 			"author": 330678593904443393,
 			"content": "Create a new quantity called \"Communist Party Membership\". This can be 0 (no member) or 1 (member of the Communist Party).\n\nAdd a rule section:\n5.1 Communist Party Membership\nAny active player may at any time join or leave the Communist Party (ie. set his Communist Party Membership quantity to 1 or 0), by a message in <#607965760006127616> . This may only be done once per day, ie. a player may not join and leave it on the same day.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 658289253272518661,
 			"votes": {
 				"160279332454006795": -1,
@@ -255,7 +255,7 @@
 			"n": 17,
 			"author": 260525358217035776,
 			"content": "Create a new quantity called \"Glorp Allegiance\". This can be 0 (no member) or 1 (member of the Glorp Allegiance).\n\nAdd a rule section:\n5.2 Glorp Allegiance\nAny active player may at any time join or leave the Glorp Allegiance (ie. set his Glorp Allegiance quantity to 1 or 0), by a message in <#607965760006127616> . This may only be done once per day, ie. a player may not join and leave it on the same day.  A player may not be in the Glorp Allegiance and Communist party at the same time.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 658290652336881664,
 			"votes": {
 				"160279332454006795": -1,
@@ -311,7 +311,7 @@
 			"n": 21,
 			"author": 160279332454006795,
 			"content": "Remove the \"Officials\" rule and all rules which depend on it.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 658308826411302912,
 			"votes": {
 				"160279332454006795": 1,
@@ -419,6 +419,42 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1577194856
+		},
+		{
+			"n": 29,
+			"author": 330678593904443393,
+			"content": "Merry Christmas/Holidays, peeps!",
+			"status": "voting",
+			"message_id": 659049252214800394,
+			"votes": {
+				"260525358217035776": -1,
+				"330678593904443393": -1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577199986
+		},
+		{
+			"n": 30,
+			"author": 427589146295664667,
+			"content": "But it's only December 24",
+			"status": "voting",
+			"message_id": 659049667262152709,
+			"votes": {
+				"260525358217035776": -1
+			},
+			"timestamp": 1577200085
+		},
+		{
+			"n": 31,
+			"author": 330678593904443393,
+			"content": "Add a paragraph at the end of section 8. Proposals:\n```\nUsing proposals for jokes or not game related things is a rule violation.\n```",
+			"status": "voting",
+			"message_id": 659052602025050112,
+			"votes": {
+				"260525358217035776": -1,
+				"330678593904443393": -1
+			},
+			"timestamp": 1577200784
 		}
 	]
 }
