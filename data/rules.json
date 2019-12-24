@@ -20,7 +20,7 @@
 				"claiming-actions"
 			],
 			"message_ids": [
-				657856990080663552
+				659058503415234587
 			]
 		},
 		"activity": {
@@ -30,17 +30,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				657852180866400266
-			]
-		},
-		"appeals": {
-			"tag": "appeals",
-			"title": "Appeals",
-			"content": "If any player believes that a judgement made by The Arbiter is incorrect they may cite the specific judgement in an appeal poll.\n\nPlayers should vote in favor of this poll if, and only if, they agree that the accused player violated the rules as described.\n\nAny vote in such a poll cast by The Arbiter or the accused player in the cited judgement is not counted.\n\nAn appeal poll must be available for voting for at least 24 hours before any action may be taken as a result.\n\nFor any given ruling, only one appeal poll may be conducted.\n\nAn appeal poll may not be started more than seven days after the cited ruling.\n\nIf an appeal poll passes, any effects of the judgement are overturned.",
-			"parent_tag": "rule-violations",
-			"child_tags": [],
-			"message_ids": [
-				657839472276406283
+				659058451758055425
 			]
 		},
 		"bots": {
@@ -50,7 +40,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				657841853441376276
+				659058377413885995
 			]
 		},
 		"channels": {
@@ -65,7 +55,7 @@
 				"rules-channel"
 			],
 			"message_ids": [
-				657850104212095006
+				659058425212305408
 			]
 		},
 		"claiming-actions": {
@@ -75,7 +65,7 @@
 			"parent_tag": "actions",
 			"child_tags": [],
 			"message_ids": [
-				657857635672129567
+				659058504786771978
 			]
 		},
 		"closing-proposals": {
@@ -85,7 +75,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				657855372794527744
+				659058500265181227
 			]
 		},
 		"conflict-resolution": {
@@ -95,7 +85,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				657854596235919378
+				659058477016154112
 			]
 		},
 		"content": {
@@ -105,7 +95,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				657842431269535764
+				659058399874514984
 			]
 		},
 		"dependency-resolution": {
@@ -115,7 +105,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				657854798875590667
+				659058477787906068
 			]
 		},
 		"disallowed-by-default": {
@@ -135,7 +125,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				657874270390845442
+				659058528236863498
 			]
 		},
 		"errors": {
@@ -148,16 +138,6 @@
 				657839208613937162
 			]
 		},
-		"existing-officials": {
-			"tag": "existing-officials",
-			"title": "Existing officials",
-			"content": "Only offices defined within this list exist within the game. Where the powers and responsibilities of each office are defined elsewhere in the rule, the relevant sections should be defined here.\n\n* **Arbiter**: \n* **Justice**: \n* **Minister**: \n* **Provost**: \n* **Tzar**: \n* **Jester**",
-			"parent_tag": "officials",
-			"child_tags": [],
-			"message_ids": [
-				657852738557706270
-			]
-		},
 		"formatting": {
 			"tag": "formatting",
 			"title": "Formatting",
@@ -165,7 +145,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				657843425999192083
+				659058401954758672
 			]
 		},
 		"general-channel": {
@@ -175,7 +155,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				657850352183541770
+				659058425694650390
 			]
 		},
 		"glossary": {
@@ -185,7 +165,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				657843664965599262
+				659058403297198121
 			]
 		},
 		"headers-and-tags": {
@@ -195,17 +175,17 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				657842707561054229
+				659058400705118227
 			]
 		},
 		"judgements": {
 			"tag": "judgements",
 			"title": "Judgements",
-			"content": "Judgements are rulings made by an official known as The Arbiter.\n\nIf any player (\"the accusing player\") believes that another player (hereby \"the accused player\") has violated the rules, then the accusing player may call upon The Arbiter to make a judgement. The accusing player must describe which sections or clauses of the rules were violated and what illegal game action was taken by the accused player. The Arbiter must make a judgement on whether a rule violation took place.\n\nIf The Arbiter determines that a rule violation took place, the rule violation must be resolved, if it has not already.\n\nWhenever the Arbiter makes a judgement they may spend an action. If they do, they gain three points.",
+			"content": "Judgements are rulings on the legality of a game action.\n\nAll judgements are made by the user known as <@!556954927969075225>.\n\nIf a judgement determines that a rule violation took place, the rule violation must be resolved, if it has not already.",
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				657839339954372609
+				659058374822068275
 			]
 		},
 		"lists": {
@@ -215,7 +195,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				657843109715247114
+				659058401577533450
 			]
 		},
 		"meta-rules": {
@@ -237,19 +217,6 @@
 				655831001783861288
 			]
 		},
-		"officials": {
-			"tag": "officials",
-			"title": "Officials",
-			"content": "An official is a player that holds an office, a specific role that interacts with some aspect of the game.\n\nAn official may not assume a second office.\n\nAn official may pass their office to another player only if the other player agrees to accept the office.\n\nA player may seize the office of an inactive official.",
-			"parent_tag": "root",
-			"child_tags": [
-				"existing-officials",
-				"the-jester"
-			],
-			"message_ids": [
-				657852600359714816
-			]
-		},
 		"passing-and-failing-proposals": {
 			"tag": "passing-and-failing-proposals",
 			"title": "Passing and failing proposals",
@@ -257,7 +224,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				657855506366332929
+				659058501095784448
 			]
 		},
 		"polls": {
@@ -267,7 +234,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				657853734700711949
+				659058453796618270
 			]
 		},
 		"polls-channel": {
@@ -277,7 +244,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				657851083904909332
+				659058427343011880
 			]
 		},
 		"precedence": {
@@ -300,7 +267,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				657854414681407488
+				659058476365905920
 			]
 		},
 		"proposal-modification": {
@@ -310,17 +277,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				657855907467755539
-			]
-		},
-		"proposal-veto": {
-			"tag": "proposal-veto",
-			"title": "Proposal veto",
-			"content": "The Tzar is an official who provides oversight for proposals.\n\nThe Tzar may spend an action to veto a proposal, closing and failing it immediately. When The Tzar spends an action this way, they surrender the Tzar office.",
-			"parent_tag": "proposals",
-			"child_tags": [],
-			"message_ids": [
-				657855205836324864
+				659058501854953484
 			]
 		},
 		"proposals": {
@@ -329,37 +286,14 @@
 			"content": "Proposals can be made by posting them to the <#607966057981935710> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.",
 			"parent_tag": "root",
 			"child_tags": [
-				"proposals-as-rule-amendments",
-				"proposals-as-game-actions",
 				"proposal-content",
 				"voting-on-proposals",
-				"proposal-veto",
 				"closing-proposals",
 				"passing-and-failing-proposals",
 				"proposal-modification"
 			],
 			"message_ids": [
-				657853860018257930
-			]
-		},
-		"proposals-as-game-actions": {
-			"tag": "proposals-as-game-actions",
-			"title": "Proposals as game actions",
-			"content": "The Minister is an official who can attempt to make changes to the game state through proposals.\n\nThe Minister may spend an action to make a proposals that describes any number of actions that alter the game state in any fashion.\n\nProposals made by the Minister must not make changes to the game rules.\n\nProposals made by the Minister receiving two or more votes against cannot pass.\n\nWhen a proposal made by the Minister is closed, if the proposal passes, the Minister earns three points.",
-			"parent_tag": "proposals",
-			"child_tags": [],
-			"message_ids": [
-				657854237631315968
-			]
-		},
-		"proposals-as-rule-amendments": {
-			"tag": "proposals-as-rule-amendments",
-			"title": "Proposals as rule amendments",
-			"content": "The Provost is an official who can attempt to change the rules of the game through proposals. \n\nThe Provost may spend an action to make a proposal that describes any number of changes to the game rules.\n\nWhen a proposal made by the Provost is closed, if the proposal passes, the Provost earns two points.",
-			"parent_tag": "proposals",
-			"child_tags": [],
-			"message_ids": [
-				657854060334022656
+				659058475355340803
 			]
 		},
 		"proposals-channel": {
@@ -369,7 +303,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				657850829067255808
+				659058426588037140
 			]
 		},
 		"punitive-action": {
@@ -379,7 +313,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				657839936917209118
+				659058375434174469
 			]
 		},
 		"quantities": {
@@ -389,7 +323,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				657852474404765697
+				659058452982661179
 			]
 		},
 		"roles": {
@@ -401,7 +335,7 @@
 				"rule-offender"
 			],
 			"message_ids": [
-				657851593449799710
+				659058449715429407
 			]
 		},
 		"root": {
@@ -415,7 +349,6 @@
 				"roles",
 				"activity",
 				"quantities",
-				"officials",
 				"polls",
 				"proposals",
 				"actions",
@@ -423,9 +356,9 @@
 				"end-of-the-game"
 			],
 			"message_ids": [
-				657874271380439041,
-				657874272060047383,
-				657874272890519552
+				659058528912146432,
+				659058529763852288,
+				659058551473438760
 			]
 		},
 		"rounds": {
@@ -435,7 +368,7 @@
 			"parent_tag": "win-conditions",
 			"child_tags": [],
 			"message_ids": [
-				657874107823554560
+				659058527255527476
 			]
 		},
 		"rule-offender": {
@@ -445,7 +378,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				657852084548534282
+				659058451011338250
 			]
 		},
 		"rule-violations": {
@@ -456,7 +389,6 @@
 			"child_tags": [
 				"errors",
 				"judgements",
-				"appeals",
 				"punitive-action"
 			],
 			"message_ids": [
@@ -470,7 +402,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				657851353787269121
+				659058428005580831
 			]
 		},
 		"style-conventions": {
@@ -485,17 +417,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				657842078918770698
-			]
-		},
-		"the-jester": {
-			"tag": "the-jester",
-			"title": "The Jester",
-			"content": "The jester is an official.\n\nThe jester primarily responsible for drawing attention to elements of the rules and game actions taken by players that might be of interest to other players and could easily be overlooked.\n\nThe jester may spend an action to send a missive. A missive takes the form of a message sent to the <#607965760006127616> channel. The jester earns 1 point for each \"thumbs up\" reaction to their missive. The jester may react to their own missive, but may not earn points for doing so.",
-			"parent_tag": "officials",
-			"child_tags": [],
-			"message_ids": [
-				657852866823716865
+				659058378164797450
 			]
 		},
 		"timezones": {
@@ -505,7 +427,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				657841729646493727
+				659058376327561227
 			]
 		},
 		"voting-on-proposals": {
@@ -515,7 +437,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				657855051481612300
+				659058478790344704
 			]
 		},
 		"win-conditions": {
@@ -527,7 +449,7 @@
 				"rounds"
 			],
 			"message_ids": [
-				657873996531892224
+				659058526521393172
 			]
 		}
 	}
