@@ -101,7 +101,7 @@ Gollark holds no offices ever.
 
 <a name='15'/>
 
-## #15
+## #15 — Passed
 
 Eliminate section 9 (space exploration) rules
 
