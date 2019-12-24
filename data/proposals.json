@@ -165,7 +165,7 @@
 			"n": 12,
 			"author": 260525358217035776,
 			"content": "A zerbo is either a parasitic species of alien meiofauna, or an unobservable variant of subatomic particle that breaks time symmetry, depending on the viewer.\u00a0 Exactly n2^x zerbos exist at any given time, where n is the number of zerbos when the number of zerbos was last altered by a player, and x is the number of whole 24 hour periods since that alteration.\u00a0 If a player owns any zerbos they are immediately removed from existence and n is set to the remaining number of zerbos, and x is set to 0. Upon the passage of this rule, n is set to 1 and x is set to 0.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 658249816324702211,
 			"votes": {
 				"160279332454006795": -1,
@@ -345,6 +345,17 @@
 				"512645502253400064": -1
 			},
 			"timestamp": 1577047654
+		},
+		{
+			"n": 23,
+			"author": 236831708354314240,
+			"content": "This proposal is false.",
+			"status": "deleted",
+			"message_id": 658986620657074186,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1577185053
 		}
 	]
 }
