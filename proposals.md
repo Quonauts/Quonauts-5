@@ -165,3 +165,9 @@ Add a new rule section after "Polls" titled "Binding agreements", with the follo
 
 One or more players may at any time create a binding agreement. It must be clear to all players, involved or uninvolved, that such an agreement is being made, and an agreement cannot be made without the support of all involved players  A binding agreement has terms, which can govern any in-game actions (including sending messages) that the involved parties may take. The terms may make use of conditions based on exact times, certain actions, or any other criteria. At no point can the terms of a binding agreement be broken by a member of the agreement, and if such an event occurs, it should be handled like any violation of the rules.
 
+<a name='26'/>
+
+## #26
+
+All players get 100 money with which to trade with before better ways to attain money are added to the rules.
+
