@@ -169,3 +169,17 @@ One or more players may at any time create a binding agreement. It must be clear
 
 ## #26 — Deleted
 
+<a name='27'/>
+
+## #27
+
+Add a new rule section 13 titled "Gamma rays and the spacetime after the boom"
+
+Add a new rule section 13.1 titled "Lore: tales from grandma"
+
+Add a new rule section 13.2 titled "Beyond The Wall: venturing into the wasteland"
+
+Add a new rule section 13.3 titled "Cracks in the concrete: The Wall"
+
+Add a new rule section 13.4 titled "Quiet streets behind The Wall: Mutations and declining birth rates"
+
