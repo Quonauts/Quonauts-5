@@ -32,7 +32,7 @@ To the Claiming an office rule subsection, add the following five clauses:
 
 <a name='4'/>
 
-## #4
+## #4 — Failed
 
 Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkPfsaKG. (This is done because of the 1000 character limit on proposals.)
 
