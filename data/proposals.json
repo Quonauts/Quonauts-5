@@ -378,7 +378,9 @@
 			"votes": {
 				"236831708354314240": 1,
 				"260525358217035776": -1,
-				"319753218592866315": 1
+				"319753218592866315": 1,
+				"330678593904443393": 1,
+				"512645502253400064": 1
 			},
 			"timestamp": 1577187519
 		},
@@ -390,6 +392,18 @@
 			"message_id": 658997240949374987,
 			"votes": {},
 			"timestamp": 1577187585
+		},
+		{
+			"n": 27,
+			"author": 260525358217035776,
+			"content": "Add a new rule section 13 titled \"Gamma rays and the spacetime after the boom\"\n\nAdd a new rule section 13.1 titled \"Lore: tales from grandma\"\n\nAdd a new rule section 13.2 titled \"Beyond The Wall: venturing into the wasteland\"\n\nAdd a new rule section 13.3 titled \"Cracks in the concrete: The Wall\"\n\nAdd a new rule section 13.4 titled \"Quiet streets behind The Wall: Mutations and declining birth rates\"",
+			"status": "voting",
+			"message_id": 659011417877381130,
+			"votes": {
+				"260525358217035776": 1,
+				"474286909636476939": -1
+			},
+			"timestamp": 1577190965
 		}
 	]
 }
