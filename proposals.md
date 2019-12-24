@@ -271,3 +271,14 @@ remove all functionality and implementations of the quantity "Money".  It is bla
 
 ## #39 — Deleted
 
+<a name='40'/>
+
+## #40
+
+create a new quantity with the name "Quoins" with the default settings, with the following additions:
+- Players can trade and exchange Quoins
+- Players will all start with 1 Quoin after the passage of this proposal.
+- Any future proposals regarding players' ability to aquire additional Quoins must pass with a 2/3rds majority
+
+Quoins are effectively not really a currency.  Giving another player your Quoin is more sacred and binding.
+
