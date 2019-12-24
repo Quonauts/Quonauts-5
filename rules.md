@@ -45,7 +45,6 @@
     * [**8.8. Proposal modification**](#proposal-modification)
 * [**9. Space exploration**](#space-exploration)
     * [**9.1. Map orientation and description**](#map-orientation-and-description)
-    * [**9.2. Sectors**](#sectors)
 * [**10. Actions**](#actions)
     * [**10.1. Claiming actions**](#claiming-actions)
 * [**11. Win conditions**](#win-conditions)
@@ -383,14 +382,6 @@ The galactic map is a grid of tiles known as sectors. The sector with coordinate
 The galactic map is made up of grid, the tiles of which are tesselated regular hexagons with a point facing upwards.
 
 The position of a tile on the grid is decribed by its two-dimensional (x, y) coordinate such that the x-component extends to the right and the y-component extends downward and to the right.
-
-### <a name='sectors'/> Sectors
-
-Each map sector has one of three discovery states:
-
-* **Hidden**
-* **Scanned**
-* **Explored**
 
 ## <a name='actions'/> Actions
 
