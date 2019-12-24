@@ -151,7 +151,5 @@ Vote against this proposal
 
 <a name='23'/>
 
-## #23
-
-This proposal is false.
+## #23 — Deleted
 
