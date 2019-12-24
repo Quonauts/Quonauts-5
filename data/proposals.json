@@ -5,7 +5,7 @@
 			"n": 1,
 			"author": 556954927969075225,
 			"content": "The purpose of this proposal is to allow players to claim offices. It creates a new rule sub-section to describe the circumstances under which a player can assume an office.\n\nRemove from the Officials rules sub-section all clauses following the first clause, retaining all sub-sections.\n\nWithin the Officials rules sub-section and before all sub-sections contained within, create a new rule sub-section entitled \"Claiming an office\".\n\nTo the Claiming an office rule subsection, add the following five clauses:\n\n\"A player may claim any unclaimed office by announcing that they do so in the <#607965760006127616> channel.\"\n\n\"An official may not under any circumstance assume a second office.\"\n\n\"An official may not under any circumstance resign an office.\"\n\n\"An official may pass their office to another player only if the other player agrees to accept the office.\"\n\n\"A player may seize the office of an inactive official.\"",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 657891897951387668,
 			"votes": {
 				"160279332454006795": -1,
@@ -47,7 +47,7 @@
 			"n": 4,
 			"author": 160279332454006795,
 			"content": "Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkPfsaKG. (This is done because of the 1000 character limit on proposals.)",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 657949102910472222,
 			"votes": {
 				"160279332454006795": 1,
@@ -63,7 +63,7 @@
 			"n": 5,
 			"author": 160279332454006795,
 			"content": "Replace the contents of rule 1.4.4 with the following:\n```\nIf a player (hereby \"the convicted player\") is convicted, then another player may conduct a majority poll (called a \"puninitive action poll\") to determine whether punitive action should be taken.\n\nPlayers should vote in favour of this poll if, and only if, they believe the convicted player violated the rules knowingly and with malicious intent.\n\nAny vote in such a poll cast by the convicted player is not counted.\n\nIf a punitive action poll passes, then the convicted player gains one strike.\n```",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 657950460891889704,
 			"votes": {
 				"160279332454006795": 1,
