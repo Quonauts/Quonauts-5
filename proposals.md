@@ -157,3 +157,11 @@ Vote against this proposal
 
 ## #24 — Deleted
 
+<a name='25'/>
+
+## #25
+
+Add a new rule section after "Polls" titled "Binding agreements", with the following content:
+
+One or more players may at any time create a binding agreement. It must be clear to all players, involved or uninvolved, that such an agreement is being made, and an agreement cannot be made without the support of all involved players  A binding agreement has terms, which can govern any in-game actions (including sending messages) that the involved parties may take. The terms may make use of conditions based on exact times, certain actions, or any other criteria. At no point can the terms of a binding agreement be broken by a member of the agreement, and if such an event occurs, it should be handled like any violation of the rules.
+
