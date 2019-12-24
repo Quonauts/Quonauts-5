@@ -195,3 +195,9 @@ Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkP
 
 Merry Christmas/Holidays, peeps!
 
+<a name='30'/>
+
+## #30
+
+But it's only December 24
+
