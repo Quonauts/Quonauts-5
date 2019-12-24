@@ -113,15 +113,13 @@ If an appeal poll passes, any effects of the judgement are overturned.
 
 #### <a name='punitive-action'/> Punitive action
 
-Punitive action is to be determined by an official knows as The Justice.
+If a player (hereby "the convicted player") is convicted, then another player may conduct a majority poll (called a "puninitive action poll") to determine whether punitive action should be taken.
 
-If a player is judged to have violated the rules, The Justice must determine what punitive action is taken. The Justice may select any combination of the following:
+Players should vote in favour of this poll if, and only if, they believe the convicted player violated the rules knowingly and with malicious intent.
 
-* A fine of up to ten points
-* An award of one strike.
-* Stripping the player of any office held.
+Any vote in such a poll cast by the convicted player is not counted.
 
-In addition, a player that has punitive action taken against them may not assume any office for 24 hours after punitive action is taken.
+If a punitive action poll passes, then the convicted player gains one strike.
 
 ### <a name='timezones'/> Timezones
 
