@@ -356,6 +356,17 @@
 				"319753218592866315": -1
 			},
 			"timestamp": 1577185053
+		},
+		{
+			"n": 24,
+			"author": 236831708354314240,
+			"content": "Add the following to the ruleset:\n13. Duels\n\nA duel has two parts: the ruleset and the consequences. Both the ruleset and the consequences are agreed upon by the parties participating in the duel and cannot be changed once the duel starts. The ruleset is the rules of the game the participants will be playing. The ruleset must feature a way for at least one party to win and for a way for the game to end. The rules cannot override any existing quonauts rules. The consequences are the things that the participants are forced to do after the duel has ended and the winners are decided. They, too, cannot override any existing quonauts rules. If any of these requirements are broken the duel is simply annuled.",
+			"status": "voting",
+			"message_id": 658991452788883456,
+			"votes": {
+				"236831708354314240": 1
+			},
+			"timestamp": 1577186205
 		}
 	]
 }
