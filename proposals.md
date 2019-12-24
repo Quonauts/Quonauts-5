@@ -282,3 +282,9 @@ create a new quantity with the name "Quoins" with the default settings, with the
 
 Quoins are effectively not really a currency.  Giving another player your Quoin is more sacred and binding.
 
+<a name='41'/>
+
+## #41
+
+Players can retroactively exchange Quoins if the giving and receiving players both consent
+
