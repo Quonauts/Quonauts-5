@@ -83,7 +83,7 @@ Add to the list within the glossary section the following definition:
 
 <a name='12'/>
 
-## #12
+## #12 — Failed
 
 A zerbo is either a parasitic species of alien meiofauna, or an unobservable variant of subatomic particle that breaks time symmetry, depending on the viewer.  Exactly n2^x zerbos exist at any given time, where n is the number of zerbos when the number of zerbos was last altered by a player, and x is the number of whole 24 hour periods since that alteration.  If a player owns any zerbos they are immediately removed from existence and n is set to the remaining number of zerbos, and x is set to 0. Upon the passage of this rule, n is set to 1 and x is set to 0.
 
