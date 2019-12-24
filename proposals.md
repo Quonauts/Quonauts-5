@@ -59,7 +59,7 @@ pfhdjqpfpowbfmvnxbnwlspqhrotohkepqoirjdnncmxvzcxlshqgofpriqtfphlyrjiayehfisklsbt
 
 <a name='7'/>
 
-## #7
+## #7 — Passed
 
 Add to the list within the glossary section the following definition:
 
