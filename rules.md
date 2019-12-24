@@ -28,24 +28,23 @@
     * [**3.1. Rule offender**](#rule-offender)
 * [**4. Activity**](#activity)
 * [**5. Quantities**](#quantities)
-* [**6. Officials**](#officials)
-* [**7. Polls**](#polls)
-* [**8. Proposals**](#proposals)
-    * [**8.1. Proposals as rule amendments**](#proposals-as-rule-amendments)
-    * [**8.2. Proposals as game actions**](#proposals-as-game-actions)
-    * [**8.3. Proposal content**](#proposal-content)
-        * [**8.3.1. Conflict resolution**](#conflict-resolution)
-        * [**8.3.2. Dependency resolution**](#dependency-resolution)
-    * [**8.4. Voting on proposals**](#voting-on-proposals)
-    * [**8.5. Proposal veto**](#proposal-veto)
-    * [**8.6. Closing proposals**](#closing-proposals)
-    * [**8.7. Passing and failing proposals**](#passing-and-failing-proposals)
-    * [**8.8. Proposal modification**](#proposal-modification)
-* [**9. Actions**](#actions)
-    * [**9.1. Claiming actions**](#claiming-actions)
-* [**10. Win conditions**](#win-conditions)
-    * [**10.1. Rounds**](#rounds)
-* [**11. End of the game**](#end-of-the-game)
+* [**6. Polls**](#polls)
+* [**7. Proposals**](#proposals)
+    * [**7.1. Proposals as rule amendments**](#proposals-as-rule-amendments)
+    * [**7.2. Proposals as game actions**](#proposals-as-game-actions)
+    * [**7.3. Proposal content**](#proposal-content)
+        * [**7.3.1. Conflict resolution**](#conflict-resolution)
+        * [**7.3.2. Dependency resolution**](#dependency-resolution)
+    * [**7.4. Voting on proposals**](#voting-on-proposals)
+    * [**7.5. Proposal veto**](#proposal-veto)
+    * [**7.6. Closing proposals**](#closing-proposals)
+    * [**7.7. Passing and failing proposals**](#passing-and-failing-proposals)
+    * [**7.8. Proposal modification**](#proposal-modification)
+* [**8. Actions**](#actions)
+    * [**8.1. Claiming actions**](#claiming-actions)
+* [**9. Win conditions**](#win-conditions)
+    * [**9.1. Rounds**](#rounds)
+* [**10. End of the game**](#end-of-the-game)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -203,11 +202,11 @@ Players may converse freely in the <#607965760006127616> channel.
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#607966057981935710> channel is governed by [**8. Proposals**](#proposals).
+The <#607966057981935710> channel is governed by [**7. Proposals**](#proposals).
 
 ### <a name='polls-channel'/> #polls
 
-The <#607966084531748894> channel is governed by [**7. Polls**](#polls).
+The <#607966084531748894> channel is governed by [**6. Polls**](#polls).
 
 ### <a name='rules-channel'/> #rules
 
@@ -247,16 +246,6 @@ The following quantities exist within the game:
     • Action
     • Strike
     • Money
-
-## <a name='officials'/> Officials
-
-An official is a player that holds an office, a specific role that interacts with some aspect of the game.
-
-An official may not assume a second office.
-
-An official may pass their office to another player only if the other player agrees to accept the office.
-
-A player may seize the office of an inactive official.
 
 ## <a name='polls'/> Polls
 
