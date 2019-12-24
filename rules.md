@@ -32,10 +32,9 @@
         * [**7.1.1. Conflict resolution**](#conflict-resolution)
         * [**7.1.2. Dependency resolution**](#dependency-resolution)
     * [**7.2. Voting on proposals**](#voting-on-proposals)
-    * [**7.3. Proposal veto**](#proposal-veto)
-    * [**7.4. Closing proposals**](#closing-proposals)
-    * [**7.5. Passing and failing proposals**](#passing-and-failing-proposals)
-    * [**7.6. Proposal modification**](#proposal-modification)
+    * [**7.3. Closing proposals**](#closing-proposals)
+    * [**7.4. Passing and failing proposals**](#passing-and-failing-proposals)
+    * [**7.5. Proposal modification**](#proposal-modification)
 * [**8. Actions**](#actions)
     * [**8.1. Claiming actions**](#claiming-actions)
 * [**9. Win conditions**](#win-conditions)
@@ -262,12 +261,6 @@ Each player may cast one vote on each open proposal.
 Players may vote for or against a proposal. Players may also explicitly abstain from voting.
 
 A player may change their vote on an open proposal at any time.
-
-### <a name='proposal-veto'/> Proposal veto
-
-The Tzar is an official who provides oversight for proposals.
-
-The Tzar may spend an action to veto a proposal, closing and failing it immediately. When The Tzar spends an action this way, they surrender the Tzar office.
 
 ### <a name='closing-proposals'/> Closing proposals
 
