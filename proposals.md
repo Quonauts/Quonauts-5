@@ -149,3 +149,9 @@ Remove the "Officials" rule and all rules which depend on it.
 
 Vote against this proposal
 
+<a name='23'/>
+
+## #23
+
+This proposal is false.
+
