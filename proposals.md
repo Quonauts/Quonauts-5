@@ -267,3 +267,14 @@ Along with that, reset every player's Money to 100 (as of now every player has 0
 
 remove all functionality and implementations of the quantity "Money".  It is bland and tasteless.  I think we can come up with something more interesting.
 
+<a name='39'/>
+
+## #39
+
+create a new quantity with the name "QCoins" with the default settings, with the following additions:
+- Players can trade and exchange QCoins
+- Players will all start with 1 QCoin after the passage of this proposal.
+- Any future proposals regarding players' ability to aquire additional QCoins must pass with a 2/3rds majority
+
+QCoins are effectively not really a currency.  Giving another player your QCoin is more sacred and binding.
+
