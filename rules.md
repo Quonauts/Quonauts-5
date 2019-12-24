@@ -28,16 +28,15 @@
 * [**5. Quantities**](#quantities)
 * [**6. Polls**](#polls)
 * [**7. Proposals**](#proposals)
-    * [**7.1. Proposals as rule amendments**](#proposals-as-rule-amendments)
-    * [**7.2. Proposals as game actions**](#proposals-as-game-actions)
-    * [**7.3. Proposal content**](#proposal-content)
-        * [**7.3.1. Conflict resolution**](#conflict-resolution)
-        * [**7.3.2. Dependency resolution**](#dependency-resolution)
-    * [**7.4. Voting on proposals**](#voting-on-proposals)
-    * [**7.5. Proposal veto**](#proposal-veto)
-    * [**7.6. Closing proposals**](#closing-proposals)
-    * [**7.7. Passing and failing proposals**](#passing-and-failing-proposals)
-    * [**7.8. Proposal modification**](#proposal-modification)
+    * [**7.1. Proposals as game actions**](#proposals-as-game-actions)
+    * [**7.2. Proposal content**](#proposal-content)
+        * [**7.2.1. Conflict resolution**](#conflict-resolution)
+        * [**7.2.2. Dependency resolution**](#dependency-resolution)
+    * [**7.3. Voting on proposals**](#voting-on-proposals)
+    * [**7.4. Proposal veto**](#proposal-veto)
+    * [**7.5. Closing proposals**](#closing-proposals)
+    * [**7.6. Passing and failing proposals**](#passing-and-failing-proposals)
+    * [**7.7. Proposal modification**](#proposal-modification)
 * [**8. Actions**](#actions)
     * [**8.1. Claiming actions**](#claiming-actions)
 * [**9. Win conditions**](#win-conditions)
@@ -236,14 +235,6 @@ Proposals can be made by posting them to the <#607966057981935710> game channel.
 The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.
 
 A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.
-
-### <a name='proposals-as-rule-amendments'/> Proposals as rule amendments
-
-The Provost is an official who can attempt to change the rules of the game through proposals. 
-
-The Provost may spend an action to make a proposal that describes any number of changes to the game rules.
-
-When a proposal made by the Provost is closed, if the proposal passes, the Provost earns two points.
 
 ### <a name='proposals-as-game-actions'/> Proposals as game actions
 
