@@ -210,3 +210,15 @@ Add a paragraph at the end of section 8. Proposals:
 Using proposals for jokes or not game related things is a rule violation.
 ```
 
+<a name='32'/>
+
+## #32
+
+Change the content of rule "7.1. Proposal content" from:
+```A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.
+```
+to:
+```
+A proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.
+```
+
