@@ -38,7 +38,7 @@ Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkP
 
 <a name='5'/>
 
-## #5
+## #5 — Passed
 
 Replace the contents of rule 1.4.4 with the following:
 ```
