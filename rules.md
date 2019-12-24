@@ -194,7 +194,8 @@ The definitions for terms listed here take precedence over their normal English 
 * **The Rules**: The rules of the game, which are described by this document.
 * **Section**: A part of the rules which is contained under one header, not including any subsections.
 * **Subsection**: A section of the rules which is contained under another section.
-* **Clause**: A single statement in the rules
+* **Clause**: A single statement in the rules.
+* **Roll an n-sided die**: Randomly generate an integer between 1 and a given value, inclusively, with an equal chance of each possible result.
 
 ## <a name='channels'/> Channels
 
