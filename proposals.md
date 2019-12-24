@@ -167,7 +167,5 @@ One or more players may at any time create a binding agreement. It must be clear
 
 <a name='26'/>
 
-## #26
-
-All players get 100 money with which to trade with before better ways to attain money are added to the rules.
+## #26 — Deleted
 
