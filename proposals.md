@@ -302,7 +302,5 @@ Give Owain, xp2_882030kgz010602, Mask, umnikos and gollark 1000 money and fail p
 
 <a name='44'/>
 
-## #44
-
-Give everyone 100 points.
+## #44 — Deleted
 
