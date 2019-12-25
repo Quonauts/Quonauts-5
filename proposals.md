@@ -288,3 +288,9 @@ Quoins are effectively not really a currency.  Giving another player your Quoin 
 
 Players can retroactively exchange Quoins if the giving and receiving players both consent
 
+<a name='42'/>
+
+## #42
+
+Create a new quantity called Mana that initialises at 100 and resets every day at UTC+0
+
