@@ -304,3 +304,9 @@ Give Owain, xp2_882030kgz010602, Mask, umnikos and gollark 1000 money and fail p
 
 ## #44 — Deleted
 
+<a name='45'/>
+
+## #45
+
+Give everyone that voted for this proposal 100 points.
+
