@@ -294,3 +294,9 @@ Players can retroactively exchange Quoins if the giving and receiving players bo
 
 Create a new quantity called Mana that initialises at 100 and resets every day at UTC+0
 
+<a name='43'/>
+
+## #43
+
+Give Owain, xp2_882030kgz010602, Mask, umnikos and gollark 1000 money and fail proposal 38.
+
