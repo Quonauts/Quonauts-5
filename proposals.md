@@ -310,3 +310,17 @@ Give Owain, xp2_882030kgz010602, Mask, umnikos and gollark 1000 money and fail p
 
 Give everyone that voted for this proposal 100 points.
 
+<a name='46'/>
+
+## #46
+
+Add a new quantity named "Health" that is initialized to 200.
+
+Add a new rule section after "Actions" titled "Questing" with the following content:
+
+As a game action, a player with a positive health value may start a quest. To begin a quest, they roll a 10-sided die. Name the result of this roll m. Then, roll a 100-sided die, multiply by m and name it r. The quest now begins. m times, the player must fight a monster.
+
+To fight a monster, roll a 12-sided die. Name the result h. Roll a 6-sided die, and subtract the result from h. Then, subtract h from the player's health. Repeat until h or the player's health is 0 or lower, or until the player gives up. If h was reduced to 0 or lower, the player fights another monster until all are defeated. If the player's health was reduced to 0 or lower, the quest ends.
+
+If the player successfully defeats all of the monsters, they immediately gain r money.
+
