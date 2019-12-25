@@ -300,3 +300,9 @@ Create a new quantity called Mana that initialises at 100 and resets every day a
 
 Give Owain, xp2_882030kgz010602, Mask, umnikos and gollark 1000 money and fail proposal 38.
 
+<a name='44'/>
+
+## #44
+
+Give everyone 100 points.
+
