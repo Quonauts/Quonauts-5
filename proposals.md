@@ -337,3 +337,20 @@ The "purchaser" is the player buying the ware.
 The list of wares is as such:
 Health potion, price 20: Roll a 100-sided die and add 100. Gain that much health.
 
+<a name='48'/>
+
+## #48
+
+Add a new rule section: Companies
+>>> Any player can found a company by formal declaration, including a name for the company and optionally a list of owners (must include the founder) and rules how to determine responsibilities amongst multiple owners. Companies count as players for all purposes and have their own value in all quantities unless specified otherwise.
+
+Companies cannot gain or lose points and cannot win the game. Companies can submit proposals but not vote on them.
+
+A company needs to declare how following responsibilities are managed by its owners:
+- Representation: the right to perform actions in the name of the company, eg. make proposals
+- Administration: the right to modify the declaration of the company, including changing its name, adding new owners and dissolving the company
+- Finances: the right to trade with tradable company quantities (such as money)
+- Liability: The obligation to share strikes a company gets. Whenever the company gets a strike for whatever reason, at least one owner must also get a strike as result.
+
+The player who founds a company will initially be its owner. If a company has a single owner, that player fully bears all responsibilities. If a company has multiple owners, the declaration MUST define how to determine to what extent each responsibility is applicable to the individual owners. Players can't be given (co-)ownership of a company against their will.
+
