@@ -324,3 +324,16 @@ To fight a monster, roll a 12-sided die. Name the result h. Roll a 6-sided die, 
 
 If the player successfully defeats all of the monsters, they immediately gain r money.
 
+<a name='47'/>
+
+## #47
+
+Add a new rule section after "Actions" titled "Purchasing" with the following content:
+
+At any time, a player may purchase a ware. Each ware has a price and an effect. To purchase a ware, they first lose money equivalent to the price of the ware. Then, the effect of the ware takes effect.
+
+The "purchaser" is the player buying the ware.
+
+The list of wares is as such:
+Health potion, price 20: Roll a 100-sided die and add 100. Gain that much health.
+
