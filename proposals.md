@@ -296,7 +296,7 @@ Create a new quantity called Mana that initialises at 100 and resets every day a
 
 <a name='43'/>
 
-## #43
+## #43 — Failed
 
 Give Owain, xp2_882030kgz010602, Mask, umnikos and gollark 1000 money and fail proposal 38.
 
