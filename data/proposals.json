@@ -331,7 +331,7 @@
 			"n": 22,
 			"author": 427589146295664667,
 			"content": "Vote against this proposal",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 658410325577564172,
 			"votes": {
 				"160279332454006795": 1,
@@ -751,7 +751,9 @@
 			"votes": {
 				"160279332454006795": 1,
 				"260525358217035776": 1,
-				"319753218592866315": 1
+				"319753218592866315": 1,
+				"330678593904443393": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577347993
 		},
@@ -763,9 +765,35 @@
 			"message_id": 659670903944118282,
 			"votes": {
 				"160279332454006795": 1,
-				"319753218592866315": 1
+				"319753218592866315": 1,
+				"330678593904443393": 1
 			},
 			"timestamp": 1577348199
+		},
+		{
+			"n": 51,
+			"author": 330678593904443393,
+			"content": "Sinthorion immediately wins the game",
+			"status": "voting",
+			"message_id": 659677697126957067,
+			"votes": {
+				"160279332454006795": 1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1577349819
+		},
+		{
+			"n": 52,
+			"author": 160279332454006795,
+			"content": "Replace the content of rule section \"End of the game\":\n> The game ends if the game is won. This applies retroactively.",
+			"status": "voting",
+			"message_id": 659679128903221282,
+			"votes": {
+				"160279332454006795": 1,
+				"330678593904443393": 1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577350160
 		}
 	]
 }
