@@ -159,7 +159,7 @@ Vote against this proposal
 
 <a name='25'/>
 
-## #25
+## #25 — Passed
 
 Add a new rule section after "Polls" titled "Binding agreements", with the following content:
 
