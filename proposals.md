@@ -230,7 +230,7 @@ Declare this proposal as failed.
 
 <a name='34'/>
 
-## #34
+## #34 — Passed
 
 Fail proposal 35
 
