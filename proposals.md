@@ -359,5 +359,5 @@ The player who founds a company will initially be its owner. If a company has a 
 ## #49
 
 Add a new rule section: Owain
-> All proposals passed by the user <@!556954927969075225> may be immediately failed by anyone at any time.
+> All proposals created by the user @Owain may be immediately failed by anyone at any time.
 
