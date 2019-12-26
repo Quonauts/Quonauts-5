@@ -367,3 +367,9 @@ Add a new rule section: Owain
 
 Remove rule 1.4.2
 
+<a name='51'/>
+
+## #51
+
+Sinthorion immediately wins the game
+
