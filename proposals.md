@@ -242,7 +242,7 @@ Fail proposal 34
 
 <a name='36'/>
 
-## #36
+## #36 — Failed
 
 This Proposal grants the Player "Owain" a win to honor his fast action thus ending this round and resetting all quantities
 
