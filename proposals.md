@@ -373,3 +373,10 @@ Remove rule 1.4.2
 
 Sinthorion immediately wins the game
 
+<a name='52'/>
+
+## #52
+
+Replace the content of rule section "End of the game":
+> The game ends if the game is won. This applies retroactively.
+
