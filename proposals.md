@@ -236,7 +236,7 @@ Fail proposal 35
 
 <a name='35'/>
 
-## #35
+## #35 — Failed
 
 Fail proposal 34
 
