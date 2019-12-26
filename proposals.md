@@ -410,3 +410,11 @@ The End is a dimension consisting of an island made of end stone, 12 obsidian to
 
 Add all rules 7 and 7.x as they are right now to this game, as 11 and 11.x, under the section "Sectors". In addition, create #sector_board to track sector generation and stuff, and <#659609891626811422> so people can post their actions with their characters.
 
+<a name='57'/>
+
+## #57
+
+(Reproposed from 38 because it was failed with a 4-4 vote. Original content shown below.)
+
+remove all functionality and implementations of the quantity "Money".  It is bland and tasteless.  I think we can come up with something more interesting.
+
