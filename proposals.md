@@ -145,7 +145,7 @@ Remove the "Officials" rule and all rules which depend on it.
 
 <a name='22'/>
 
-## #22
+## #22 — Passed
 
 Vote against this proposal
 
