@@ -171,7 +171,7 @@ One or more players may at any time create a binding agreement. It must be clear
 
 <a name='27'/>
 
-## #27
+## #27 — Failed
 
 Add a new rule section 13 titled "Gamma rays and the spacetime after the boom"
 
