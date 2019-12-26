@@ -263,7 +263,7 @@ Along with that, reset every player's Money to 100 (as of now every player has 0
 
 <a name='38'/>
 
-## #38
+## #38 — Failed
 
 remove all functionality and implementations of the quantity "Money".  It is bland and tasteless.  I think we can come up with something more interesting.
 
