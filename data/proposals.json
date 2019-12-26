@@ -374,7 +374,7 @@
 			"n": 25,
 			"author": 319753218592866315,
 			"content": "Add a new rule section after \"Polls\" titled \"Binding agreements\", with the following content:\n\nOne or more players may at any time create a binding agreement. It must be clear to all players, involved or uninvolved, that such an agreement is being made, and an agreement cannot be made without the support of all involved players  A binding agreement has terms, which can govern any in-game actions (including sending messages) that the involved parties may take. The terms may make use of conditions based on exact times, certain actions, or any other criteria. At no point can the terms of a binding agreement be broken by a member of the agreement, and if such an event occurs, it should be handled like any violation of the rules.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 658996963823583255,
 			"votes": {
 				"236831708354314240": 1,
@@ -400,7 +400,7 @@
 			"n": 27,
 			"author": 260525358217035776,
 			"content": "Add a new rule section 13 titled \"Gamma rays and the spacetime after the boom\"\n\nAdd a new rule section 13.1 titled \"Lore: tales from grandma\"\n\nAdd a new rule section 13.2 titled \"Beyond The Wall: venturing into the wasteland\"\n\nAdd a new rule section 13.3 titled \"Cracks in the concrete: The Wall\"\n\nAdd a new rule section 13.4 titled \"Quiet streets behind The Wall: Mutations and declining birth rates\"",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659011417877381130,
 			"votes": {
 				"258639553357676545": -1,
@@ -414,7 +414,7 @@
 			"n": 28,
 			"author": 427589146295664667,
 			"content": "Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkPfsaKG. (This is done because of the 1000 character limit on proposals.) (Reproposed because the voting was a tie, 3 to 3.)",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659027736412684288,
 			"votes": {
 				"258639553357676545": -1,
@@ -429,7 +429,7 @@
 			"n": 29,
 			"author": 330678593904443393,
 			"content": "Merry Christmas/Holidays, peeps!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659049252214800394,
 			"votes": {
 				"236831708354314240": -1,
@@ -445,7 +445,7 @@
 			"n": 30,
 			"author": 427589146295664667,
 			"content": "But it's only December 24",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659049667262152709,
 			"votes": {
 				"236831708354314240": 1,
@@ -459,7 +459,7 @@
 			"n": 31,
 			"author": 330678593904443393,
 			"content": "Add a paragraph at the end of section 8. Proposals:\n```\nUsing proposals for jokes or not game related things is a rule violation.\n```",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659052602025050112,
 			"votes": {
 				"160279332454006795": -1,

@@ -20,7 +20,7 @@
 				"claiming-actions"
 			],
 			"message_ids": [
-				659058503415234587
+				659783645686661171
 			]
 		},
 		"activity": {
@@ -31,6 +31,16 @@
 			"child_tags": [],
 			"message_ids": [
 				659058451758055425
+			]
+		},
+		"binding-agreements": {
+			"tag": "binding-agreements",
+			"title": "Binding agreements",
+			"content": "One or more players may at any time create a binding agreement. It must be clear to all players, involved or uninvolved, that such an agreement is being made, and an agreement cannot be made without the support of all involved players A binding agreement has terms, which can govern any in-game actions (including sending messages) that the involved parties may take. The terms may make use of conditions based on exact times, certain actions, or any other criteria. At no point can the terms of a binding agreement be broken by a member of the agreement, and if such an event occurs, it should be handled like any violation of the rules.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				659783617425440801
 			]
 		},
 		"bots": {
@@ -65,7 +75,7 @@
 			"parent_tag": "actions",
 			"child_tags": [],
 			"message_ids": [
-				659058504786771978
+				659783667568214026
 			]
 		},
 		"closing-proposals": {
@@ -75,7 +85,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				659058500265181227
+				659783643438514208
 			]
 		},
 		"conflict-resolution": {
@@ -85,7 +95,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				659058477016154112
+				659783619916595220
 			]
 		},
 		"content": {
@@ -105,7 +115,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				659058477787906068
+				659783620269178882
 			]
 		},
 		"disallowed-by-default": {
@@ -125,7 +135,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				659058528236863498
+				659783669829074954
 			]
 		},
 		"errors": {
@@ -224,7 +234,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				659058501095784448
+				659783644109602817
 			]
 		},
 		"polls": {
@@ -267,7 +277,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				659058476365905920
+				659783618809561092
 			]
 		},
 		"proposal-modification": {
@@ -277,7 +287,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				659058501854953484
+				659783645145595935
 			]
 		},
 		"proposals": {
@@ -293,7 +303,7 @@
 				"proposal-modification"
 			],
 			"message_ids": [
-				659058475355340803
+				659783618285273099
 			]
 		},
 		"proposals-channel": {
@@ -350,15 +360,16 @@
 				"activity",
 				"quantities",
 				"polls",
+				"binding-agreements",
 				"proposals",
 				"actions",
 				"win-conditions",
 				"end-of-the-game"
 			],
 			"message_ids": [
-				659058528912146432,
-				659058529763852288,
-				659058551473438760
+				659783670651027496,
+				659783692415270973,
+				659783693216383006
 			]
 		},
 		"rounds": {
@@ -368,7 +379,7 @@
 			"parent_tag": "win-conditions",
 			"child_tags": [],
 			"message_ids": [
-				659058527255527476
+				659783668713259009
 			]
 		},
 		"rule-offender": {
@@ -437,7 +448,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				659058478790344704
+				659783642351927316
 			]
 		},
 		"win-conditions": {
@@ -449,7 +460,7 @@
 				"rounds"
 			],
 			"message_ids": [
-				659058526521393172
+				659783668260405249
 			]
 		}
 	}
