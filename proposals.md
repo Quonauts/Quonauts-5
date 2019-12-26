@@ -396,3 +396,11 @@ Append this to the rule section "End of the game":
 ```
 If not possible, start Quonauts 5.6, which is like Quonauts 2, completely manual.```
 
+<a name='55'/>
+
+## #55
+
+Change Rule 11 to:
+```
+The End is a dimension consisting of an island made of end stone, 12 obsidian towers with end crystals, one bedrock fountain, and one dragon.```
+
