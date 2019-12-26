@@ -361,3 +361,9 @@ The player who founds a company will initially be its owner. If a company has a 
 Add a new rule section: Owain
 > All proposals created by the user @Owain may be immediately failed by anyone at any time.
 
+<a name='50'/>
+
+## #50
+
+Remove rule 1.4.2
+
