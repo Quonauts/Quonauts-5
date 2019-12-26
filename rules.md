@@ -28,19 +28,20 @@
 * [**4. Activity**](#activity)
 * [**5. Quantities**](#quantities)
 * [**6. Polls**](#polls)
-* [**7. Proposals**](#proposals)
-    * [**7.1. Proposal content**](#proposal-content)
-        * [**7.1.1. Conflict resolution**](#conflict-resolution)
-        * [**7.1.2. Dependency resolution**](#dependency-resolution)
-    * [**7.2. Voting on proposals**](#voting-on-proposals)
-    * [**7.3. Closing proposals**](#closing-proposals)
-    * [**7.4. Passing and failing proposals**](#passing-and-failing-proposals)
-    * [**7.5. Proposal modification**](#proposal-modification)
-* [**8. Actions**](#actions)
-    * [**8.1. Claiming actions**](#claiming-actions)
-* [**9. Win conditions**](#win-conditions)
-    * [**9.1. Rounds**](#rounds)
-* [**10. End of the game**](#end-of-the-game)
+* [**7. Binding agreements**](#binding-agreements)
+* [**8. Proposals**](#proposals)
+    * [**8.1. Proposal content**](#proposal-content)
+        * [**8.1.1. Conflict resolution**](#conflict-resolution)
+        * [**8.1.2. Dependency resolution**](#dependency-resolution)
+    * [**8.2. Voting on proposals**](#voting-on-proposals)
+    * [**8.3. Closing proposals**](#closing-proposals)
+    * [**8.4. Passing and failing proposals**](#passing-and-failing-proposals)
+    * [**8.5. Proposal modification**](#proposal-modification)
+* [**9. Actions**](#actions)
+    * [**9.1. Claiming actions**](#claiming-actions)
+* [**10. Win conditions**](#win-conditions)
+    * [**10.1. Rounds**](#rounds)
+* [**11. End of the game**](#end-of-the-game)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -180,7 +181,7 @@ Players may converse freely in the <#607965760006127616> channel.
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#607966057981935710> channel is governed by [**7. Proposals**](#proposals).
+The <#607966057981935710> channel is governed by [**8. Proposals**](#proposals).
 
 ### <a name='polls-channel'/> #polls
 
@@ -234,6 +235,10 @@ Players may vote in favor of a poll by reacting to the poll with 👍. Players m
 Players may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.
 
 The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
+
+## <a name='binding-agreements'/> Binding agreements
+
+One or more players may at any time create a binding agreement. It must be clear to all players, involved or uninvolved, that such an agreement is being made, and an agreement cannot be made without the support of all involved players A binding agreement has terms, which can govern any in-game actions (including sending messages) that the involved parties may take. The terms may make use of conditions based on exact times, certain actions, or any other criteria. At no point can the terms of a binding agreement be broken by a member of the agreement, and if such an event occurs, it should be handled like any violation of the rules.
 
 ## <a name='proposals'/> Proposals
 
