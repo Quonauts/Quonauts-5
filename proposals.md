@@ -354,3 +354,10 @@ A company needs to declare how following responsibilities are managed by its own
 
 The player who founds a company will initially be its owner. If a company has a single owner, that player fully bears all responsibilities. If a company has multiple owners, the declaration MUST define how to determine to what extent each responsibility is applicable to the individual owners. Players can't be given (co-)ownership of a company against their will.
 
+<a name='49'/>
+
+## #49
+
+Add a new rule section: Owain
+> All proposals passed by the user <@!556954927969075225> may be immediately failed by anyone at any time.
+
