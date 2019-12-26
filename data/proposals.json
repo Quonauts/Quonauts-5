@@ -576,7 +576,7 @@
 			"n": 38,
 			"author": 260525358217035776,
 			"content": "remove all functionality and implementations of the quantity \"Money\".  It is bland and tasteless.  I think we can come up with something more interesting.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659076780363218990,
 			"votes": {
 				"160279332454006795": 1,
