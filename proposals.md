@@ -248,7 +248,7 @@ This Proposal grants the Player "Owain" a win to honor his fast action thus endi
 
 <a name='37'/>
 
-## #37
+## #37 — Failed
 
 Add a rule "5.1 Money" with the text:
 ```
