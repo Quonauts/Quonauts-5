@@ -387,3 +387,12 @@ Replace the content of rule section "End of the game":
 Append this to the rule section "End of the game":
 > After the game ends, Quoronauts 6 will begin immediately
 
+<a name='54'/>
+
+## #54
+
+Append this to the rule section "End of the game":
+
+```
+If not possible, start Quonauts 5.6, which is like Quonauts 2, completely manual.```
+
