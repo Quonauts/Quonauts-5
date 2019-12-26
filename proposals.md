@@ -380,3 +380,10 @@ Sinthorion immediately wins the game
 Replace the content of rule section "End of the game":
 > The game ends if the game is won. This applies retroactively.
 
+<a name='53'/>
+
+## #53
+
+Append this to the rule section "End of the game":
+> After the game ends, Quoronauts 6 will begin immediately
+
