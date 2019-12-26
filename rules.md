@@ -1,4 +1,4 @@
-# Quonauts 5 — Rules
+# Quonauts (4.)5 — Rules
 
 ## Table of contents
 

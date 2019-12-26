@@ -477,7 +477,7 @@
 			"n": 32,
 			"author": 236831708354314240,
 			"content": "Change the content of rule \"7.1. Proposal content\" from:\n```A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n```\nto:\n```\nA proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.\n```",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659068800590675981,
 			"votes": {
 				"160279332454006795": -1,
@@ -495,7 +495,7 @@
 			"n": 33,
 			"author": 236831708354314240,
 			"content": "Declare this proposal as failed.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 659070556078997543,
 			"votes": {
 				"160279332454006795": 1,
@@ -512,7 +512,7 @@
 			"n": 34,
 			"author": 427589146295664667,
 			"content": "Fail proposal 35",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 659071010569715712,
 			"votes": {
 				"160279332454006795": 1,
@@ -529,7 +529,7 @@
 			"n": 35,
 			"author": 427589146295664667,
 			"content": "Fail proposal 34",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659071044342120459,
 			"votes": {
 				"160279332454006795": 1,
@@ -546,7 +546,7 @@
 			"n": 36,
 			"author": 512645502253400064,
 			"content": "This Proposal grants the Player \"Owain\" a win to honor his fast action thus ending this round and resetting all quantities",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659071678965612575,
 			"votes": {
 				"160279332454006795": -1,
@@ -560,7 +560,7 @@
 			"n": 37,
 			"author": 236831708354314240,
 			"content": "Add a rule \"5.1 Money\" with the text:\n```\n5.1 Money\n\nMoney is like any other quantity but with the following exceptions:\n\u2022 It is instantiated at 100 \n\u2022 It can be traded/exchanged between players (with the agreement of both the giving and the receiving player)\n```\n\nAlong with that, reset every player's Money to 100 (as of now every player has 0 Money)",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659074049825308716,
 			"votes": {
 				"160279332454006795": -1,
