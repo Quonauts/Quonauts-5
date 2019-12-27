@@ -481,3 +481,9 @@ Owain is to be considered a banana.
 
 Add rule 3+4i: banana
 
+<a name='66'/>
+
+## #66
+
+The next nomic is to be called banananomic.
+
