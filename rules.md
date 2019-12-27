@@ -320,5 +320,5 @@ Whenever a round begins, all quantities are reset to their initial values.
 
 ## <a name='end-of-the-game'/> End of the game
 
-The game ends if the game is won. This applies retroactively.
+The game does not end.
 
