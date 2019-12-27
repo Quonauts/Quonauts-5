@@ -273,7 +273,7 @@ remove all functionality and implementations of the quantity "Money".  It is bla
 
 <a name='40'/>
 
-## #40
+## #40 — Failed
 
 create a new quantity with the name "Quoins" with the default settings, with the following additions:
 - Players can trade and exchange Quoins
