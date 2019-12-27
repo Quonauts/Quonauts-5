@@ -284,7 +284,7 @@ Quoins are effectively not really a currency.  Giving another player your Quoin 
 
 <a name='41'/>
 
-## #41
+## #41 — Passed
 
 Players can retroactively exchange Quoins if the giving and receiving players both consent
 
