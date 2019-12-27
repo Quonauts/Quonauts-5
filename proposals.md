@@ -499,3 +499,9 @@ But then it won't be proposed
 
 <@!427589146295664667> is to be considered the same player as r̗Majestaz#8375, and is governed by the same rules as a player. This means that <@!427589146295664667>/r̗Majestaz#8375 cannot have 2 votes on a proposal, etc.
 
+<a name='69'/>
+
+## #69
+
+Quobot is to be considered a banana as well.
+
