@@ -882,6 +882,18 @@
 				"427589146295664667": 1
 			},
 			"timestamp": 1577404413
+		},
+		{
+			"n": 58,
+			"author": 364562317645709336,
+			"content": "Deduct 1 point from cognaso every day they are inactive.",
+			"status": "voting",
+			"message_id": 659909404107210773,
+			"votes": {
+				"364562317645709336": 1,
+				"427589146295664667": -1
+			},
+			"timestamp": 1577405062
 		}
 	]
 }
