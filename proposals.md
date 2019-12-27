@@ -406,7 +406,7 @@ The End is a dimension consisting of an island made of end stone, 12 obsidian to
 
 <a name='56'/>
 
-## #56
+## #56 — Failed
 
 Add all rules 7 and 7.x as they are right now to this game, as 11 and 11.x, under the section "Sectors". In addition, create #sector_board to track sector generation and stuff, and <#659609891626811422> so people can post their actions with their characters.
 
