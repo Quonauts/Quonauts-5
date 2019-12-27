@@ -290,7 +290,7 @@ Players can retroactively exchange Quoins if the giving and receiving players bo
 
 <a name='42'/>
 
-## #42
+## #42 — Failed
 
 Create a new quantity called Mana that initialises at 100 and resets every day at UTC+0
 
