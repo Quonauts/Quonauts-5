@@ -978,6 +978,82 @@
 				"427589146295664667": 1
 			},
 			"timestamp": 1577462698
+		},
+		{
+			"n": 64,
+			"author": 160279332454006795,
+			"content": "Owain is to be considered a banana.",
+			"status": "voting",
+			"message_id": 660158607324610597,
+			"votes": {
+				"160279332454006795": 1,
+				"260525358217035776": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577464476
+		},
+		{
+			"n": 65,
+			"author": 427589146295664667,
+			"content": "Add rule 3+4i: banana",
+			"status": "voting",
+			"message_id": 660158720029884454,
+			"votes": {
+				"160279332454006795": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577464503
+		},
+		{
+			"n": 66,
+			"author": 427589146295664667,
+			"content": "The next nomic is to be called banananomic.",
+			"status": "voting",
+			"message_id": 660159146552983579,
+			"votes": {
+				"160279332454006795": -1,
+				"260525358217035776": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577464605
+		},
+		{
+			"n": 67,
+			"author": 427589146295664667,
+			"content": "But then it won't be proposed",
+			"status": "voting",
+			"message_id": 660159304598290441,
+			"votes": {
+				"160279332454006795": -1,
+				"260525358217035776": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577464643
+		},
+		{
+			"n": 68,
+			"author": 160279332454006795,
+			"content": "<@!427589146295664667> is to be considered the same player as r\u0317Majestaz#8375, and is governed by the same rules as a player. This means that <@!427589146295664667>/r\u0317Majestaz#8375 cannot have 2 votes on a proposal, etc.",
+			"status": "voting",
+			"message_id": 660159471720333352,
+			"votes": {
+				"160279332454006795": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577464683
+		},
+		{
+			"n": 69,
+			"author": 427589146295664667,
+			"content": "Quobot is to be considered a banana as well.",
+			"status": "voting",
+			"message_id": 660159695029534740,
+			"votes": {
+				"160279332454006795": -1,
+				"260525358217035776": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577464736
 		}
 	]
 }
