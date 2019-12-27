@@ -312,7 +312,7 @@ Give everyone that voted for this proposal 100 points.
 
 <a name='46'/>
 
-## #46
+## #46 — Failed
 
 Add a new quantity named "Health" that is initialized to 200.
 
