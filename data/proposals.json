@@ -870,7 +870,7 @@
 			"n": 56,
 			"author": 427589146295664667,
 			"content": "Add all rules 7 and 7.x as they are right now to this game, as 11 and 11.x, under the section \"Sectors\". In addition, create #sector_board to track sector generation and stuff, and <#659609891626811422> so people can post their actions with their characters.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659903620770299930,
 			"votes": {
 				"160279332454006795": -1,
@@ -922,6 +922,18 @@
 				"427589146295664667": 1
 			},
 			"timestamp": 1577452814
+		},
+		{
+			"n": 60,
+			"author": 427589146295664667,
+			"content": "People can buy gold bars for 100 money.",
+			"status": "voting",
+			"message_id": 660118522059554858,
+			"votes": {
+				"427589146295664667": 1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1577454919
 		}
 	]
 }
