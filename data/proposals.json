@@ -829,6 +829,7 @@
 			"message_id": 659883541915631627,
 			"votes": {
 				"236831708354314240": -1,
+				"319753218592866315": -1,
 				"330678593904443393": 1,
 				"427589146295664667": 1
 			},
@@ -842,9 +843,45 @@
 			"message_id": 659884083366592519,
 			"votes": {
 				"236831708354314240": -1,
+				"319753218592866315": -1,
 				"427589146295664667": 1
 			},
 			"timestamp": 1577399025
+		},
+		{
+			"n": 55,
+			"author": 427589146295664667,
+			"content": "Change Rule 11 to:\n```\nThe End is a dimension consisting of an island made of end stone, 12 obsidian towers with end crystals, one bedrock fountain, and one dragon.```",
+			"status": "voting",
+			"message_id": 659901762173403186,
+			"votes": {
+				"330678593904443393": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577403240
+		},
+		{
+			"n": 56,
+			"author": 427589146295664667,
+			"content": "Add all rules 7 and 7.x as they are right now to this game, as 11 and 11.x, under the section \"Sectors\". In addition, create #sector_board to track sector generation and stuff, and <#659609891626811422> so people can post their actions with their characters.",
+			"status": "voting",
+			"message_id": 659903620770299930,
+			"votes": {
+				"427589146295664667": 1
+			},
+			"timestamp": 1577403683
+		},
+		{
+			"n": 57,
+			"author": 427589146295664667,
+			"content": "(Reproposed from 38 because it was failed with a 4-4 vote. Original content shown below.)\n\nremove all functionality and implementations of the quantity \"Money\".  It is bland and tasteless.  I think we can come up with something more interesting.",
+			"status": "voting",
+			"message_id": 659906681014321195,
+			"votes": {
+				"319753218592866315": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577404413
 		}
 	]
 }
