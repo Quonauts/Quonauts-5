@@ -517,3 +517,9 @@ Alt votes don't count for proposals 51 and 55 (the two that got alt-nuked)
 
 Proposal #51 but for real this time?
 
+<a name='72'/>
+
+## #72
+
+Delete this server
+
