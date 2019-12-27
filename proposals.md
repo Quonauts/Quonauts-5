@@ -463,3 +463,9 @@ create a new quantity with the name "Quoins" with the default settings, with the
 
 Quoins are effectively not really a currency. Giving another player your Quoin is more sacred and binding.
 
+<a name='63'/>
+
+## #63
+
+Gold bars can buy money for 100 people.
+
