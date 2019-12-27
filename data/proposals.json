@@ -803,7 +803,7 @@
 			"n": 52,
 			"author": 160279332454006795,
 			"content": "Replace the content of rule section \"End of the game\":\n> The game ends if the game is won. This applies retroactively.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 659679128903221282,
 			"votes": {
 				"160279332454006795": 1,
@@ -933,6 +933,7 @@
 			"status": "voting",
 			"message_id": 660118522059554858,
 			"votes": {
+				"160279332454006795": -1,
 				"427589146295664667": 1,
 				"556954927969075225": -1
 			},
@@ -945,6 +946,7 @@
 			"status": "voting",
 			"message_id": 660123198590943251,
 			"votes": {
+				"160279332454006795": -1,
 				"260525358217035776": 1,
 				"330678593904443393": 1,
 				"474286909636476939": 1
@@ -963,6 +965,19 @@
 				"474286909636476939": 1
 			},
 			"timestamp": 1577456104
+		},
+		{
+			"n": 63,
+			"author": 160279332454006795,
+			"content": "Gold bars can buy money for 100 people.",
+			"status": "voting",
+			"message_id": 660151146115235854,
+			"votes": {
+				"160279332454006795": 1,
+				"330678593904443393": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577462698
 		}
 	]
 }
