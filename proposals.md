@@ -446,3 +446,9 @@ If the player successfully defeats all of the monsters, they immediately gain r 
 
 People can buy gold bars for 100 money.
 
+<a name='61'/>
+
+## #61
+
+No proposal or rule may specifically reference any player.
+
