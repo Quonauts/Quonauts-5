@@ -493,3 +493,9 @@ The next nomic is to be called banananomic.
 
 But then it won't be proposed
 
+<a name='68'/>
+
+## #68
+
+<@!427589146295664667> is to be considered the same player as r̗Majestaz#8375, and is governed by the same rules as a player. This means that <@!427589146295664667>/r̗Majestaz#8375 cannot have 2 votes on a proposal, etc.
+
