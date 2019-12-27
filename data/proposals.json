@@ -839,7 +839,7 @@
 			"n": 54,
 			"author": 427589146295664667,
 			"content": "Append this to the rule section \"End of the game\":\n\n```\nIf not possible, start Quonauts 5.6, which is like Quonauts 2, completely manual.```",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659884083366592519,
 			"votes": {
 				"160279332454006795": -1,
@@ -859,6 +859,7 @@
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
+				"260525358217035776": -1,
 				"319753218592866315": -1,
 				"330678593904443393": -1,
 				"427589146295664667": 1,
@@ -889,6 +890,7 @@
 			"message_id": 659906681014321195,
 			"votes": {
 				"160279332454006795": 1,
+				"260525358217035776": 1,
 				"319753218592866315": -1,
 				"556954927969075225": -1
 			},
@@ -903,6 +905,7 @@
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": -1,
+				"260525358217035776": -1,
 				"271274710753476610": 1,
 				"319753218592866315": 1,
 				"364562317645709336": 1,
@@ -934,6 +937,31 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1577454919
+		},
+		{
+			"n": 61,
+			"author": 260525358217035776,
+			"content": "No proposal or rule may specifically reference any player.",
+			"status": "voting",
+			"message_id": 660123198590943251,
+			"votes": {
+				"260525358217035776": 1,
+				"330678593904443393": 1,
+				"474286909636476939": 1
+			},
+			"timestamp": 1577456034
+		},
+		{
+			"n": 62,
+			"author": 260525358217035776,
+			"content": "create a new quantity with the name \"Quoins\" with the default settings, with the following additions:\n- Players can trade and exchange Quoins\n- Players will all start with 1 Quoin after the passage of this proposal.\n- Any future proposals regarding players' ability to aquire additional Quoins must pass with a 2/3rds majority\n\nQuoins are effectively not really a currency. Giving another player your Quoin is more sacred and binding.",
+			"status": "voting",
+			"message_id": 660123490128494611,
+			"votes": {
+				"260525358217035776": 1,
+				"474286909636476939": 1
+			},
+			"timestamp": 1577456104
 		}
 	]
 }
