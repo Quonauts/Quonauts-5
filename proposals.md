@@ -339,7 +339,7 @@ Health potion, price 20: Roll a 100-sided die and add 100. Gain that much health
 
 <a name='48'/>
 
-## #48
+## #48 — Failed
 
 Add a new rule section: Companies
 >>> Any player can found a company by formal declaration, including a name for the company and optionally a list of owners (must include the founder) and rules how to determine responsibilities amongst multiple owners. Companies count as players for all purposes and have their own value in all quantities unless specified otherwise.
