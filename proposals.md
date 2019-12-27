@@ -440,3 +440,9 @@ To fight a monster, roll a 12-sided die. Name the result h. Roll a 6-sided die, 
 
 If the player successfully defeats all of the monsters, they immediately gain r money.
 
+<a name='60'/>
+
+## #60
+
+People can buy gold bars for 100 money.
+
