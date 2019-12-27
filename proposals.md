@@ -389,7 +389,7 @@ Append this to the rule section "End of the game":
 
 <a name='54'/>
 
-## #54
+## #54 — Failed
 
 Append this to the rule section "End of the game":
 
