@@ -326,7 +326,7 @@ If the player successfully defeats all of the monsters, they immediately gain r 
 
 <a name='47'/>
 
-## #47
+## #47 — Failed
 
 Add a new rule section after "Actions" titled "Purchasing" with the following content:
 
