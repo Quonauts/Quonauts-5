@@ -603,7 +603,7 @@
 			"n": 40,
 			"author": 260525358217035776,
 			"content": "create a new quantity with the name \"Quoins\" with the default settings, with the following additions:\n- Players can trade and exchange Quoins\n- Players will all start with 1 Quoin after the passage of this proposal.\n- Any future proposals regarding players' ability to aquire additional Quoins must pass with a 2/3rds majority\n\nQuoins are effectively not really a currency.  Giving another player your Quoin is more sacred and binding.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659091667198017536,
 			"votes": {
 				"160279332454006795": -1,
@@ -621,7 +621,7 @@
 			"n": 41,
 			"author": 260525358217035776,
 			"content": "Players can retroactively exchange Quoins if the giving and receiving players both consent",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 659092784380117032,
 			"votes": {
 				"160279332454006795": -1,
