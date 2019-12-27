@@ -505,3 +505,9 @@ But then it won't be proposed
 
 Quobot is to be considered a banana as well.
 
+<a name='70'/>
+
+## #70
+
+Alt votes don't count for proposals 51 and 55 (the two that got alt-nuked)
+
