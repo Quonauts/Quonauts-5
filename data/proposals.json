@@ -637,7 +637,7 @@
 			"n": 42,
 			"author": 236831708354314240,
 			"content": "Create a new quantity called Mana that initialises at 100 and resets every day at UTC+0",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659370960927064064,
 			"votes": {
 				"160279332454006795": -1,
@@ -686,7 +686,7 @@
 			"n": 45,
 			"author": 236831708354314240,
 			"content": "Give everyone that voted for this proposal 100 points.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659372656264478720,
 			"votes": {
 				"160279332454006795": -1,
@@ -704,7 +704,7 @@
 			"n": 46,
 			"author": 319753218592866315,
 			"content": "Add a new quantity named \"Health\" that is initialized to 200.\n\nAdd a new rule section after \"Actions\" titled \"Questing\" with the following content:\n\nAs a game action, a player with a positive health value may start a quest. To begin a quest, they roll a 10-sided die. Name the result of this roll m. Then, roll a 100-sided die, multiply by m and name it r. The quest now begins. m times, the player must fight a monster.\n\nTo fight a monster, roll a 12-sided die. Name the result h. Roll a 6-sided die, and subtract the result from h. Then, subtract h from the player's health. Repeat until h or the player's health is 0 or lower, or until the player gives up. If h was reduced to 0 or lower, the player fights another monster until all are defeated. If the player's health was reduced to 0 or lower, the quest ends.\n\nIf the player successfully defeats all of the monsters, they immediately gain r money.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659376488688254978,
 			"votes": {
 				"160279332454006795": -1,
@@ -718,7 +718,7 @@
 			"n": 47,
 			"author": 319753218592866315,
 			"content": "Add a new rule section after \"Actions\" titled \"Purchasing\" with the following content:\n\nAt any time, a player may purchase a ware. Each ware has a price and an effect. To purchase a ware, they first lose money equivalent to the price of the ware. Then, the effect of the ware takes effect.\n\nThe \"purchaser\" is the player buying the ware.\n\nThe list of wares is as such:\nHealth potion, price 20: Roll a 100-sided die and add 100. Gain that much health.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659377136129277963,
 			"votes": {
 				"160279332454006795": -1,
@@ -733,7 +733,7 @@
 			"n": 48,
 			"author": 330678593904443393,
 			"content": "Add a new rule section: Companies\n>>> Any player can found a company by formal declaration, including a name for the company and optionally a list of owners (must include the founder) and rules how to determine responsibilities amongst multiple owners. Companies count as players for all purposes and have their own value in all quantities unless specified otherwise.\n\nCompanies cannot gain or lose points and cannot win the game. Companies can submit proposals but not vote on them.\n\nA company needs to declare how following responsibilities are managed by its owners:\n- Representation: the right to perform actions in the name of the company, eg. make proposals\n- Administration: the right to modify the declaration of the company, including changing its name, adding new owners and dissolving the company\n- Finances: the right to trade with tradable company quantities (such as money)\n- Liability: The obligation to share strikes a company gets. Whenever the company gets a strike for whatever reason, at least one owner must also get a strike as result.\n\nThe player who founds a company will initially be its owner. If a company has a single owner, that player fully bears all responsibilities. If a company has multiple owners, the declaration MUST define how to determine to what extent each responsibility is applicable to the individual owners. Players can't be given (co-)ownership of a company against their will.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 659377256501608488,
 			"votes": {
 				"160279332454006795": -1,
@@ -910,6 +910,18 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1577405062
+		},
+		{
+			"n": 59,
+			"author": 427589146295664667,
+			"content": "(Reproposed from 46 because 2-2 vote)\n\nAdd a new quantity named \"Health\" that is initialized to 200.\n\nAdd a new rule section after \"Actions\" titled \"Questing\" with the following content:\n\nAs a game action, a player with a positive health value may start a quest. To begin a quest, they roll a 10-sided die. Name the result of this roll m. Then, roll a 100-sided die, multiply by m and name it r. The quest now begins. m times, the player must fight a monster.\n\nTo fight a monster, roll a 12-sided die. Name the result h. Roll a 6-sided die, and subtract the result from h. Then, subtract h from the player's health. Repeat until h or the player's health is 0 or lower, or until the player gives up. If h was reduced to 0 or lower, the player fights another monster until all are defeated. If the player's health was reduced to 0 or lower, the quest ends.\n\nIf the player successfully defeats all of the monsters, they immediately gain r money.",
+			"status": "voting",
+			"message_id": 660109690180468746,
+			"votes": {
+				"319753218592866315": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1577452814
 		}
 	]
 }
