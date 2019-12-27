@@ -487,3 +487,9 @@ Add rule 3+4i: banana
 
 The next nomic is to be called banananomic.
 
+<a name='67'/>
+
+## #67
+
+But then it won't be proposed
+
