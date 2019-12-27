@@ -418,3 +418,9 @@ Add all rules 7 and 7.x as they are right now to this game, as 11 and 11.x, unde
 
 remove all functionality and implementations of the quantity "Money".  It is bland and tasteless.  I think we can come up with something more interesting.
 
+<a name='58'/>
+
+## #58
+
+Deduct 1 point from cognaso every day they are inactive.
+
