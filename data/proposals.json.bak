@@ -3,58 +3,68 @@
 	"proposals": [
 		{
 			"n": 1,
+			"author": 556954927969075225,
 			"content": "The purpose of this proposal is to allow players to claim offices. It creates a new rule sub-section to describe the circumstances under which a player can assume an office.\n\nRemove from the Officials rules sub-section all clauses following the first clause, retaining all sub-sections.\n\nWithin the Officials rules sub-section and before all sub-sections contained within, create a new rule sub-section entitled \"Claiming an office\".\n\nTo the Claiming an office rule subsection, add the following five clauses:\n\n\"A player may claim any unclaimed office by announcing that they do so in the <#607965760006127616> channel.\"\n\n\"An official may not under any circumstance assume a second office.\"\n\n\"An official may not under any circumstance resign an office.\"\n\n\"An official may pass their office to another player only if the other player agrees to accept the office.\"\n\n\"A player may seize the office of an inactive official.\"",
 			"status": "failed",
-			"message_id": 660275813270421510,
+			"message_id": 660252941545898029,
 			"votes": {
 				"160279332454006795": -1,
+				"260525358217035776": -1,
 				"319753218592866315": -1,
 				"427589146295664667": -1,
 				"437904804732338177": 1,
-				"512645502253400064": 1
+				"512645502253400064": 1,
+				"556954927969075225": 1
 			},
 			"timestamp": 1576924051
 		},
 		{
 			"n": 2,
+			"author": 427589146295664667,
 			"content": "Add all rules 7.x from Quonauts 4.5 but as rules 13.x.",
 			"status": "deleted",
-			"message_id": 660275815778484224,
+			"message_id": 660252942334427139,
 			"votes": {
-				"160279332454006795": -1
+				"160279332454006795": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1576935625
 		},
 		{
 			"n": 3,
+			"author": 427589146295664667,
 			"content": "Revise proposal 2, exclude Rule 7.1 from Quonauts 4.5.",
 			"status": "deleted",
-			"message_id": 660275816466481180,
+			"message_id": 660252943462826002,
 			"votes": {
 				"160279332454006795": -1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1576936772
 		},
 		{
 			"n": 4,
+			"author": 160279332454006795,
 			"content": "Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkPfsaKG. (This is done because of the 1000 character limit on proposals.)",
 			"status": "failed",
-			"message_id": 660275817338765332,
+			"message_id": 660252944389636127,
 			"votes": {
 				"160279332454006795": 1,
 				"319753218592866315": 1,
 				"427589146295664667": 1,
 				"437904804732338177": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1576937690
 		},
 		{
 			"n": 5,
+			"author": 160279332454006795,
 			"content": "Replace the contents of rule 1.4.4 with the following:\n```\nIf a player (hereby \"the convicted player\") is convicted, then another player may conduct a majority poll (called a \"puninitive action poll\") to determine whether punitive action should be taken.\n\nPlayers should vote in favour of this poll if, and only if, they believe the convicted player violated the rules knowingly and with malicious intent.\n\nAny vote in such a poll cast by the convicted player is not counted.\n\nIf a punitive action poll passes, then the convicted player gains one strike.\n```",
 			"status": "passed",
-			"message_id": 660275818005659659,
+			"message_id": 660252945295736853,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
@@ -62,53 +72,63 @@
 				"330678593904443393": 1,
 				"427589146295664667": 1,
 				"437904804732338177": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1576938013
 		},
 		{
 			"n": 6,
+			"author": 427589146295664667,
 			"content": "pfhdjqpfpowbfmvnxbnwlspqhrotohkepqoirjdnncmxvzcxlshqgofpriqtfphlyrjiayehfisklsbthuhwofoubskjypsiqkvnxnzvshlalaihrlsaspgcjdnwhdiappfuxtwpptlykvjjdnwvayxiguiutjegwcuspcpaljdncnsbfsgifohpeojeksldlkcjcmsgrirpeiysucolglcknzwfsysiofuwytwoalakxnvndvayofotuegwgebmfncvzkslpqirjtjgmdmbwshcpgpfiwyalrkynevafigpjuwgwgtbymcloskkqdnvmbshwpodjhsnxkkspdijdjwhbckfkkd",
 			"status": "failed",
-			"message_id": 660275839392415769,
+			"message_id": 660252967139803171,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": -1,
+				"260525358217035776": -1,
 				"309787486278909952": -1,
 				"319753218592866315": -1,
 				"427589146295664667": 1,
 				"437904804732338177": 1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1576951930
 		},
 		{
 			"n": 7,
+			"author": 556954927969075225,
 			"content": "Add to the list within the glossary section the following definition:\n\n* **Roll an n-sided die**: Randomly generate an integer between 1 and a given value, inclusively, with an equal chance of each possible result.",
 			"status": "passed",
-			"message_id": 660275840671678477,
+			"message_id": 660252967890583572,
 			"votes": {
 				"236831708354314240": 1,
 				"258639553357676545": 1,
 				"309787486278909952": 1,
 				"437904804732338177": -1,
-				"512645502253400064": 1
+				"512645502253400064": 1,
+				"556954927969075225": 1
 			},
 			"timestamp": 1576960730
 		},
 		{
 			"n": 8,
+			"author": 260525358217035776,
 			"content": "A grumblebop is a unit of computational power.  Players may have any `x` amount of grumblebop(s), where `x` is an element of the natural numbers.  The first 1d6 a player rolls on passage of this rule will determine their amount of starting grumblebops.",
 			"status": "deleted",
-			"message_id": 660275841304887299,
-			"votes": {},
+			"message_id": 660252968771125269,
+			"votes": {
+				"260525358217035776": 1
+			},
 			"timestamp": 1577001879
 		},
 		{
 			"n": 9,
+			"author": 260525358217035776,
 			"content": "A grumblebop is a unit of computational power.  Upon passage of this rule all players will have 1 grumblebop. On any day a player's grumblebop amount can be said to be the result of the formula `floor(c*floor(x)+20*c*sin(\u03c0*floor(x)/14)+1)`\n where x is the number of days since the passage of this proposal, and c is their starting amount.  This is so c can be retroactively changed by future proposals.",
 			"status": "deleted",
-			"message_id": 660275842105999385,
+			"message_id": 660252969995993089,
 			"votes": {
 				"330678593904443393": -1
 			},
@@ -116,11 +136,13 @@
 		},
 		{
 			"n": 10,
+			"author": 260525358217035776,
 			"content": "A grumblebop is a unit of computational power.  It is a quantity.  Upon passage of this rule all players will have 1 grumblebop. On any day a player's grumblebop amount can be said to be the result of the formula floor(c*floor(x)+20*c*sin(\u03c0*floor(x)/14)+1)\n where x is the number of days since the passage of this proposal, and c is their starting amount.  This is so c can be retroactively changed by future proposals.",
 			"status": "deleted",
-			"message_id": 660275842567372848,
+			"message_id": 660252970717544459,
 			"votes": {
 				"258639553357676545": -1,
+				"260525358217035776": 1,
 				"319753218592866315": 1,
 				"330678593904443393": -1,
 				"427589146295664667": -1,
@@ -130,20 +152,25 @@
 		},
 		{
 			"n": 11,
+			"author": 260525358217035776,
 			"content": "A zerbo is either a parasitic species of alien meiofauna, or an unobservable variant of subatomic particle that breaks time symmetry, depending on the viewer.\u00a0 Exactly n2^x zerbos exist at any given time, where n is the number of zerbos since the number of zerbos was last altered by a player, and x is the number of whole 24 hour periods since that alteration.\u00a0 If a player owns any zerbos they are immediately removed from existence and n is set to the remaining number of zerbos, and x is set to 0. Upon the passage of this rule, n is set to 1 and x is set to 0.",
 			"status": "deleted",
-			"message_id": 660275866424836126,
-			"votes": {},
+			"message_id": 660252994167898122,
+			"votes": {
+				"260525358217035776": 1
+			},
 			"timestamp": 1577009207
 		},
 		{
 			"n": 12,
+			"author": 260525358217035776,
 			"content": "A zerbo is either a parasitic species of alien meiofauna, or an unobservable variant of subatomic particle that breaks time symmetry, depending on the viewer.\u00a0 Exactly n2^x zerbos exist at any given time, where n is the number of zerbos when the number of zerbos was last altered by a player, and x is the number of whole 24 hour periods since that alteration.\u00a0 If a player owns any zerbos they are immediately removed from existence and n is set to the remaining number of zerbos, and x is set to 0. Upon the passage of this rule, n is set to 1 and x is set to 0.",
 			"status": "failed",
-			"message_id": 660275867271823376,
+			"message_id": 660252995853877248,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
+				"260525358217035776": 1,
 				"309787486278909952": -1,
 				"319753218592866315": -1,
 				"330678593904443393": -1,
@@ -154,104 +181,126 @@
 		},
 		{
 			"n": 13,
+			"author": 319753218592866315,
 			"content": "Create a new quantity with default settings titled \"Money\".",
 			"status": "passed",
-			"message_id": 660275868429451284,
+			"message_id": 660252996416045094,
 			"votes": {
 				"258639553357676545": 1,
+				"260525358217035776": 1,
 				"309787486278909952": 1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
-				"512645502253400064": 1
+				"512645502253400064": 1,
+				"556954927969075225": 1
 			},
 			"timestamp": 1577017182
 		},
 		{
 			"n": 14,
+			"author": 427589146295664667,
 			"content": "Gollark holds no offices ever.",
 			"status": "failed",
-			"message_id": 660275869125836800,
+			"message_id": 660252997519147038,
 			"votes": {
 				"160279332454006795": 1,
 				"258639553357676545": -1,
+				"260525358217035776": -1,
 				"319753218592866315": -1,
 				"330678593904443393": -1,
 				"427589146295664667": 1,
 				"437904804732338177": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577018138
 		},
 		{
 			"n": 15,
+			"author": 258639553357676545,
 			"content": "Eliminate section 9 (space exploration) rules",
 			"status": "passed",
-			"message_id": 660275869784473640,
+			"message_id": 660252997854560284,
 			"votes": {
 				"160279332454006795": 1,
 				"258639553357676545": 1,
+				"260525358217035776": 1,
 				"309787486278909952": 1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
 				"427589146295664667": 1,
 				"437904804732338177": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577018273
 		},
 		{
 			"n": 16,
+			"author": 330678593904443393,
 			"content": "Create a new quantity called \"Communist Party Membership\". This can be 0 (no member) or 1 (member of the Communist Party).\n\nAdd a rule section:\n5.1 Communist Party Membership\nAny active player may at any time join or leave the Communist Party (ie. set his Communist Party Membership quantity to 1 or 0), by a message in <#607965760006127616> . This may only be done once per day, ie. a player may not join and leave it on the same day.",
 			"status": "failed",
-			"message_id": 660275891435208711,
+			"message_id": 660253019556020255,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
 				"258639553357676545": -1,
-				"437904804732338177": 1
+				"260525358217035776": -1,
+				"437904804732338177": 1,
+				"556954927969075225": 1
 			},
 			"timestamp": 1577018788
 		},
 		{
 			"n": 17,
+			"author": 260525358217035776,
 			"content": "Create a new quantity called \"Glorp Allegiance\". This can be 0 (no member) or 1 (member of the Glorp Allegiance).\n\nAdd a rule section:\n5.2 Glorp Allegiance\nAny active player may at any time join or leave the Glorp Allegiance (ie. set his Glorp Allegiance quantity to 1 or 0), by a message in <#607965760006127616> . This may only be done once per day, ie. a player may not join and leave it on the same day.  A player may not be in the Glorp Allegiance and Communist party at the same time.",
 			"status": "failed",
-			"message_id": 660275892328726558,
+			"message_id": 660253020293955600,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
 				"258639553357676545": -1,
-				"437904804732338177": 1
+				"260525358217035776": 1,
+				"437904804732338177": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577019121
 		},
 		{
 			"n": 18,
+			"author": 330678593904443393,
 			"content": "Rename rule section 5 to \"Properties\". Change the text to:\n```\nA property is a named variable with a value for each player.\n\nThere are two standard types of properties: quantities and strings.\n\nA quantity property:\n\u2022 is instatiated at zero,\n\u2022 must always be an integer,\n\u2022 must never have a negative value,\n\u2022 cannot be traded or exchanged.\n\nA string property:\n\u2022 is instantiated at the empty string \"\",\n\u2022 must always have a string value.\n\nThe following quantities exist within the game:\n\n\u2022 Point (quantity)\n\u2022 Action (quantity)\n\u2022 Strike (quantity)\n\u2022 Money (quantity)\n```",
 			"status": "deleted",
-			"message_id": 660275892882243625,
+			"message_id": 660253021355245580,
 			"votes": {
 				"258639553357676545": 1,
-				"330678593904443393": 1
+				"260525358217035776": 1,
+				"330678593904443393": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577019855
 		},
 		{
 			"n": 19,
+			"author": 260525358217035776,
 			"content": "Add a rule section:\n6.0 Economy",
 			"status": "deleted",
-			"message_id": 660275893523972107,
+			"message_id": 660253022395564087,
 			"votes": {
+				"260525358217035776": 1,
 				"330678593904443393": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577019945
 		},
 		{
 			"n": 20,
+			"author": 330678593904443393,
 			"content": "(Ignore this proposal if proposal #18 did not pass)\nAdd a new string property \"Party Membership\".\nRemove the additions by proposals #16 and #17 (in case they passed) and add a new subsection:\n```\n5.1 Party Membership\nThe Party Membership property may only have the value of the name of an existing party, or the empty string (for no party membership).\n\nAny active player may at any time join or leave a party (ie. set their Party Membership property to an existing party or to the empty string) by a message in <#607965760006127616>. Each player may only do this once per day.\n\nThe following parties exist within the game:\n\u2022 Communist Party\n\u2022 Glorp Party\n```",
 			"status": "deleted",
-			"message_id": 660275894467821578,
+			"message_id": 660253023813238797,
 			"votes": {
 				"258639553357676545": 1,
 				"330678593904443393": 1
@@ -260,26 +309,30 @@
 		},
 		{
 			"n": 21,
+			"author": 160279332454006795,
 			"content": "Remove the \"Officials\" rule and all rules which depend on it.",
 			"status": "passed",
-			"message_id": 660275916164825156,
+			"message_id": 660253045615230976,
 			"votes": {
 				"160279332454006795": 1,
 				"258639553357676545": 1,
+				"260525358217035776": 1,
 				"309787486278909952": 1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
 				"427589146295664667": 1,
 				"437904804732338177": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577023454
 		},
 		{
 			"n": 22,
+			"author": 427589146295664667,
 			"content": "Vote against this proposal",
 			"status": "passed",
-			"message_id": 660275916890439709,
+			"message_id": 660253046261022772,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
@@ -296,9 +349,10 @@
 		},
 		{
 			"n": 23,
+			"author": 236831708354314240,
 			"content": "This proposal is false.",
 			"status": "deleted",
-			"message_id": 660275917805060116,
+			"message_id": 660253047452336133,
 			"votes": {
 				"319753218592866315": -1
 			},
@@ -306,22 +360,26 @@
 		},
 		{
 			"n": 24,
+			"author": 236831708354314240,
 			"content": "Add the following to the ruleset:\n13. Duels\n\nA duel has two parts: the ruleset and the consequences. Both the ruleset and the consequences are agreed upon by the parties participating in the duel and cannot be changed once the duel starts. The ruleset is the rules of the game the participants will be playing. The ruleset must feature a way for at least one party to win and for a way for the game to end. The rules cannot override any existing quonauts rules. The consequences are the things that the participants are forced to do after the duel has ended and the winners are decided. They, too, cannot override any existing quonauts rules. If any of these requirements are broken the duel is simply annuled.",
 			"status": "deleted",
-			"message_id": 660275918840922122,
+			"message_id": 660253049289310236,
 			"votes": {
-				"236831708354314240": 1
+				"236831708354314240": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577186205
 		},
 		{
 			"n": 25,
+			"author": 319753218592866315,
 			"content": "Add a new rule section after \"Polls\" titled \"Binding agreements\", with the following content:\n\nOne or more players may at any time create a binding agreement. It must be clear to all players, involved or uninvolved, that such an agreement is being made, and an agreement cannot be made without the support of all involved players  A binding agreement has terms, which can govern any in-game actions (including sending messages) that the involved parties may take. The terms may make use of conditions based on exact times, certain actions, or any other criteria. At no point can the terms of a binding agreement be broken by a member of the agreement, and if such an event occurs, it should be handled like any violation of the rules.",
 			"status": "passed",
-			"message_id": 660275919386312744,
+			"message_id": 660253049998016514,
 			"votes": {
 				"236831708354314240": 1,
 				"258639553357676545": 1,
+				"260525358217035776": -1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
 				"427589146295664667": -1,
@@ -331,19 +389,22 @@
 		},
 		{
 			"n": 26,
+			"author": 319753218592866315,
 			"content": "All players get 100 money with which to trade with before better ways to attain money are added to the rules.",
 			"status": "deleted",
-			"message_id": 660275942144344075,
+			"message_id": 660253067924471818,
 			"votes": {},
 			"timestamp": 1577187585
 		},
 		{
 			"n": 27,
+			"author": 260525358217035776,
 			"content": "Add a new rule section 13 titled \"Gamma rays and the spacetime after the boom\"\n\nAdd a new rule section 13.1 titled \"Lore: tales from grandma\"\n\nAdd a new rule section 13.2 titled \"Beyond The Wall: venturing into the wasteland\"\n\nAdd a new rule section 13.3 titled \"Cracks in the concrete: The Wall\"\n\nAdd a new rule section 13.4 titled \"Quiet streets behind The Wall: Mutations and declining birth rates\"",
 			"status": "failed",
-			"message_id": 660275943314817069,
+			"message_id": 660253068788498432,
 			"votes": {
 				"258639553357676545": -1,
+				"260525358217035776": 1,
 				"427589146295664667": -1,
 				"474286909636476939": -1
 			},
@@ -351,36 +412,44 @@
 		},
 		{
 			"n": 28,
+			"author": 427589146295664667,
 			"content": "Replace the contents of rule 1.4.2 with the text in https://pastebin.com/raw/PkPfsaKG. (This is done because of the 1000 character limit on proposals.) (Reproposed because the voting was a tie, 3 to 3.)",
 			"status": "failed",
-			"message_id": 660275944908390400,
+			"message_id": 660253069539278848,
 			"votes": {
 				"258639553357676545": -1,
+				"260525358217035776": -1,
 				"427589146295664667": 1,
-				"512645502253400064": 1
+				"512645502253400064": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577194856
 		},
 		{
 			"n": 29,
+			"author": 330678593904443393,
 			"content": "Merry Christmas/Holidays, peeps!",
 			"status": "failed",
-			"message_id": 660275946347036682,
+			"message_id": 660253070537654290,
 			"votes": {
 				"236831708354314240": -1,
 				"258639553357676545": -1,
+				"260525358217035776": -1,
 				"330678593904443393": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577199986
 		},
 		{
 			"n": 30,
+			"author": 427589146295664667,
 			"content": "But it's only December 24",
 			"status": "failed",
-			"message_id": 660275947068719115,
+			"message_id": 660253073096179762,
 			"votes": {
 				"236831708354314240": 1,
+				"260525358217035776": -1,
 				"474286909636476939": -1,
 				"512645502253400064": -1
 			},
@@ -388,13 +457,15 @@
 		},
 		{
 			"n": 31,
+			"author": 330678593904443393,
 			"content": "Add a paragraph at the end of section 8. Proposals:\n```\nUsing proposals for jokes or not game related things is a rule violation.\n```",
 			"status": "failed",
-			"message_id": 660275966006001664,
+			"message_id": 660253094755434517,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
 				"258639553357676545": -1,
+				"260525358217035776": -1,
 				"330678593904443393": -1,
 				"427589146295664667": -1,
 				"474286909636476939": -1,
@@ -404,9 +475,10 @@
 		},
 		{
 			"n": 32,
+			"author": 236831708354314240,
 			"content": "Change the content of rule \"7.1. Proposal content\" from:\n```A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n```\nto:\n```\nA proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.\n```",
 			"status": "failed",
-			"message_id": 660275967020892181,
+			"message_id": 660253095611072512,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": 1,
@@ -414,89 +486,102 @@
 				"319753218592866315": 1,
 				"427589146295664667": -1,
 				"474286909636476939": -1,
-				"512645502253400064": 1
+				"512645502253400064": 1,
+				"556954927969075225": 1
 			},
 			"timestamp": 1577204646
 		},
 		{
 			"n": 33,
+			"author": 236831708354314240,
 			"content": "Declare this proposal as failed.",
 			"status": "passed",
-			"message_id": 660275970800091171,
+			"message_id": 660253096332623882,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
 				"258639553357676545": 1,
 				"427589146295664667": 1,
 				"474286909636476939": 1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577205065
 		},
 		{
 			"n": 34,
+			"author": 427589146295664667,
 			"content": "Fail proposal 35",
 			"status": "passed",
-			"message_id": 660275972179886081,
+			"message_id": 660253096798060588,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
 				"258639553357676545": 1,
 				"427589146295664667": 1,
 				"474286909636476939": 1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577205173
 		},
 		{
 			"n": 35,
+			"author": 427589146295664667,
 			"content": "Fail proposal 34",
 			"status": "failed",
-			"message_id": 660275972754505753,
+			"message_id": 660253097578463243,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
 				"258639553357676545": 1,
 				"427589146295664667": 1,
 				"474286909636476939": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577205181
 		},
 		{
 			"n": 36,
+			"author": 512645502253400064,
 			"content": "This Proposal grants the Player \"Owain\" a win to honor his fast action thus ending this round and resetting all quantities",
 			"status": "failed",
-			"message_id": 660275990504800265,
+			"message_id": 660253119506284544,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577205333
 		},
 		{
 			"n": 37,
+			"author": 236831708354314240,
 			"content": "Add a rule \"5.1 Money\" with the text:\n```\n5.1 Money\n\nMoney is like any other quantity but with the following exceptions:\n\u2022 It is instantiated at 100 \n\u2022 It can be traded/exchanged between players (with the agreement of both the giving and the receiving player)\n```\n\nAlong with that, reset every player's Money to 100 (as of now every player has 0 Money)",
 			"status": "failed",
-			"message_id": 660275991456776252,
+			"message_id": 660253120298876928,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
 				"319753218592866315": 1,
 				"427589146295664667": -1,
-				"474286909636476939": -1
+				"474286909636476939": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577205898
 		},
 		{
 			"n": 38,
+			"author": 260525358217035776,
 			"content": "remove all functionality and implementations of the quantity \"Money\".  It is bland and tasteless.  I think we can come up with something more interesting.",
 			"status": "failed",
-			"message_id": 660275992136384535,
+			"message_id": 660253121070497812,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
+				"260525358217035776": 1,
 				"319753218592866315": -1,
 				"330678593904443393": -1,
 				"427589146295664667": 1,
@@ -507,20 +592,23 @@
 		},
 		{
 			"n": 39,
+			"author": 260525358217035776,
 			"content": "create a new quantity with the name \"QCoins\" with the default settings, with the following additions:\n- Players can trade and exchange QCoins\n- Players will all start with 1 QCoin after the passage of this proposal.\n- Any future proposals regarding players' ability to aquire additional QCoins must pass with a 2/3rds majority\n\nQCoins are effectively not really a currency.  Giving another player your QCoin is more sacred and binding.",
 			"status": "deleted",
-			"message_id": 660275992832770104,
+			"message_id": 660253121879998486,
 			"votes": {},
 			"timestamp": 1577210002
 		},
 		{
 			"n": 40,
+			"author": 260525358217035776,
 			"content": "create a new quantity with the name \"Quoins\" with the default settings, with the following additions:\n- Players can trade and exchange Quoins\n- Players will all start with 1 Quoin after the passage of this proposal.\n- Any future proposals regarding players' ability to aquire additional Quoins must pass with a 2/3rds majority\n\nQuoins are effectively not really a currency.  Giving another player your Quoin is more sacred and binding.",
 			"status": "failed",
-			"message_id": 660275993612910595,
+			"message_id": 660253123084025865,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
+				"260525358217035776": 1,
 				"271274710753476610": 1,
 				"319753218592866315": 1,
 				"330678593904443393": -1,
@@ -531,12 +619,14 @@
 		},
 		{
 			"n": 41,
+			"author": 260525358217035776,
 			"content": "Players can retroactively exchange Quoins if the giving and receiving players both consent",
 			"status": "passed",
-			"message_id": 660276015351726116,
+			"message_id": 660253144969773056,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": 1,
+				"260525358217035776": 1,
 				"271274710753476610": 1,
 				"319753218592866315": 1,
 				"474286909636476939": 1
@@ -545,40 +635,47 @@
 		},
 		{
 			"n": 42,
+			"author": 236831708354314240,
 			"content": "Create a new quantity called Mana that initialises at 100 and resets every day at UTC+0",
 			"status": "failed",
-			"message_id": 660276016211689482,
+			"message_id": 660253145649381377,
 			"votes": {
 				"160279332454006795": -1,
+				"260525358217035776": -1,
 				"271274710753476610": 1,
 				"319753218592866315": -1,
 				"330678593904443393": -1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577276687
 		},
 		{
 			"n": 43,
+			"author": 319753218592866315,
 			"content": "Give Owain, xp2_882030kgz010602, Mask, umnikos and gollark 1000 money and fail proposal 38.",
 			"status": "failed",
-			"message_id": 660276017184768010,
+			"message_id": 660253146337116170,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
+				"260525358217035776": -1,
 				"271274710753476610": -1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
 				"427589146295664667": -1,
 				"474286909636476939": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577276854
 		},
 		{
 			"n": 44,
+			"author": 236831708354314240,
 			"content": "Give everyone 100 points.",
 			"status": "deleted",
-			"message_id": 660276018120228874,
+			"message_id": 660253147029307412,
 			"votes": {
 				"236831708354314240": 1,
 				"319753218592866315": -1
@@ -587,9 +684,10 @@
 		},
 		{
 			"n": 45,
+			"author": 236831708354314240,
 			"content": "Give everyone that voted for this proposal 100 points.",
 			"status": "failed",
-			"message_id": 660276018791317534,
+			"message_id": 660253147905654803,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": 1,
@@ -597,118 +695,138 @@
 				"319753218592866315": -1,
 				"330678593904443393": 1,
 				"474286909636476939": -1,
-				"512645502253400064": -1
+				"512645502253400064": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577277091
 		},
 		{
 			"n": 46,
+			"author": 319753218592866315,
 			"content": "Add a new quantity named \"Health\" that is initialized to 200.\n\nAdd a new rule section after \"Actions\" titled \"Questing\" with the following content:\n\nAs a game action, a player with a positive health value may start a quest. To begin a quest, they roll a 10-sided die. Name the result of this roll m. Then, roll a 100-sided die, multiply by m and name it r. The quest now begins. m times, the player must fight a monster.\n\nTo fight a monster, roll a 12-sided die. Name the result h. Roll a 6-sided die, and subtract the result from h. Then, subtract h from the player's health. Repeat until h or the player's health is 0 or lower, or until the player gives up. If h was reduced to 0 or lower, the player fights another monster until all are defeated. If the player's health was reduced to 0 or lower, the quest ends.\n\nIf the player successfully defeats all of the monsters, they immediately gain r money.",
 			"status": "failed",
-			"message_id": 660276040220016662,
+			"message_id": 660253169649188907,
 			"votes": {
 				"160279332454006795": -1,
 				"271274710753476610": 1,
-				"319753218592866315": 1
+				"319753218592866315": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577278005
 		},
 		{
 			"n": 47,
+			"author": 319753218592866315,
 			"content": "Add a new rule section after \"Actions\" titled \"Purchasing\" with the following content:\n\nAt any time, a player may purchase a ware. Each ware has a price and an effect. To purchase a ware, they first lose money equivalent to the price of the ware. Then, the effect of the ware takes effect.\n\nThe \"purchaser\" is the player buying the ware.\n\nThe list of wares is as such:\nHealth potion, price 20: Roll a 100-sided die and add 100. Gain that much health.",
 			"status": "failed",
-			"message_id": 660276041285369886,
+			"message_id": 660253170873663503,
 			"votes": {
 				"160279332454006795": -1,
 				"271274710753476610": 1,
 				"319753218592866315": 1,
-				"474286909636476939": -1
+				"474286909636476939": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577278159
 		},
 		{
 			"n": 48,
+			"author": 330678593904443393,
 			"content": "Add a new rule section: Companies\n>>> Any player can found a company by formal declaration, including a name for the company and optionally a list of owners (must include the founder) and rules how to determine responsibilities amongst multiple owners. Companies count as players for all purposes and have their own value in all quantities unless specified otherwise.\n\nCompanies cannot gain or lose points and cannot win the game. Companies can submit proposals but not vote on them.\n\nA company needs to declare how following responsibilities are managed by its owners:\n- Representation: the right to perform actions in the name of the company, eg. make proposals\n- Administration: the right to modify the declaration of the company, including changing its name, adding new owners and dissolving the company\n- Finances: the right to trade with tradable company quantities (such as money)\n- Liability: The obligation to share strikes a company gets. Whenever the company gets a strike for whatever reason, at least one owner must also get a strike as result.\n\nThe player who founds a company will initially be its owner. If a company has a single owner, that player fully bears all responsibilities. If a company has multiple owners, the declaration MUST define how to determine to what extent each responsibility is applicable to the individual owners. Players can't be given (co-)ownership of a company against their will.",
 			"status": "failed",
-			"message_id": 660276043529060362,
+			"message_id": 660253171427311618,
 			"votes": {
 				"160279332454006795": -1,
+				"260525358217035776": -1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
-				"474286909636476939": -1
+				"474286909636476939": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577278188
 		},
 		{
 			"n": 49,
+			"author": 160279332454006795,
 			"content": "Add a new rule section: Owain\n> All proposals created by the user @Owain may be immediately failed by anyone at any time.",
 			"status": "voting",
-			"message_id": 660276044640813067,
+			"message_id": 660253172232749087,
 			"votes": {
 				"160279332454006795": 1,
 				"258639553357676545": -1,
+				"260525358217035776": 1,
 				"271274710753476610": -1,
 				"319753218592866315": 1,
 				"330678593904443393": -1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577347993
 		},
 		{
 			"n": 50,
+			"author": 160279332454006795,
 			"content": "Remove rule 1.4.2",
 			"status": "voting",
-			"message_id": 660276045080952839,
+			"message_id": 660253172765556770,
 			"votes": {
 				"160279332454006795": 1,
 				"271274710753476610": 1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577348199
 		},
 		{
 			"n": 51,
+			"author": 330678593904443393,
 			"content": "Sinthorion immediately wins the game",
 			"status": "voting",
-			"message_id": 660276067092922419,
+			"message_id": 660253195330650124,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
 				"258639553357676545": 1,
+				"260525358217035776": -1,
 				"271274710753476610": -1,
 				"309787486278909952": 1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
 				"427589146295664667": -1,
 				"474286909636476939": 1,
+				"556954927969075225": 1,
 				"589471435257544706": -1
 			},
 			"timestamp": 1577349819
 		},
 		{
 			"n": 52,
+			"author": 160279332454006795,
 			"content": "Replace the content of rule section \"End of the game\":\n> The game ends if the game is won. This applies retroactively.",
 			"status": "passed",
-			"message_id": 660276068053155841,
+			"message_id": 660253196463374387,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
 				"258639553357676545": 1,
+				"260525358217035776": -1,
 				"271274710753476610": 1,
 				"309787486278909952": 1,
 				"319753218592866315": 1,
 				"330678593904443393": 1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"556954927969075225": 1
 			},
 			"timestamp": 1577350160
 		},
 		{
 			"n": 53,
+			"author": 330678593904443393,
 			"content": "Append this to the rule section \"End of the game\":\n> After the game ends, Quoronauts 6 will begin immediately",
 			"status": "voting",
-			"message_id": 660276069022171137,
+			"message_id": 660253197574733853,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
@@ -716,84 +834,99 @@
 				"271274710753476610": 1,
 				"319753218592866315": -1,
 				"330678593904443393": 1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577398895
 		},
 		{
 			"n": 54,
+			"author": 427589146295664667,
 			"content": "Append this to the rule section \"End of the game\":\n\n```\nIf not possible, start Quonauts 5.6, which is like Quonauts 2, completely manual.```",
 			"status": "failed",
-			"message_id": 660276069915426832,
+			"message_id": 660253198262730772,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
 				"319753218592866315": -1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577399025
 		},
 		{
 			"n": 55,
+			"author": 427589146295664667,
 			"content": "Change Rule 11 to:\n```\nThe End is a dimension consisting of an island made of end stone, 12 obsidian towers with end crystals, one bedrock fountain, and one dragon.```",
 			"status": "voting",
-			"message_id": 660276070481920039,
+			"message_id": 660253198686224386,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
 				"258639553357676545": 1,
+				"260525358217035776": -1,
 				"319753218592866315": -1,
 				"330678593904443393": -1,
 				"427589146295664667": 1,
+				"556954927969075225": -1,
 				"589471435257544706": 1
 			},
 			"timestamp": 1577403240
 		},
 		{
 			"n": 56,
+			"author": 427589146295664667,
 			"content": "Add all rules 7 and 7.x as they are right now to this game, as 11 and 11.x, under the section \"Sectors\". In addition, create #sector_board to track sector generation and stuff, and <#659609891626811422> so people can post their actions with their characters.",
 			"status": "failed",
-			"message_id": 660276092162277391,
+			"message_id": 660253220379295830,
 			"votes": {
 				"160279332454006795": -1,
 				"319753218592866315": -1,
 				"330678593904443393": -1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577403683
 		},
 		{
 			"n": 57,
+			"author": 427589146295664667,
 			"content": "(Reproposed from 38 because it was failed with a 4-4 vote. Original content shown below.)\n\nremove all functionality and implementations of the quantity \"Money\".  It is bland and tasteless.  I think we can come up with something more interesting.",
 			"status": "voting",
-			"message_id": 660276093151870990,
+			"message_id": 660253221398380554,
 			"votes": {
 				"160279332454006795": 1,
-				"319753218592866315": -1
+				"260525358217035776": 1,
+				"319753218592866315": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577404413
 		},
 		{
 			"n": 58,
+			"author": 364562317645709336,
 			"content": "Deduct 1 point from cognaso every day they are inactive.",
 			"status": "voting",
-			"message_id": 660276093940531231,
+			"message_id": 660253222350618624,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": -1,
 				"258639553357676545": -1,
+				"260525358217035776": -1,
 				"271274710753476610": 1,
 				"319753218592866315": 1,
 				"364562317645709336": 1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577405062
 		},
 		{
 			"n": 59,
+			"author": 427589146295664667,
 			"content": "(Reproposed from 46 because 2-2 vote)\n\nAdd a new quantity named \"Health\" that is initialized to 200.\n\nAdd a new rule section after \"Actions\" titled \"Questing\" with the following content:\n\nAs a game action, a player with a positive health value may start a quest. To begin a quest, they roll a 10-sided die. Name the result of this roll m. Then, roll a 100-sided die, multiply by m and name it r. The quest now begins. m times, the player must fight a monster.\n\nTo fight a monster, roll a 12-sided die. Name the result h. Roll a 6-sided die, and subtract the result from h. Then, subtract h from the player's health. Repeat until h or the player's health is 0 or lower, or until the player gives up. If h was reduced to 0 or lower, the player fights another monster until all are defeated. If the player's health was reduced to 0 or lower, the quest ends.\n\nIf the player successfully defeats all of the monsters, they immediately gain r money.",
 			"status": "voting",
-			"message_id": 660276095102484495,
+			"message_id": 660253222895616032,
 			"votes": {
 				"319753218592866315": 1,
 				"427589146295664667": 1
@@ -802,26 +935,30 @@
 		},
 		{
 			"n": 60,
+			"author": 427589146295664667,
 			"content": "People can buy gold bars for 100 money.",
 			"status": "voting",
-			"message_id": 660276095639355423,
+			"message_id": 660253224170684426,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
 				"258639553357676545": -1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1577454919
 		},
 		{
 			"n": 61,
+			"author": 260525358217035776,
 			"content": "No proposal or rule may specifically reference any player.",
 			"status": "voting",
-			"message_id": 660276117629829120,
+			"message_id": 660253246245568553,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": -1,
 				"258639553357676545": 1,
+				"260525358217035776": 1,
 				"330678593904443393": 1,
 				"474286909636476939": 1
 			},
@@ -829,10 +966,12 @@
 		},
 		{
 			"n": 62,
+			"author": 260525358217035776,
 			"content": "create a new quantity with the name \"Quoins\" with the default settings, with the following additions:\n- Players can trade and exchange Quoins\n- Players will all start with 1 Quoin after the passage of this proposal.\n- Any future proposals regarding players' ability to aquire additional Quoins must pass with a 2/3rds majority\n\nQuoins are effectively not really a currency. Giving another player your Quoin is more sacred and binding.",
 			"status": "voting",
-			"message_id": 660276118401581070,
+			"message_id": 660253247059001345,
 			"votes": {
+				"260525358217035776": 1,
 				"427589146295664667": 1,
 				"474286909636476939": 1
 			},
@@ -840,9 +979,10 @@
 		},
 		{
 			"n": 63,
+			"author": 160279332454006795,
 			"content": "Gold bars can buy money for 100 people.",
 			"status": "voting",
-			"message_id": 660276119106486282,
+			"message_id": 660253248070090813,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
@@ -855,13 +995,15 @@
 		},
 		{
 			"n": 64,
+			"author": 160279332454006795,
 			"content": "Owain is to be considered a banana.",
 			"status": "voting",
-			"message_id": 660276138794287134,
+			"message_id": 660253248833454080,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
 				"258639553357676545": 1,
+				"260525358217035776": 1,
 				"427589146295664667": 1,
 				"474286909636476939": -1
 			},
@@ -869,9 +1011,10 @@
 		},
 		{
 			"n": 65,
+			"author": 427589146295664667,
 			"content": "Add rule 3+4i: banana",
 			"status": "voting",
-			"message_id": 660276139511513107,
+			"message_id": 660253249558806538,
 			"votes": {
 				"160279332454006795": 1,
 				"236831708354314240": 1,
@@ -882,12 +1025,14 @@
 		},
 		{
 			"n": 66,
+			"author": 427589146295664667,
 			"content": "The next nomic is to be called banananomic.",
 			"status": "voting",
-			"message_id": 660276140216287253,
+			"message_id": 660253271491084327,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": 1,
+				"260525358217035776": -1,
 				"427589146295664667": 1,
 				"474286909636476939": -1
 			},
@@ -895,12 +1040,14 @@
 		},
 		{
 			"n": 67,
+			"author": 427589146295664667,
 			"content": "But then it won't be proposed",
 			"status": "voting",
-			"message_id": 660276141197754398,
+			"message_id": 660253272946245692,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": 1,
+				"260525358217035776": -1,
 				"427589146295664667": 1,
 				"474286909636476939": -1
 			},
@@ -908,9 +1055,10 @@
 		},
 		{
 			"n": 68,
+			"author": 160279332454006795,
 			"content": "<@!427589146295664667> is to be considered the same player as r\u0317Majestaz#8375, and is governed by the same rules as a player. This means that <@!427589146295664667>/r\u0317Majestaz#8375 cannot have 2 votes on a proposal, etc.",
 			"status": "voting",
-			"message_id": 660276142334279680,
+			"message_id": 660253273613271141,
 			"votes": {
 				"160279332454006795": 1,
 				"427589146295664667": 1,
@@ -920,16 +1068,29 @@
 		},
 		{
 			"n": 69,
+			"author": 427589146295664667,
 			"content": "Quobot is to be considered a banana as well.",
 			"status": "voting",
-			"message_id": 660276163976888331,
+			"message_id": 660253274380697625,
 			"votes": {
 				"160279332454006795": -1,
 				"236831708354314240": 1,
+				"260525358217035776": -1,
 				"427589146295664667": 1,
 				"474286909636476939": -1
 			},
 			"timestamp": 1577464736
+		},
+		{
+			"n": 70,
+			"author": 427589146295664667,
+			"content": "Alt votes don't count for proposals 51 and 55 (the two that got alt-nuked)",
+			"status": "voting",
+			"message_id": 660253930583883800,
+			"votes": {
+				"427589146295664667": 1
+			},
+			"timestamp": 1577487203
 		}
 	]
 }

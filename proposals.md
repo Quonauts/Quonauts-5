@@ -511,15 +511,3 @@ Quobot is to be considered a banana as well.
 
 Alt votes don't count for proposals 51 and 55 (the two that got alt-nuked)
 
-<a name='71'/>
-
-## #71
-
-Proposal #51 but for real this time?
-
-<a name='72'/>
-
-## #72
-
-Delete this server
-
